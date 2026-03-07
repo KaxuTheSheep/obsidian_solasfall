@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Weapon Traits.md",
+                "file": "Core Rules/Combat/Off-Hand & Dual-Wielding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weapon Traits"
+              "title": "Off-Hand & Dual-Wielding"
             }
           }
         ]
@@ -183,16 +183,16 @@
   },
   "active": "ec84c3203316f445",
   "lastOpenFiles": [
+    "Equipment/Shields.md",
+    "Equipment/Equipment.md",
+    "Equipment/Weapon Traits.md",
     "Equipment/Weapons.md",
     "Core Rules/Health & Harm/Damage Types.md",
-    "Equipment/Shields.md",
-    "Equipment/Weapon Traits.md",
     "Core Rules/Combat/Off-Hand & Dual-Wielding.md",
     "Core Rules/Combat/Heavy Attack.md",
     "Core Rules/Combat/Defence/Block.md",
     "Core Rules/Combat/Defence/Parry.md",
     "Equipment/Armour.md",
-    "Equipment/Equipment.md",
     "Core Rules/Health & Harm/Afflictions.md",
     "Core Rules/Health & Harm/Rest & Recovery.md",
     "Core Rules/Health & Harm/Sanity.md",

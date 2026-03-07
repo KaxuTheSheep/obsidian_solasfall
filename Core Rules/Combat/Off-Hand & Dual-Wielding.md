@@ -19,3 +19,12 @@ _(This stacks with Guarded and other modifiers.)_
 #### Restrictions
 - The off-hand weapon must be **Light**.
 - Only **one** Off-Hand Strike per **Round**, regardless of how many Attacks you take.
+
+#### Buckler Compatibility
+Bucklers can be strapped to the forearm, allowing use alongside Two-Handed, Versatile, and Dual Wield loadouts without penalty to either the Buckler or the weapon.
+
+#### Action Fatigue
+Off-Hand Strikes do not trigger or accumulate Action Fatigue independently. They share the fatigue of the main hand attack and are not tracked separately.
+
+#### Versatile Weapons
+A Versatile weapon wielded alongside an off-hand weapon is considered One-Handed and does not gain the damage die step. Both hands must be free to grip the weapon for the Two-Handed bonus to apply.

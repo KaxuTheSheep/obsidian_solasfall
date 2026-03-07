@@ -28,10 +28,6 @@ You can close a wound by:
 
 ### Wounds Reopening
 When a character’s Blood drops to a low threshold, closed wounds may reopen, which acts as a normal open wound. Permanent injuries remain in effect, but their associated wounds can still reopen if Blood is critically low.
-- **Blood 9 (Slight penalties):** 10% chance per closed wound to reopen. Roll 1d10; on a 1, the wound reopens.
-- **Blood 6 (Moderate penalties):** 25% chance per closed wound to reopen. Roll 1d4; on a 1, the wound reopens.
-- **Blood 3 (Severe penalties):** 50% chance per closed wound to reopen. Roll 1d2; on a 1, the wound reopens.
-- **Blood 0 or below:**  All closed wounds automatically reopen.
 
 ### Healing Wounds Permanently
 Closed wounds heal completely after a **long rest** without incident. Once healed, they cannot reopen.  

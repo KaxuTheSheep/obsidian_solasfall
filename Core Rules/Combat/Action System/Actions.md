@@ -7,8 +7,7 @@ tags:
 **Actions represent the things your character chooses to do during the Declaration Phase of each Round.**  
 Everyone decides their intentions before the round begins, and these intentions resolve in order of Speed during the Resolution Phase.
 Each Round, a character receives:
-- **2 Full Actions**
-- **1 Half Action**
+- **2.5 Actions** 
 - **1 Reaction** (used during Resolution, not Declaration)
 Unused actions do **not** carry over to future rounds.
 ### Full Actions

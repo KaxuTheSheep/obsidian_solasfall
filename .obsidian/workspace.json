@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags.md",
+                "file": "Equipment/Weapon Traits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tags"
+              "title": "Weapon Traits"
             }
           }
         ]
@@ -183,7 +183,31 @@
   },
   "active": "ec84c3203316f445",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Tags.md"
+    "Equipment/Weapons.md",
+    "Core Rules/Health & Harm/Damage Types.md",
+    "Equipment/Shields.md",
+    "Equipment/Weapon Traits.md",
+    "Core Rules/Combat/Off-Hand & Dual-Wielding.md",
+    "Core Rules/Combat/Heavy Attack.md",
+    "Core Rules/Combat/Defence/Block.md",
+    "Core Rules/Combat/Defence/Parry.md",
+    "Equipment/Armour.md",
+    "Equipment/Equipment.md",
+    "Core Rules/Health & Harm/Afflictions.md",
+    "Core Rules/Health & Harm/Rest & Recovery.md",
+    "Core Rules/Health & Harm/Sanity.md",
+    "Core Rules/Combat/Defence/Dodge.md",
+    "Core Rules/Combat/Defence/Defensive Stances.md",
+    "Core Rules/Health & Harm/Injuries.md",
+    "Core Rules/Attributes & Skills/Skills.md",
+    "Core Rules/Health & Harm/Death.md",
+    "Core Rules/Combat/Attacks.md",
+    "Core Rules/Combat/Action System/Actions.md",
+    "Characters/Origins.md",
+    "Core Rules/Attributes & Skills/Conditions.md",
+    "Core Rules/Combat/Flow/Action Fatigue.md",
+    "Core Rules/Combat/Flow/Speed & Resolution.md",
+    "Characters/Roles/Iron-Wall.md",
+    "Core Rules/Attributes & Skills/Attributes.md"
   ]
 }

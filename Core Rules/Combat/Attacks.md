@@ -4,21 +4,21 @@ aliases:
 tags:
   - Mechanics/Combat
 ---
-**Attacks** represent a character’s or creature’s attempts to deal damage or impose effects on a target during combat. Each attack is resolved by rolling against the target’s defences, typically using a relevant Attribute Modifier, and can include a variety of forms such as melee strikes, ranged shots, or magical effects. Attacks can be normal or specialized, like heavy strikes, and may trigger critical effects when exceptionally successful.
+**Attacks** represent a character’s or creature’s attempts to deal damage or impose effects on a target during combat. Each attack is resolved by rolling against the target’s defences, typically using a relevant Attribute, and can include a variety of forms such as melee strikes, ranged shots, or magical effects. Attacks can be normal or specialized, like heavy strikes, and may trigger critical effects when exceptionally successful.
 ## Action Cost
 - A normal attack costs 1 full Action.
 - A Heavy Attack costs 2 full Actions and deals double damage if it hits. Heavy Attacks roll once to hit—either all or nothing.
 - Some Weapons are inherently heavy and require 2 full Actions to attack but cannot perform heavy attacks for extra damage.
 
 ## Attack Rolls
-- To make an attack, roll 2d10 + the relevant Attribute Modifier (usually Might for melee, Grace for ranged).
+- To make an attack, roll 2d10 + the relevant Attribute (usually Might for melee, Grace for ranged).
 - Compare the total to the target’s Evasion DN to determine if the attack hits.
 - If the total meets or exceeds the Evasion DN, the attack hits and deals damage.
 
 ## Damage
 - Damage is rolled on weapon-specific dice (e.g., 1d8 for a longsword #Wip).
 - Heavy attacks deal double damage, calculated by doubling the rolled damage.
-- Some spells also deal damage but may require the target to make an Attribute Check to resist or mitigate effects.
+- Some spells also deal damage but may require the target to make an Attribute Test to resist or mitigate effects.
 
 ## Critical Success
 - A natural double 10 on the attack roll is a Critical Success.

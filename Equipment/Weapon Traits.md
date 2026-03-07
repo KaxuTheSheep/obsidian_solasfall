@@ -34,10 +34,7 @@ When you **hit** a target who is currently **Blocking**, the target must make a 
 
 ### Sundering
 Built to **deform plates, sheer links, or crack rigid structures**.  
-When you deal damage to a target wearing Armour, Choose to Sunder before rolling damage. If any portion of the post-Block damage is applied to Armour DR, reduce the target’s Armour DR by 2 (until repaired), even if the Armour reduces the final damage to 0. If the attack is Parried, or Block prevents any damage from reaching Armour DR, Sundering does not apply:
-- Deal **$\frac{3}{4}$ damage** (round down), and
-- Reduce the target’s **Armour DR by 2** until repaired.  
-    This choice is **situational** and rewards attrition strategies.
+When you deal damage to a target wearing Armour, Choose to Sunder before rolling damage. If any portion of the post-Block damage is applied to Armour DR, reduce the target’s Armour DR by 2 (until repaired), even if the Armour reduces the final damage to 0 at the cost of $\frac{3}{4}$ the damage. If the attack is Parried, or Block prevents any damage from reaching Armour DR, Sundering does not apply.
 
 ### Momentum
 Thrives on **committed, powerful swings**.  
@@ -102,7 +99,7 @@ Drawing or stowing this weapon requires a **full action**.
 
 ### Two-Handed
 - Designed to be used with **both hands** to maintain leverage, stability, and edge alignment.
-- The wielder may **momentarily release one hand** to perform **Parry**, **Grapple**, or **minor interactions** **without changing stance**.  #Wip 
+- The wielder may **momentarily release one hand** to perform **Parry**, **Grapple**, or **minor interactions** **without changing stance**. 
   The weapon is still considered **Two-Handed** for all mechanical purposes.
 
 ### Versatile
@@ -119,6 +116,6 @@ Drawing or stowing this weapon requires a **full action**.
 ### Light
 - Easy to manoeuvre in tight space.
 - Can be used while **Dodge** is active without penalty.
-- Can be **dual-wielded** later (once dual-wielding rules exist).
+- Can be **dual-wielded**.
 
 

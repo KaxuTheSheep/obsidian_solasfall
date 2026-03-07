@@ -44,7 +44,7 @@ You can repair broken gear **twice as fast** and create simple items given time 
 Gain +1 training in **Arcana** and **History** skills.
 
 ###### **Intimidating Presence**
-Once per rest, force an enemy to make a DN 16 Resolve Check or be Frightened for 1d4 RoundRound.
+Once per rest, force an enemy to make a DN 16 Resolve Check or be Frightened for 1d4 Rounds.
 
 ###### **Survivor’s Instinct**
 Once per Rest, automatically detect the presence of hostile creatures within a short distance, even if they are hidden.

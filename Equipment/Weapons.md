@@ -5,7 +5,7 @@ tags:
 ---
 Weapons in Solasfall define how a character can fight in combat. Each weapon provides its own balance of reach, speed, power, and defensive interaction. Choosing a weapon is choosing a fighting style.
 All weapons share the following properties:
-**Damage Die:** The base damage the weapon inflicts before adding attribute modifiers.
+**Damage Die:** The base damage the weapon inflicts before adding attribute.
 **Speed (Base):** Determines how quickly the weapon can be brought to bear. Lower Final Speed resolves earlier in the round.
 **Range:** How far from your body the weapon threatens space. Reach is listed as a **+X m** value added to your natural melee range.
 **Handedness:** One-Handed, Two-Handed, or Versatile.
@@ -19,9 +19,9 @@ Small blades intended for close-quarters control, grappling, and precision strik
 Excel in tight spaces where longer weapons lose leverage.
 ### Dagger
 Light, short blade for grappling, control, and inside-guard work.
-**Damage Die:** 1d4 + Grace Modifier
+**Damage Die:** 1d4 + Grace
 **Damage Type:** Cutting or Piercing
-**Speed (Base):** 12 + Grace Modifier
+**Speed (Base):** 12 + Grace 
 **Range:** +0.35 m
 **Handedness:** One-Handed
 **Weight Class:** Light
@@ -29,9 +29,9 @@ Light, short blade for grappling, control, and inside-guard work.
 
 ### Stiletto
 Thin thrusting blade specialised for targeting gaps and weak points.  
-**Damage Die:** 1d4 + Grace Modifier  
+**Damage Die:** 1d4 + Grace  
 **Damage Type:** Piercing  
-**Speed (Base):** 12 + Grace Modifier  
+**Speed (Base):** 12 + Grace  
 **Range:** +0.35 m  
 **Handedness:** One-Handed  
 **Weight Class:** Light  
@@ -39,9 +39,9 @@ Thin thrusting blade specialised for targeting gaps and weak points.
 
 ### Boot Knife
 Small, concealable backup blade suited for quick draws.  
-**Damage Die:** 1d4 + Grace Modifier  
+**Damage Die:** 1d4 + Grace  
 **Damage Type:** Cutting or Piercing  
-**Speed (Base):** 12 + Grace Modifier  
+**Speed (Base):** 12 + Grace  
 **Range:** +0.30 m  
 **Handedness:** One-Handed  
 **Weight Class:** Light  
@@ -49,9 +49,9 @@ Small, concealable backup blade suited for quick draws.
 
 ### Parrying Dagger
 Short blade optimised for off-hand defence, binds and riposte.  
-**Damage Die:** 1d4 + Grace Modifier  
+**Damage Die:** 1d4 + Grace  
 **Damage Type:** Cutting or Piercing  
-**Speed (Base):** 13 + Grace Modifier  
+**Speed (Base):** 13 + Grace  
 **Range:** +0.35 m  
 **Handedness:** One-Handed 
 **Weight Class:** Light  
@@ -59,9 +59,9 @@ Short blade optimised for off-hand defence, binds and riposte.
 
 ### Karambit (Hook-Knife)
 Curved CQC blade optimised for hooking, control, and fast wrist work.  
-**Damage Die:** 1d4 + Grace Modifier  
+**Damage Die:** 1d4 + Grace  
 **Damage Type:** Cutting  
-**Speed (Base):** 13 + Grace Modifier  
+**Speed (Base):** 13 + Grace  
 **Range:** +0.30 m  
 **Handedness:** One-Handed  
 **Weight Class:** Light  
@@ -70,9 +70,9 @@ Curved CQC blade optimised for hooking, control, and fast wrist work.
 
 ### Kris
 Wavy-edged blade with a psychologically striking profile.  
-**Damage Die:** 1d4 + Grace Modifier  
+**Damage Die:** 1d4 + Grace  
 **Damage Type:** Cutting  
-**Speed (Base):** 12 + Grace Modifier  
+**Speed (Base):** 12 + Grace  
 **Range:** +0.35 m  
 **Handedness:** One-Handed  
 **Weight Class:** Light  
@@ -81,9 +81,9 @@ Wavy-edged blade with a psychologically striking profile.
 
 ### Dirk
 Thicker traditional dagger for utility and combat.  
-**Damage Die:** 1d4 + ( Might **or** Grace ) Modifier  
+**Damage Die:** 1d4 + ( Might **or** Grace )   
 **Damage Type:** Cutting or Piercing  
-**Speed (Base):** 11 + ( Might **or** Grace ) Modifier  
+**Speed (Base):** 11 + ( Might **or** Grace )   
 **Range:** +0.40 m  
 **Handedness:** One-Handed  
 **Weight Class:** Light  
@@ -91,9 +91,9 @@ Thicker traditional dagger for utility and combat.
 
 ### Pesh-Kabz
 Heavy piercing knife designed to defeat layered protection.  
-**Damage Die:** 1d6 + Might Modifier  
+**Damage Die:** 1d6 + Might   
 **Damage Type:** Piercing  
-**Speed (Base):** 11 + Might Modifier  
+**Speed (Base):** 11 + Might   
 **Range:** +0.35 m  
 **Handedness:** One-Handed  
 **Weight Class:** Light  
@@ -101,18 +101,18 @@ Heavy piercing knife designed to defeat layered protection.
 
 ### Kukri
 Forward-curved blade that trades reach for chopping power.  
-**Damage Die:** 1d6 + ( Might **or** Grace ) Modifier  
+**Damage Die:** 1d6 + ( Might **or** Grace )   
 **Damage Type:** Cutting  
-**Speed (Base):** 11 + ( Might **or** Grace ) Modifier  
+**Speed (Base):** 11 + ( Might **or** Grace )   
 **Range:** +0.35 m  
 **Handedness:** One-Handed  
 **Weight Class:** Standard  
 **Traits:** Momentum, Close-Quarters Proficiency
 ### Throwing Knife
 Balanced for ranged use as well as melee.  
-**Damage Die:** 1d4 + Might Modifier (thrown) / 1d4 + Grace Modifier (melee)  
+**Damage Die:** 1d4 + Might **or** Grace) (thrown or melee)
 **Damage Type:** Cutting or Piercing  
-**Speed (Base):** 12 + (Might **or** Grace) Modifier  
+**Speed (Base):** 12 + (Might **or** Grace)   
 **Range:** +0.35 m (melee) / Thrown range handled by ranged rules  
 **Handedness:** One-Handed  
 **Weight Class:** Light  
@@ -121,9 +121,9 @@ Balanced for ranged use as well as melee.
 Blades combining cutting and thrusting potential with balanced handling and flexible footwork.  
 Swords are defined by adaptability and defensive utility.
 ### Shortsword
-**Damage Die:** 1d6 + Might **or** Grace Modifier
+**Damage Die:** 1d6 + Might **or** Grace 
 **Damage Type:** Cutting
-**Speed (Base):** 12 + Might **or** Grace Modifier
+**Speed (Base):** 12 + Might **or** Grace
 **Range:** +0.55 m
 **Handedness:** One-Handed
 **Weight Class:** Light

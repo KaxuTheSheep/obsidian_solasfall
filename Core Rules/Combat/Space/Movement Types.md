@@ -13,7 +13,7 @@ In Solasfall, creatures and characters may have access to various types of movem
 - **Burrow:** Movement through loose earth or similar materials by digging or tunnelling. Creatures with burrow distance create tunnels that can remain passable for others unless collapsed or blocked.
 - **Fly:** Movement through the air. Flight distances vary, and flight may have special Conditions such as requiring hover or avoiding obstacles.
 - **Crawl:** Slow movement while low to the ground or through tight spaces. Crawl distance is generally slower than walking and may be used for stealth or to navigate confined areas.
-- **Jump:** A specialized movement used to cross gaps or obstacles. It costs a half action to perform and covers a distance based on your race’s base jump bonus. If you have moved at least 3 meters by walking or running immediately before the jump, you add your Might attribute modifier (in meters) to the jump distance. Jumping may require a skill check depending on the situation.
+- **Jump:** A specialized movement used to cross gaps or obstacles. It costs a half action to perform and covers a distance based on your race’s base jump bonus. If you have moved at least 3 meters by walking or running immediately before the jump, you add your Might attribute (in meters) to the jump distance. Jumping may require a skill check depending on the situation.
 
 ## Using Movement
 - Movement can be taken before, after, or in-between your full and half Actions each Round, allowing flexible tactics.

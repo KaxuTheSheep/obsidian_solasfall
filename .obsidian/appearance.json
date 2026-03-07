@@ -4,5 +4,6 @@
   "nativeMenus": true,
   "enabledCssSnippets": [
     "css"
-  ]
+  ],
+  "theme": "obsidian"
 }

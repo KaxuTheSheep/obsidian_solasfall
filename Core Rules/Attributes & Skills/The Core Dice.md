@@ -9,7 +9,7 @@ Tests refer to any 2d10 Roll:
 - **Roll 2d10 and add your modifiers.**
 - The result will be compared to a Difficulty Number (DN) set by the Game Master (GM).
 - **If your total is equal to or higher than the DN, you succeed!**
-- If it’s lower, your action fails or has unintended consequences.
+- If it’s lower, your [[Actions|action]] fails or has unintended consequences.
 
 ## Advantage and Disadvantage
 Sometimes, circumstances make your task easier or harder. When that happens, you might gain **Advantage** or suffer from **Disadvantage**.
@@ -22,7 +22,7 @@ This shifts your chances slightly, giving you a better or worse shot without swi
 ## Critical Success and Critical Failure
 Rarely, your roll will be exceptional — either incredibly good or devastatingly bad.
 
-- **Critical Success:** You roll **double 10s** (both dice show 10). This means you have performed your action in the best possible way. The GM will often grant extra benefits or bonuses.
+- **Critical Success:** You roll **double 10s** (both dice show 10). This means you have performed your [[Actions|action]] in the best possible way. The GM will often grant extra benefits or bonuses.
 - **Critical Failure:** You roll **double 1s** (both dice show 1). This means something has gone terribly wrong, and the GM may introduce complications or setbacks.
 
 ## Difficulty Numbers (DNs)
@@ -37,4 +37,4 @@ The GM sets a Difficulty Number based on how challenging the task is, which your
 |Very Hard|18|
 |Nearly Impossible|20|
 **Modifiers** 
-Modifiers are additions to your rolls, they can come from Attributes, Skills, Essences and Equipment. 
+Modifiers are additions to your rolls, they can come from [[Attributes]], [[Skills]], [[Essences]] and [[Equipment]]. 

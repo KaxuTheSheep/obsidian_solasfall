@@ -4,26 +4,26 @@ aliases:
 tags:
   - Mechanics/Combat
 ---
-**Actions represent the things your character chooses to do during the Declaration Phase of each Round.**  
-Everyone decides their intentions before the round begins, and these intentions resolve in order of Speed during the Resolution Phase.
-Each Round, a character receives:
+**Actions represent the things your character chooses to do during the Declaration Phase of[[Rounds| each]] [[Rounds|Round]].**  
+Everyone decides their intentions before the [[Rounds|round]] begins, and these intentions resolve in order of [[Speed & Resolution|Speed]] during the Resolution Phase.
+Each [[Rounds|Round]], a character receives:
 - **2.5 Actions** 
 - **1 Reaction** (used during Resolution, not Declaration)
-Unused actions do **not** carry over to future rounds.
+Unused actions do **not** carry over to future [[rounds]].
 ### Full Actions
 A Full Action is used to perform meaningful or committed activity such as attacking, running, casting a spell, taking a defensive stance, or interacting in a complex way.
 Examples of Full Actions:
-- Attack
-- Heavy Attack
-- Block
-- Parry
-- Dodge (when declared at the start of the round)
+- [[Attacks|Attack]]
+- [[Heavy Attack]]
+- [[Block]]
+- [[Parry]]
+- [[Dodge]] (when declared at the start of the [[Rounds|round]])
 - Run
 - Cast a Spell
-- Use Skill
+- Use [[Skills|Skill]]
 - Help
 - Interact (complex or deliberate)
-- Full Brace
+- [[Brace|Full Brace]]
 ### Half Actions
 A Half Action represents a quick or less involved task.  
 Half Actions may be taken before, after, or between Full Actions.
@@ -32,7 +32,7 @@ Examples of Half Actions:
 - Jump
 - Interact (simple or quick)
 - Drink a potion **(Half Action: roll for risk, Full Action: safe)**
-- Quick Brace
-### Reactions
+- [[Brace|Quick Brace]]
+### [[Reactions]]
 A Reaction is a defensive or opportunistic response to another creature’s action **during the Resolution Phase**.  
-It is not declared at the start of the round and may interrupt events if timing allows.
+It is not declared at the start of the [[Rounds|round]] and may interrupt events if timing allows.

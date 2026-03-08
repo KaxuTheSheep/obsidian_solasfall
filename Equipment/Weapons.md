@@ -133,5 +133,19 @@ Swords are defined by adaptability and defensive utility.
 ## Polearms
 ## Staves & Rods
 ## Flails & Chains
+## Bows
+Ranged weapons that fire arrows at distance, trading melee capability for reach and precision. Bows require two hands to use and cannot be fired effectively in close quarters.
+### Shortbow 
+A light, flexible bow suited for quick draws and mobile combat.Effective at medium range, favoured by scouts and hunters. 
+**Damage Die:** 1d6 + Grace 
+**Damage Type:** Piercing 
+**Speed (Base):** 13 + Grace 
+**Arrow Travel:** 15m per Speed point 
+**Optimal Range:** 50m 
+**Minimum Range:** 3m 
+**Handedness:** Two-Handed 
+**Weight Class:** Light 
+**Ammunition:** Standard Arrows 
+**Traits:** Nimble, Silent
 
 ## Uncategorised

@@ -2,6 +2,8 @@
 aliases:
   - Drawing
   - Stowing
+tags:
+  - Mechanics/Combat
 ---
 ## Drawing and Stowing Weapons
 To **draw** or **stow** a weapon costs **1 Half Action**.

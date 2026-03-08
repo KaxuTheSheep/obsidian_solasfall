@@ -64,8 +64,7 @@ The weapon is easy to hide on the body.
 
 ### Penetrating
 This weapon is designed to slip into **gaps, seams, or weak points** rather than break through armour or muscle.
-When an attack with this weapon **reduces a creature’s Sturdiness**,  
-**also apply 1 direct Blood damage** to the target.
+When an attack with this weapon **reduces a creature’s Sturdiness**, **also apply 1 direct Blood damage** to the target.
 This direct Blood damage **ignores Sturdiness and Armour DR.**
 This effect **cannot reduce a creature below 1 Blood** on its own.
 **Applicability:**  
@@ -78,7 +77,7 @@ The weapon’s appearance or reputation provokes caution.
 
 ### Silent
 The weapon does not produce audible noise when striking flesh or moving through air.
-- **Melee Attacks** with this weapon do **not** produce detectable combat noise unless they strike Armour or metal.
+- **Attacks** with this weapon do **not** produce detectable combat noise unless they strike Armour or metal.
 - Useful for ambush and Hollowdeep stealth operations.
 
 ### Reliable
@@ -91,7 +90,7 @@ This weapon can be drawn or stowed as a **free action** once per round.
 ### Cumbersome
 Drawing or stowing this weapon requires a **full action**.
 
-# Modifiers
+# Construction
 ### One-Handed
 - Can be wielded with one hand.
 - May be paired with a **shield**, a **second weapon**, or left-hand **grappling**.
@@ -109,7 +108,7 @@ Drawing or stowing this weapon requires a **full action**.
 
 ## Heavy
 - Requires committed body movement to use effectively.
-- Cannot benefit from **Dodge’s free 2m reposition step** (you may still Dodge, but you do not gain the step).
+- Reduce the Dodge distance by 1m.
 
 ### Standard
 - No effect

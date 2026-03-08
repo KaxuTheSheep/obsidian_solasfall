@@ -25,7 +25,6 @@ When multiple actions share the same Speed value, they are treated as happening 
 If a combatant becomes unable to act (for example: knocked unconscious, disarmed, or killed) before one of their declared actions would occur, that action simply does not happen.
 Reactions may be taken during this phase if their trigger conditions are met.
 
-
 ## End of the Round
 Once all actions have resolved:
 - Ongoing effects progress (bleeding, burning, stance duration, etc.)

@@ -1,7 +1,6 @@
 ---
 tags:
   - Mechanics/Combat
-  - Wip
 ---
 1. Declare the condition that will trigger the action.
 2. Spend as many actions as the action you intend to perform.

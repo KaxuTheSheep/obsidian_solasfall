@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "8751dfec5951568a",
+        "id": "b6a3f18adf7e93d2",
         "type": "tabs",
         "children": [
           {
-            "id": "ec84c3203316f445",
+            "id": "27670aecb648b93a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Rules/Combat/Off-Hand & Dual-Wielding.md",
+                "file": "Core Rules/Combat/Action System/Ranged Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Off-Hand & Dual-Wielding"
+              "title": "Ranged Attacks"
+            }
+          },
+          {
+            "id": "ee85a809f091b1ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Rules/Combat/Action System/Heavy Attack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Heavy Attack"
+            }
+          },
+          {
+            "id": "0ec8967549e222e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Rules/Combat/Flow/Action Fatigue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Action Fatigue"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,33 +210,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec84c3203316f445",
+  "active": "0ec8967549e222e1",
   "lastOpenFiles": [
-    "Equipment/Shields.md",
-    "Equipment/Equipment.md",
-    "Equipment/Weapon Traits.md",
-    "Equipment/Weapons.md",
-    "Core Rules/Health & Harm/Damage Types.md",
-    "Core Rules/Combat/Off-Hand & Dual-Wielding.md",
-    "Core Rules/Combat/Heavy Attack.md",
-    "Core Rules/Combat/Defence/Block.md",
-    "Core Rules/Combat/Defence/Parry.md",
-    "Equipment/Armour.md",
-    "Core Rules/Health & Harm/Afflictions.md",
-    "Core Rules/Health & Harm/Rest & Recovery.md",
-    "Core Rules/Health & Harm/Sanity.md",
-    "Core Rules/Combat/Defence/Dodge.md",
-    "Core Rules/Combat/Defence/Defensive Stances.md",
-    "Core Rules/Health & Harm/Injuries.md",
-    "Core Rules/Attributes & Skills/Skills.md",
-    "Core Rules/Health & Harm/Death.md",
-    "Core Rules/Combat/Attacks.md",
     "Core Rules/Combat/Action System/Actions.md",
+    "Core Rules/Combat/Action System/Ranged Attacks.md",
+    "Core Rules/Combat/Action System/Ready Action.md",
+    "Core Rules/Combat/Action System/Reactions.md",
+    "Core Rules/Combat/Action System/Drawing & Stowing.md",
+    "Core Rules/Combat/Action System/Heavy Attack.md",
+    "Core Rules/Combat/Action System/Brace.md",
+    "Core Rules/Combat/Action System/Attacks.md",
+    "Characters/Races/Human.md",
+    "Core Rules/Combat/Off-Hand & Dual-Wielding.md",
+    "Core Rules/Health & Harm/Injuries.md",
+    "Core Rules/Health & Harm/Blood.md",
+    "Core Rules/Health & Harm/Rest & Recovery.md",
+    "Core Rules/Health & Harm/Sturdiness.md",
+    "Core Rules/Magic/Spells/Fireball.md",
     "Characters/Origins.md",
-    "Core Rules/Attributes & Skills/Conditions.md",
+    "Core Rules/Combat/Space/Movement Types.md",
+    "Equipment/Weapons.md",
+    "Equipment/Shields.md",
+    "Equipment/Weapon Traits.md",
+    "Core Rules/Combat/Defence/Block.md",
+    "Core Rules/Combat/Space/Range & Threat.md",
+    "Core Rules/Combat/Flow/Rounds.md",
     "Core Rules/Combat/Flow/Action Fatigue.md",
-    "Core Rules/Combat/Flow/Speed & Resolution.md",
-    "Characters/Roles/Iron-Wall.md",
-    "Core Rules/Attributes & Skills/Attributes.md"
+    "Core Rules/Combat/Space/Facing & Vision.md",
+    "Core Rules/Magic/Mana Overload Syndrome.md",
+    "Core Rules/Magic/Spells",
+    "Core Rules/Magic"
   ]
 }

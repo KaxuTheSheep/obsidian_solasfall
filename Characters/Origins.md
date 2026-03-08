@@ -14,7 +14,7 @@ Origins represent your character’s past, upbringing, and formative experiences
 ### Starting Abilities
 Pick **one** ability that reflects your Origin:
 ###### **Silver Tongue**
-Once per rest, reroll a failed Persuasion check.
+Once per rest, reroll a failed Negotation Test.
 
 ###### **Streetwise**
 Advantage on checks to navigate urban environments or interact with underworld contacts.

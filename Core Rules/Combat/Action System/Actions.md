@@ -23,6 +23,7 @@ Examples of Full Actions:
 - Use Skill
 - Help
 - Interact (complex or deliberate)
+- Full Brace
 ### Half Actions
 A Half Action represents a quick or less involved task.  
 Half Actions may be taken before, after, or between Full Actions.
@@ -31,6 +32,7 @@ Examples of Half Actions:
 - Jump
 - Interact (simple or quick)
 - Drink a potion **(Half Action: roll for risk, Full Action: safe)**
+- Quick Brace
 ### Reactions
 A Reaction is a defensive or opportunistic response to another creature’s action **during the Resolution Phase**.  
 It is not declared at the start of the round and may interrupt events if timing allows.

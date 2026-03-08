@@ -14,6 +14,7 @@ tags:
 - To make an attack, roll 2d10 + the relevant Attribute (usually Might for melee, Grace for ranged).
 - Compare the total to the target’s Evasion DN to determine if the attack hits.
 - If the total meets or exceeds the Evasion DN, the attack hits and deals damage.
+> Ranged attacks follow the same hit resolution — roll 2d10 + Grace against the target's Evasion. For ranged specific rules including arrow travel, range penalties, and cover see Ranged Attacks.
 
 ## Damage
 - Damage is rolled on weapon-specific dice (e.g., 1d8 for a longsword #Wip).

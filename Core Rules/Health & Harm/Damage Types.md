@@ -31,4 +31,4 @@ Damage types define how [[attacks]] interact with the world beyond combat. These
 |**Lightning**|Shorts out mechanisms, conducts through water and metal, may trigger explosive gases.|
 |**Acid**|Dissolves metal over time, corrodes locks and hinges, melts through barriers slowly.|
 |**Radiant**|Disperses magical darkness, disrupts shadow-based phenomena, reveals hidden or concealed things.|
-|**Umbral**|Extinguishes light sources, obscures [[Facing & Vision\|vision]], interacts with shadow or void-based entities and effects.|
+|**Umbral**|Extinguishes light sources, obscures [[Facing\|vision]], interacts with shadow or void-based entities and effects.|

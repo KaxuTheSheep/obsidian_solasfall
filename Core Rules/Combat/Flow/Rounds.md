@@ -27,4 +27,4 @@ Once all [[actions]] have resolved:
 - Ongoing effects progress (bleeding, burning, stance duration, etc.)
 - [[Conditions]] are updated
 - The next Round begins with a new Declaration Phase
-Position, [[Facing & Vision|facing]], [[Movement Types|distance]], stances, and environmental states **carry over**; combat does not reset between Rounds.
+Position, [[Facing|facing]], [[Movement Types|distance]], stances, and environmental states **carry over**; combat does not reset between Rounds.

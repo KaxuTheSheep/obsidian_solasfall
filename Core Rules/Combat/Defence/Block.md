@@ -2,7 +2,7 @@
 tags:
   - Mechanics/Combat
 ---
-**Block** is a **defensive stance** where you commit your weapon or shield to intercept and absorb incoming [[attacks]] from the direction you are [[Facing & Vision|facing]].
+**Block** is a **defensive stance** where you commit your weapon or shield to intercept and absorb incoming [[attacks]] from the direction you are [[Facing|facing]].
 ## Declaring Block
 - **Block is declared during the Declaration Phase** for the [[Rounds|round]].
 - When declared, you enter a **Blocking Stance** that remains active **until your next turn**, unless ended early.
@@ -23,21 +23,21 @@ When Block is triggered, roll:
 If blocking **unarmed**, roll your **Unarmed [[Damage Types|Damage]] Die** instead.
 ## Effect of Block
 For the remainder of the [[Rounds|round]], while the stance is active:
-- **Incoming physical [[Damage Types|damage]] from the direction you are [[Facing & Vision|facing]]** is reduced by your **Block Value**.
+- **Incoming physical [[Damage Types|damage]] from the direction you are [[Facing|facing]]** is reduced by your **Block Value**.
 - [[Damage Types|Damage]] that remains after reduction is applied to:
     1. **[[Sturdiness]]**, and then
     2. **[[Blood]]**
 Block does **not** prevent non-physical effects (fear, poison, fire, etc.), unless stated otherwise.
-## [[Facing & Vision|Facing]] and Direction
+## [[Facing|Facing]] and Direction
 Block only protects the **forward arc**.
 - **[[Attacks]] from the front** → Block applies normally.
 - **[[Attacks]] from the side or rear** → Block provides **no [[Damage Types|damage]] reduction**.
-Your [[Facing & Vision|facing]] is determined by where your token is oriented.
-> Block does not apply to [[ranged attacks]] unless your shield is actively [[Facing & Vision|facing]] the attacker at the time the projectile arrives.
+Your [[Facing|facing]] is determined by where your token is oriented.
+> Block does not apply to [[ranged attacks]] unless your shield is actively [[Facing|facing]] the attacker at the time the projectile arrives.
 ## [[Movement Types|Movement]] While Blocking
 You may still move up to **half your Walking [[Movement Types|Distance]]** while maintaining Block.
 However:
-- Turning to change your **[[Facing & Vision|facing]]** while Blocking is **allowed**, but must be done **when your [[Speed & Resolution|Speed]] position is reached** (not immediately on declaration).
+- Turning to change your **[[Facing|facing]]** while Blocking is **allowed**, but must be done **when your [[Speed & Resolution|Speed]] position is reached** (not immediately on declaration).
 ## Ending Block
 Block ends if:
 - You become **Stunned**, **Paralyzed**, **Prone**, or **Forced to release control** (e.g., disarmed).

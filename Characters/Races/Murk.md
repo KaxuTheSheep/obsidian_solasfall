@@ -50,7 +50,7 @@ Medium
 You can breathe underwater indefinitely and on land.
 ##### Water Adaptation:
 You have advantage on [[Skills|Athletics]] checks related to swimming and climbing slippery or wet surfaces.
-##### Low Light [[Facing & Vision|Vision]]:
+##### Low Light [[Facing|Vision]]:
 You can see in dim light as if it were bright light for 9 meters. You cannot see in total darkness.
 ##### Swift Swimmer:
 Whenever you make an [[Attacks|attack]] while underwater you are able to move a number of meters equal to half your swimming [[Movement Types|distance]].

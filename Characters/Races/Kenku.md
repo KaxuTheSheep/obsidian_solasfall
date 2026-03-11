@@ -51,7 +51,7 @@ You can perfectly mimic any voice or sound you have heard.
 ##### Silent Strike:
 [[Attacks]] made against creatures that do not see you deal **+3 [[Damage Types|damage]]**.
 
-##### Low Light [[Facing & Vision|Vision]]:
+##### Low Light [[Facing|Vision]]:
 You can see in dim light within **9 m** as if it were bright light. You cannot see in total darkness.
 ##### Talon Strike:
 As an **[[Attacks|Attack]]-type [[Actions|Action]]**, you can use your claws to deal **1d6 Slashing [[Damage Types|Damage]]** at **[[Speed & Resolution|Speed]] 16**.

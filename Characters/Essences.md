@@ -4,9 +4,21 @@ tags:
   - lore
   - Wip
 ---
-Essences are the distilled souls of creatures from the [[Hollowdeep]]. They are rare, potent, and can permanently enhance or alter a character’s physical and mental capabilities. Essences may grant **numeric bonuses** to [[attributes]], **modifications to defensive stats**, or even **new abilities**, but most carry drawbacks that reflect the nature of the creature they came from.
-- **Acquisition:** Characters may only gain one essence per level, starting with 1 at level 0. Non-[[magic]] and non-divinity classes are eligible, if non-eligible classes try then they disappear; Skinwalkers gain additional interactions and can eventually transform fully into consumed monsters.
-- **Effect:** After Consumption, Numeric bonuses and Abilities are given to the person. Each essence is unique and reflects the creature it originated from.
-- **Risks:** Most essences impose negative effects to balance their benefits. Players can choose which character receives an essence; no checks or contests are required.
-- **Permanence:** Essences can not be removed however they can be interchanged during a long [[Rest & Recovery|rest]] via attunement, the old essence is removed.
-- **Divided Essences:** Skinwalkers are able to divide essences, this allows the Skinwalkers to consume one half and another person to consume the other half, these initially have a diminished effect but overtime the Essences repair and become whole and have the full effect.
+Every living thing carries a unique [[mana]] signature — a pattern that defines its nature, instincts, and capabilities. This signature is the soul. In life it is inseparable from the creature. In [[death]], particularly within the [[Hollowdeep]] where [[mana]] is dense and reality unstable, it can crystallise into a physical form rather than dissipating. These crystallised signatures are Essences.
+
+Essences are rare, potent, and permanent. Consuming one merges a fragment of another creature's [[mana]] signature into your own, permanently altering your physical and mental capabilities to reflect the nature of the creature it came from. Most carry drawbacks for the same reason — you are not just gaining a creature's strengths, you are absorbing its nature entirely.
+# Acquisition
+Essences have a chance to manifest after killing a creature in the [[Hollowdeep]]. Not every creature produces one — the density of [[mana]] required for crystallisation means it is an uncommon occurrence rather than a guaranteed reward.
+
+Skinwalkers interact with Essences differently from other characters and can eventually transform fully into the creatures they have consumed. See the Skinwalker class tree for details.
+# Essence Capacity
+Characters begin with a capacity of 1 Essence at level 0. Increasing capacity costs Progression Points. Skinwalkers can cheapen this cost through their class tree.
+# Effect
+After consumption, the Essence grants numeric bonuses to [[Attributes]], modifications to defensive stats, or new abilities reflecting the creature it originated from. Each Essence is unique. Players choose which character receives an Essence — no checks or contests are required.
+# Risks
+Most Essences impose negative effects alongside their benefits, reflecting the full nature of the creature's [[mana]] signature rather than just its strengths. These drawbacks cannot be separated from the benefits.
+# Permanence
+Essences cannot be removed. However they can be interchanged during a [[Rest & Recovery#Long Rest (≈ 2 weeks of safety)|Long Rest]] via attunement — the old Essence is removed and replaced. Only one Essence can be interchanged per [[Rest & Recovery#Long Rest (≈ 2 weeks of safety)|Long Rest]].
+
+# Divided Essences
+Skinwalkers can divide an Essence into two halves, allowing one half to be consumed by another character. Both halves initially manifest at a diminished effect. Over time the signatures repair and become whole, eventually producing the full effect in both recipients.

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Facing
-  - Vision
 tags:
   - Mechanics
 ---

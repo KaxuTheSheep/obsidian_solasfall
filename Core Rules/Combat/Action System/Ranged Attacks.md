@@ -37,10 +37,10 @@ Cover represents physical obstacles between the attacker and target. Foundry wil
 
 On a **Critical Success** against a target in Full Cover, the shot may ricochet or find a gap at the GM's discretion.
 
-## [[Facing & Vision|Facing]]
+## [[Facing|Facing]]
 - Attacking from a target's **Rear Arc** grants **Advantage** on the [[Attacks|attack]] roll.
 - **[[Parry]]** does not apply against ranged [[attacks]].
-- **[[Block]]** does not apply unless the target's shield is actively [[Facing & Vision|facing]] the attacker.
+- **[[Block]]** does not apply unless the target's shield is actively [[Facing|facing]] the attacker.
 - **[[Dodge]]** applies normally — it is [[Movement Types|movement]] based and direction independent.
 ## [[Reactions]] and Cover
 

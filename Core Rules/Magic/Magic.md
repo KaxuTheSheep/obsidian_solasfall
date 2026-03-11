@@ -4,7 +4,7 @@ Only trained individuals or divine beings can harness [[mana]] effectively. Untr
 ## The Soul as Chamber
 Mages channel [[mana]] by using their soul as a chamber — a pipe through which [[mana]] is forced and shaped into a spell. The soul does not store [[mana]]. It conducts it. [[Mana]] passes through the caster during casting and dissipates after.
 
-This means a mage can theoretically cast indefinitely. There is no [[mana]] pool to deplete. The limiting factor is the soul's ability to handle the flow. Forcing too much [[mana]] through too quickly causes [[Mana]] Overload Syndrome — a catastrophic magical backlash that can permanently sever a mage's connection to [[mana]] and cause lasting mental or physical [[Damage Types|damage]].
+This means a mage can theoretically cast indefinitely. There is no [[mana]] pool to deplete. The limiting factor is the soul's ability to handle the flow. Forcing too much [[mana]] through too quickly causes [[Mana Overload Syndrome]] — a catastrophic magical backlash that can permanently sever a mage's connection to [[mana]] and cause lasting mental or physical [[Damage Types|damage]].
 
 ## Non-Deterministic Magic
 Magic is chaotic in the mathematical sense. Small variations in control produce wildly different outputs. A highly skilled mage produces consistent results because their precision minimises variation. A novice produces unpredictable results because tiny errors cascade into something unintended.

@@ -37,14 +37,14 @@ You cannot Parry if:
 - Stunned, Paralyzed, Prone, Restrained, or otherwise unable to move your arms.
 - Your weapon is **not drawn**.
 
-## [[Facing & Vision|Facing]]
+## [[Facing|Facing]]
 Parry relies on **awareness and line of sight**.
 
 |[[Attacks\|Attack]] Direction|Parry Result|
 |---|---|
 |From the **front arc**|Parry functions normally.|
 |From the **rear arc**|Your Parry Test is made at **Disadvantage**.|
-If using **Defensive Footwork / [[Facing & Vision|Facing]] rules**, turning to face during resolution consumes your **[[Speed & Resolution|Speed]] position**, not declaration.
+If using **Defensive Footwork / [[Facing|Facing]] rules**, turning to face during resolution consumes your **[[Speed & Resolution|Speed]] position**, not declaration.
 
 ## Ending Parry
 Parry ends if:

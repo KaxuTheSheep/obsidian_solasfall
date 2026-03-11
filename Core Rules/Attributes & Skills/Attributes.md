@@ -25,7 +25,7 @@ Each Attribute is rated from 0 to 6. The higher your score, the stronger your co
 
 **Insight** The gift to see beyond the obvious and grasp the hidden currents beneath [[Solasfall]]'s surface. Insight is your ability to read people's truths, decipher cryptic signs, and navigate the tangled webs of politics, secrets, and lies. It's not just intelligence—it's your [[Skills|intuition]], your gut feeling, your inner compass in a city drowning in shadows.
 
-**Resolve** The unyielding strength of spirit and purpose. Resolve fuels your conviction when the weight of despair tries to break you. It is your clarity amid madness, your quiet stubbornness to hold fast to what matters. Whether [[Facing & Vision|facing]] the whispers of Forbidden Deities or rallying others to your cause, Resolve is your anchor in a fractured world.
+**Resolve** The unyielding strength of spirit and purpose. Resolve fuels your conviction when the weight of despair tries to break you. It is your clarity amid madness, your quiet stubbornness to hold fast to what matters. Whether [[Facing|facing]] the whispers of Forbidden Deities or rallying others to your cause, Resolve is your anchor in a fractured world.
 
 **Presence** The power to command attention, sway hearts, and bend wills. Presence is your charisma, yes—but it's more than charm. It's the aura that fills a room, the voice that carries over murmurs, the way you become a symbol for others to rally behind or fear. It's the subtle [[magic]] of influence, [[Skills|negotiation]], and [[Skills|intimidation]].
 

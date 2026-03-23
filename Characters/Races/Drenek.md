@@ -19,7 +19,7 @@ Drenek resemble broad, earthen humanoids whose skin mimics stone, bark, or packe
 **Size:** Medium or Large (player choice at character creation) 
 **Base Blood:** 8
 **Movement:** Standard — see Movement Types for travel rates. 
-**Jump:** 4.5m (Height 3m)
+	**Jump:** 1m + Might (Height 0.5m)
 
 # Languages
 Common and Stonechant.

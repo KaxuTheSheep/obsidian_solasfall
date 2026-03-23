@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Rules/Combat/Space/Senes/Vision.md",
+                "file": "Characters/Races/Kenku.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": false
+                }
               },
               "icon": "lucide-file",
-              "title": "Vision"
+              "title": "Kenku"
             }
           }
         ]
@@ -94,16 +104,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Characters/Races/Kenku.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Kenku"
             }
           },
           {
@@ -112,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Races/Kenku.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Kenku"
             }
           },
           {
@@ -154,20 +166,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Characters/Races/Kenku.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Kenku"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,33 +196,33 @@
   },
   "active": "0033bda0fc497f1f",
   "lastOpenFiles": [
-    "Core Rules/Combat/Space/Facing.md",
-    "Core Rules/Combat/Space/Senes/Vision.md",
-    "Core Rules/Combat/Space/Senses.md",
-    "Core Rules/Combat/Space/Senes",
-    "Core Rules/Combat/Space/Range & Threat.md",
-    "Core Rules/Attributes & Skills/Conditions.md",
+    "Characters/Races/Murk.md",
+    "Characters/Races/Stitched.md",
+    "Characters/Races/Velkhari.md",
+    "Characters/Races/Races.md",
     "Characters/Races/Kenku.md",
     "Characters/Races/Human.md",
     "Characters/Races/Drenek.md",
     "Characters/Races/Cindral.md",
-    "Core Rules/Combat/Space/Falling.md",
     "Core Rules/Combat/Space/Movement Types.md",
+    "Lore/Locations/Districts/Entertainment District.md",
+    "Core Rules/Combat/Action System/Attacks.md",
+    "Lore/Group Language/Cawscript.md",
+    "Core Rules/Combat/Space/Senes/Vision.md",
+    "Core Rules/Combat/Space/Facing.md",
+    "Core Rules/Combat/Space/Senses.md",
+    "Core Rules/Combat/Space/Senes",
+    "Core Rules/Combat/Space/Range & Threat.md",
+    "Core Rules/Attributes & Skills/Conditions.md",
+    "Core Rules/Combat/Space/Falling.md",
     "Core Rules/Attributes & Skills/Skills.md",
     "Core Rules/Attributes & Skills/Attributes.md",
     "Core Rules/Health & Harm/Rest & Recovery.md",
-    "Characters/Races/Stitched.md",
     "Lore/Locations/Hollowdeep/Hollowdeep.md",
-    "Characters/Races/Velkhari.md",
-    "Characters/Races/Murk.md",
-    "Characters/Races/Races.md",
     "Characters/Essences.md",
     "Core Rules/Magic/Magic.md",
     "Lore/Mana.md",
     "Lore/Religion.md",
-    "Core Rules/Magic/Spells/Fireball.md",
-    "Core Rules/Magic/Mana Overload Syndrome.md",
-    "Core Rules/Magic/Spell Construction.md",
     "Core Rules/Magic/Spells",
     "Core Rules/Magic"
   ]

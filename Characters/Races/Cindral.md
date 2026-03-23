@@ -22,7 +22,6 @@ Though humanoid in shape, their movements are deliberate and almost engineered â
 **Size:** Medium 
 **Base Blood:** 8 
 **Movement:** Standard â€” see Movement Types for travel rates. 
-**Jump Height:** 0.5m
 # Languages
 Common and Emberglyphs.
 # Traits

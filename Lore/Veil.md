@@ -15,7 +15,7 @@ The Veil was conceived during the reign of the current King, in collaboration wi
 - The Royal Mages manage the Veil through continuous rituals, overseen by the Royal Advisors, who often exploit its control for personal or political gain — manipulating weather or sunlight for events, appearances, or to symbolically bless decrees.
 
 ### Appearance
-From within Solasfall, the Veil appears as a natural sky — serene and real. Yet, at the city’s fringes, the illusion falters. Those who venture too near its edge find the “sky” turning pale and clouded, until the world becomes an endless wall of mist. Approaching the Veil too closely can induce vertigo, hallucinations, and even brief glimpses of what lies beyond: the bleeding hues of the Fallows.
+From within Solasfall, the Veil appears as a natural sky — serene and real. Yet, at the city’s fringes, the illusion falters. Those who venture too near its edge find the “sky” turning pale and clouded, until the world becomes an endless wall of mist. Approaching the Veil too closely reveals brief glimpses of what lies beyond: the bleeding hues of the Fallows.
 
 ### Instability & the Rift
 Every four weeks, when the Rift to the Hollowdeep is opened, the Veil weakens temporarily. During this time, faint distortions appear overhead — flashes of crimson light, echoes of distorted landscapes, and for some, whispered voices. Though officially dismissed as “mana storms,” many fear these moments as signs that the Fallows are slowly winning.

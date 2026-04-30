@@ -4,9 +4,7 @@ tags:
 ---
 Sturdiness represents your character's ability to absorb and withstand physical punishment before their vital health is compromised. It reflects [[Skills|endurance]], toughness, and the natural resilience of the body.
 ## Calculation
-**Sturdiness = Class Base + [[Attributes|Vitality]] + Bought Increases + Other Modifiers**
-
-- **Class Base:** A fixed value determined by your class, representing the inherent toughness of your fighting style and training. Increases each level by a dice roll varying between classes.
+**Sturdiness = [[Attributes|Vitality]] + Bought Increases + Other Modifiers**
 - **[[Attributes|Vitality]]:** Your [[Attributes|Vitality]] [[Attributes|Attribute]] added directly, representing physical [[Skills|endurance]] and robustness.
 - **Bought Increases:** Additional Sturdiness purchased through Progression Points during advancement.
 - **Other Modifiers:** Bonuses or penalties from [[magic]], [[conditions]], [[essences]], or situational factors.

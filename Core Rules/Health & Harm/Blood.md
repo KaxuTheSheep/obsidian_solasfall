@@ -5,12 +5,11 @@ tags:
 Blood represents your character's core health and [[Attributes|vitality]] — the life force that keeps them conscious and functioning. It is the pool that determines how much [[Injuries|injury]] your character can sustain before falling unconscious or dying.
 
 ## Calculation
-**Blood = Base Blood + [[Attributes|Vitality]] + Class Bonus + Essence Bonuses**
+**Blood = Base Blood + [[Attributes|Vitality]] + Other Modifiers**
 
 - **Base Blood:** A starting value determined by your [[Races|Race]]'s biology.
 - **[[Attributes|Vitality]]:** Your [[Attributes|Vitality]] [[Attributes|Attribute]] added directly, representing physical robustness and [[Skills|endurance]].
-- **Class Bonus:** Certain classes provide a small additional Blood pool to reflect inherent toughness.
-- **Essence Bonus:** Rare [[Essences]] can grant small permanent increases to Blood (+1 to +2 at most), representing permanent augmentation of life force.
+- **Other Modifiers:** Bonuses or penalties from [[magic]], [[conditions]], [[essences]].
 
 ## [[Damage Types|Damage]] Resolution
 - When [[Damage Types|damage]] exceeds [[Sturdiness]], the excess reduces Blood.

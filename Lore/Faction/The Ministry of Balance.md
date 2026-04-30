@@ -16,7 +16,6 @@ Formed to stabilize Solasfall’s chaotic trade of Mana Stones, the Ministry int
     The Ministry constantly recalculates the exchange rate between Mana Stones and Gilded Mints, artificially controlling scarcity to motivate citizens into perilous expeditions.
 - **Taxation and Enforcement:**  
     Every citizen must pay their due in Gilded Mints during the dreaded Weighing event, on pain of death or forced conscription into Hollowdeep salvage teams.
-    
 - **The Weighing:**  
     Occurring two weeks after the Rift opens, this ritual audits the city’s wealth and punishes those who fail to maintain their share of the “balance.” It is both an economic and magical procedure, exploiting the waning Veil as justification for enforcement.
     

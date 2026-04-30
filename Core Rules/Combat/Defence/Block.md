@@ -19,7 +19,7 @@ If an [[Attacks|attack]] hits your block before its activates properly, you inst
 When Block is triggered, roll:
 - The **[[Damage Types|Damage]] Die** of the weapon or shield used to block
 - If a shield is equipped, also roll the **Shield Block Die**
-**Block Value = Weapon/Shield [[Damage Types|Damage]] Die + Shield Block Die (if any)**
+**Block Value = Weapon [[Damage Types|Damage]] Die + Shield Block Die (if any) + Vitality**
 If blocking **unarmed**, roll your **Unarmed [[Damage Types|Damage]] Die** instead.
 ## Effect of Block
 For the remainder of the [[Rounds|round]], while the stance is active:

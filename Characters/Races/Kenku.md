@@ -29,7 +29,7 @@ You can perfectly mimic any voice or sound you have heard. Creatures may make an
 ## Low Light [[Vision]]
 Your Clear Zone extends into what would normally be your Blurry Zone up to **9m**. You cannot see in total darkness.
 ## Talon Strike
-As an [[Attacks|attack]], you may use your claws to deal **1d6 + [[Attributes|Grace]] Slashing [[Damage Types|damage]]** at [[Speed & Resolution|Speed]] **14 + [[Attributes|Grace]]**.
+As an [[Attacks|attack]], you may use your claws to deal **1d4 + [[Attributes|Grace]] Slashing [[Damage Types|damage]]** at [[Speed & Resolution|Speed]] **14 + [[Attributes|Grace]]**.
 ## Glide
 When [[falling]], for every **1.5m** you [[Falling|fall]] you may move **1m horizontally**. You take no [[falling]] [[Damage Types|damage]] on landing regardless of height, provided you have sufficient horizontal space to glide into.
 ## Deception Training

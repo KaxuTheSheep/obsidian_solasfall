@@ -41,7 +41,7 @@ Once per Long Rest, when you would be reduced to 0 Blood, you instead drop to 1 
 A Stitched must spend time every 3 days maintaining their physical cohesion — resewing seams, reattaching loosened parts, and reinforcing the mana signature binding their composite soul together. This can be performed during any rest period given sufficient time and materials.
 
 - If a Stitched completes their Rethread on schedule, their maximum Sturdiness is maintained normally.
-- Each missed Rethread reduces maximum Sturdiness by **15%**, rounded down.
+- Each missed Rethread reduces maximum Sturdiness by 3.
 - Maximum Sturdiness is fully restored upon completing a successful Rethread.
 - If maximum Sturdiness reaches 0 through missed Rethreads, physical disintegration begins — a narrative event handled by the GM.
 

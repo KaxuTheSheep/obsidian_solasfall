@@ -28,7 +28,7 @@ Common and Emberglyphs.
 ## Emberlight
 Your skin glows with a faint fiery crackle, shedding dim light in a 3 metre radius around you. This cannot be suppressed voluntarily — it is a biological constant, not a magical effect.
 ## Heat Resistance
-Your fire-touched physiology reduces all incoming fire damage by **25%**, rounded down. This reflects biological tolerance rather than magical protection.
+Your fire-touched physiology reduces all incoming fire damage by 2. This reflects biological tolerance rather than magical protection.
 ## Emberstrike
 Your body runs hot enough to transfer heat directly through physical contact. When you make a melee or ranged Attack, you may choose to channel your body heat through your weapon as part of that attack, adding **+1 fire damage**. Alternatively, spend a Half Action to intensify the transfer, dealing **1d6 fire damage** instead.
 

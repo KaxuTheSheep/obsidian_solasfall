@@ -33,7 +33,7 @@ Beyond the Blurry Zone is the **Black Zone** regardless of light level.
 **Blurry Zone** — shapes and movement are visible but detail and precise position are not.
 - Disadvantage on attack rolls against targets in your Blurry Zone.
 - Disadvantage on sight-based Perception Tests.
-- You cannot benefit from Dodge against attackers in your Blurry Zone — you cannot track them precisely enough to react.
+- You cannot benefit from Declared Dodge against attackers in your Blurry Zone — you cannot track them precisely enough to react.
 - Attackers targeting you from your Blurry Zone gain Advantage on their attack roll.
 
 **Black Zone** — no visual information. Sound becomes the primary sense

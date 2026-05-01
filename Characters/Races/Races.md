@@ -10,9 +10,9 @@ Within this population, diverse **races** contribute to the city’s culture, ec
 ### Races in [[Solasfall]]
 Races in [[Solasfall]] include:
 - **[[Human]]** – The most [[common]] race, [[Human|humans]] are versatile and resilient. They dominate the city’s politics, guilds, and military, often acting as mediators between other races. Known for adaptability, ambition, and ingenuity.
-- **[[Stitched]]** – Constructed beings, patched together from corpses or magical materials. Often misunderstood and feared, they possess unnatural resilience and unique magical affinities. Many serve as [[Scholar|scholars]], mercenaries, or enforcers.
+- **[[Stitched]]** – Constructed beings, patched together from corpses or magical materials. Often misunderstood and feared, they possess unnatural resilience and unique magical affinities. Many serve as scholars, mercenaries, or enforcers.
 - **[[Velkhari]]** – A mysterious, long-lived race with pale, reflective skin and large eyes adapted to low light. Gifted in arcane arts and [[Skills|stealth]], they are rare in the city but highly sought for magical or espionage tasks.
 - **[[Kenku]]** – Avian humanoids with a mimicry-based language. Agile, cunning, and often involved in trade, thievery, or covert operations. Social bonds are tight, and they are loyal to their flock above all.
-- **[[Murk]]** – Amphibious, dark-skinned folk adapted to swamps and waterways. Experts in [[Skills|survival]], [[Skills|stealth]], and guerrilla tactics. Often employed as scouts, fishermen, or in clandestine [[roles]].
+- **[[Murk]]** – Amphibious, dark-skinned folk adapted to swamps and waterways. Experts in [[Skills|survival]], [[Skills|stealth]], and guerrilla tactics. Often employed as scouts, fishermen, or in clandestine roles.
 - **[[Cindral]]** – Fire-touched humanoids with ember-like eyes and faintly glowing veins. Passionate, volatile, and skilled in pyromancy or smithing. Cultural pride and artistry are highly valued.
 - **[[Drenek]]** – Large, muscular, reptilian humanoids. Resilient and strong, often seen as laborers, guards, or warriors. They value clan loyalty and honor above personal ambition.

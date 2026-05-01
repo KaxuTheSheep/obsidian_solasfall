@@ -4,7 +4,7 @@ aliases:
 tags:
   - Mechanics/Combat
 ---
-Afflictions represent disruptions to the **mind** rather than the body. They reflect stress responses, deep-seated fears, [[Hollowdeep]] influence, and psychological strain. Unlike physical [[Injuries|Wounds]], Afflictions influence **thoughts, behaviour, [[Skills|perception]], or emotional [[reactions]]**.
+mostAfflictions represent disruptions to the **mind** rather than the body. They reflect stress responses, deep-seated fears, [[Hollowdeep]] influence, and psychological strain. Unlike physical [[Injuries|Wounds]], Afflictions influence **thoughts, behaviour, [[Skills|perception]], or emotional [[reactions]]**.
 Afflictions are **specific** in nature.  
 Two characters may both be stressed, but one may shake uncontrollably near [[blood]], while another becomes numb or withdrawn.
 Afflictions do **not** impose broad universal penalties like exhaustion.  

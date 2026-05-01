@@ -23,7 +23,7 @@ tags:
 Skills are specific areas of training and expertise built upon your natural [[Attributes]]. While your [[Attributes]] show what you're generally capable of, Skills represent where you've focused your efforts and experience. When you attempt an [[Actions|action]] tied to a particular skill, add both your [[Attributes|Attribute]] and your Skill Bonus to your 2d10 roll. This reflects how specialised knowledge sharpens natural talent.
 
 ## Training Levels & Skill Bonus
-At character creation, you have 4 Training Points to invest in skills. Each level of training in a skill grants a +1 bonus when using that skill. You can spread training broadly for small bonuses in many skills or specialise for higher bonuses in fewer skills.
+Skill training is purchased using Trait Points from your shared pool. Each level of training in a skill grants a +1 bonus when using that skill. You can spread training broadly for small bonuses in many skills or specialise for higher bonuses in fewer skills.
 
 |Training Level|Description|Skill Bonus|
 |---|---|---|
@@ -32,7 +32,8 @@ At character creation, you have 4 Training Points to invest in skills. Each leve
 |2|Skilled|+2|
 |3|Expert|+3|
 
-You gain initial skill training from your [[Races|Race]], [[Origins|Origin]], [[Roles|Role]], and Class, each granting specific skills that reflect your heritage, background, and chosen path. If you gain training in a skill you already have, increase its training level by +1 up to the highest linked [[Attributes|Attribute]]. You can then improve your skills over time through story milestones, unique opportunities, or other significant events in the narrative.
+Each level of training costs 1 Trait Point. Training is capped at your highest linked Attribute — a character with Insight 2 cannot exceed Skilled in Arcana regardless of points spent.
+You may also gain initial skill training from your Race and Class. If you gain training in a skill you already have, increase its training level by +1 up to the cap. You can improve skills over time through story milestones, unique opportunities, or other significant narrative events.
 
 ## Using Skills
 When the GM calls for a skill Test:

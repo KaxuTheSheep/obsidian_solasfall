@@ -16,7 +16,6 @@ Your character's Attributes are the core lenses through which you experience and
 Each Attribute is rated from 0 to 6. The higher your score, the stronger your connection to that aspect of your being. Your Attribute score is added directly to relevant rolls.
 
 ## The Six Attributes
-
 **Might** The raw force of your body and will. Might isn't just about brute strength—it's your stubbornness to push through pain, your grip on reality when everything is falling apart. Whether breaking a lock, holding the line in combat, or enduring the gruelling weight of the [[Hollowdeep]], Might is your anchor to physical power and [[Skills|endurance]].
 
 **Grace** The fluid art of [[Movement Types|movement]] and precision. Grace is how you dance through danger, slip unseen into forbidden places, or thread a needle with surgical [[Skills|skill]]. It governs not only your agility but your finesse—how you wield a blade, pick a pocket, or slip past a watcher without a sound.
@@ -39,10 +38,10 @@ Each Attribute runs from 0 to 6. Your score is added directly to any roll involv
 |4–5|Skilled|
 |6|Exceptional / expert|
 
-## Determining Your Attributes
-You have **24 points** to spend across your six Attributes: Might, Grace, Vitality, Insight, Resolve, and Presence.
+### Determining Your Attributes
+Attributes are purchased using Trait Points from your shared pool alongside skills, Sturdiness, racial nodes, and everything else competing for the same currency.
 
-All Attributes start at 0. You then spend points to increase them. As Attributes get higher, they cost more points to improve — reaching 6 in any Attribute is a significant investment and a genuine character-defining choice.
+All Attributes start at 0. Costs scale as Attributes increase.
 
 |Increase|Cost|
 |---|---|
@@ -53,4 +52,4 @@ All Attributes start at 0. You then spend points to increase them. As Attributes
 |4 → 5|4 points|
 |5 → 6|5 points|
 
-> Reaching 6 in a single Attribute costs 17 of your 24 points — leaving only 7 points for your remaining five Attributes. Choose wisely.
+> Reaching 6 in a single Attribute costs 17 Trait Points — a significant long-term investment. This is rarely worth it for the +1 alone. Attribute 6 exists primarily as a prerequisite gate for advanced class tree nodes, making it a strategic choice for players planning deep specialisation.

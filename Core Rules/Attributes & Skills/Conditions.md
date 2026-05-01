@@ -23,7 +23,7 @@ Your focus is unstable.
 - The **first** **Test** you make each [[Rounds|round]] is at **Disadvantage**.
 ### Disoriented
 Your coordination breaks for a moment.
-- You **lose your Half [[Actions|Action]]**** on your next [[Rounds|round]].
+- You **lose your Half [[Actions|Action]]** on your next [[Rounds|round]].
 ### Exhaustion (1-10)
 Exhaustion represents the gradual wearing down of the body and mind through strain, [[Injuries|injury]], stress, and [[Skills|survival]] pressure. It is measured in **levels from 0 to 10**.  
 At **10**, the character **dies**.

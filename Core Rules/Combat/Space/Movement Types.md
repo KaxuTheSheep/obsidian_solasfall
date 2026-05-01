@@ -55,7 +55,3 @@ Base jump distance is defined by [[Races|race]]. If you have moved at least 3m b
 
 ## Difficult Terrain
 Difficult terrain — deep water, rubble, dense undergrowth, unstable surfaces — impairs movement. The GM adjudicates the effect based on the environment and the movement type being used. Typical effects include reduced Travel Rate or requiring an [[Skills|Athletics]] Test to move through safely.
-
-
-## Falling
-Falling consequences are handled narratively or with simple [[Damage Types|damage]] rules as appropriate to the situation.

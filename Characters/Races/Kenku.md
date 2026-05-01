@@ -6,10 +6,10 @@ tags:
 ---
 # Status
 *Accepted, integrated, quietly influential.*
-Widely integrated throughout the city, Kenku are not confined to a single [[Roles|role]] or space. Seen as practical and adaptable, they fill most societal niches and often go unnoticed despite their [[Attributes|presence]] in all levels of society. Though often underestimated by [[Human|Humans]], they are respected by other [[races]] for their loyalty, utility, and unusual insights.
+Widely integrated throughout the city, Kenku are not confined to a single role or space. Seen as practical and adaptable, they fill most societal niches and often go unnoticed despite their [[Attributes|presence]] in all levels of society. Though often underestimated by [[Human|Humans]], they are respected by other [[races]] for their loyalty, utility, and unusual insights.
 # Culture
 Kenku social structures resemble crow murders — flexible, shifting groups that collaborate when useful but do not enforce lasting hierarchy. They often adopt and repurpose ideas and practices, approaching life with a pragmatic sense of reuse; creation and destruction are part of the same cycle.
-Religious belief is [[common]], especially among followers of [[the Blind Shepherd]], whose values resonate with Kenku views on silence, shadow, and memory. In their own district, Kenku take on [[roles]] they [[Attributes|might]] not occupy elsewhere, such as metalworking or leadership, demonstrating versatility otherwise hidden in broader society.
+Religious belief is [[common]], especially among followers of [[the Blind Shepherd]], whose values resonate with Kenku views on silence, shadow, and memory. In their own district, Kenku take on roles they [[Attributes|might]] not occupy elsewhere, such as metalworking or leadership, demonstrating versatility otherwise hidden in broader society.
 # Relationships with Other [[Races]]
 Kenku align closely with [[Human|Humans]] in worldview and societal goals, often sharing community spaces and religious institutions. They have a soft spot for the [[Stitched]], relating to their quiet persistence and finding shared value in forgotten things. Relations with [[Murk|Murks]] are positive, marked by mutual respect. While [[Human|Humans]] may see Kenku as beneath them, other [[races]] rarely question or challenge Kenku [[Attributes|presence]].
 # Appearance

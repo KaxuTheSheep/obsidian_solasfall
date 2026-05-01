@@ -11,7 +11,7 @@ aliases:
 **Apparent Age:** ~48
 **Condition:** Physically stable; occasional minor strain from extended shadowcraft or Hollowdeep operations.  
 **Race:** Stitched  
-**Languages:** Common, Shatterspeak, Solari
+**Languages:** Common, Cawscript, Solari
 
 ## Faction Relationships
 - **The Royal Mages:** Trusted for practical missions requiring stealth or subterfuge; occasional tension over ethical boundaries of shadowcraft.

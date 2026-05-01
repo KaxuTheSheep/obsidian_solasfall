@@ -1,7 +1,5 @@
 ---
 aliases:
-  - The Shattered Expanse
-  - Floor One
 tags:
   - Location
   - Lore

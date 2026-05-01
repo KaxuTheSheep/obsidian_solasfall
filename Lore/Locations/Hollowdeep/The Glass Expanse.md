@@ -1,7 +1,5 @@
 ---
 aliases:
-  - The Glass Expanse
-  - Floor Two
 tags:
   - Lore
 ---

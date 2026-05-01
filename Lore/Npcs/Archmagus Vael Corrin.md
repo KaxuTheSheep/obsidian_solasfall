@@ -10,7 +10,7 @@ aliases:
 **Age:** 38  
 **Condition:** Physically robust; prolonged mana manipulation sometimes causes mild vertigo or disorientation. Mentally disciplined, highly focused.  
 **Race:** Velkhari  
-**Languages:** Common, Shatterspeak, Solari
+**Languages:** Common, Veilscent, Solari
 
 ## Faction Relationships 
 - **Royal Mages** – Reliable collaborators for sanctioned rift operations; frustratingly focused on politics rather than precision, but indispensable.

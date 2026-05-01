@@ -12,7 +12,7 @@ tags:
 **Age:** 47  
 **Condition:** Healthy, mentally sharp, occasionally fatigued from overseeing multiple beginner cohorts.  
 **Race:** Velkhari  
-**Languages:** Common, Shatterspeak, Solari
+**Languages:** Common, Veilscent, Solari
 
 ## Faction Relationships
 - **Royal Mages** – Respected mentors; relies on them for sanctioned magical guidance and coordination.

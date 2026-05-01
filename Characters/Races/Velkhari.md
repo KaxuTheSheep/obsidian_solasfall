@@ -25,7 +25,7 @@ Pale, almost ghostly skin with shark-like teeth and long tongues. Pupil-less eye
 	**Swim Travel Rate:** 0.5m per Speed 
 	**Jump:** 4m base distance + Might (Height 1m base)
 # Languages
-Common and Shatterspeak.
+Common and Veilscent.
 # Traits
 ## Rift Step
 Harnessing their connection to the Rift, Velkhari can momentarily tear open a shimmering portal in space.

@@ -17,7 +17,6 @@ Most races regard Stitched with unease or fear, associating them with war trauma
 Stitched are clearly artificial, with visible seams, patches, and varying skin tones from their previous lives. Body parts may differ in size, colour, and texture. Older Stitched tend to appear more cohesive and symmetrical as their composite identity stabilises. Eyes often glow faintly, reflecting the residual vitality of past lives. Clothing is practical, adapted for exploration, labour, or stealth, often covering or reinforcing seams.
 # Soul
 A Stitched soul is not one coherent mana signature but many overlapping ones drawn from the lives stitched into their form. This composite signature is unstable in youth and gradually consolidates as one dominant pattern asserts itself. It is neither fully any of its parts nor something entirely new — it is all of them at once, slowly becoming one.
-
 # Stats
 **Size:** Medium 
 **Base Blood:** 10 

@@ -6,7 +6,7 @@ tags:
 
 **Calculation:**  
 **Evasion Score = Base Evasion + Grace + Class Bonuses + Other Modifiers**
-- **Base Evasion:** Starts at **8**.
+- **Base Evasion:** Starts at **6**.
 - **Grace:** Your Grace Attribute, reflecting your natural nimbleness.
 - **Class Bonuses:** You evasion may increase from certain abilities from certain classes.
 - **Other Modifiers:** Bonuses or penalties from magic, equipment, Conditions, essences or situational factors.

@@ -15,24 +15,24 @@ A Full Action is used to perform meaningful or committed activity such as attack
 Examples of Full Actions:
 - [[Attacks|Attack]]
 - [[Heavy Attack]]
-- [[Block]]
-- [[Parry]]
-- [[Dodge]] (when declared at the start of the [[Rounds|round]])
+- Declare [[Block]] stance
+- Declare [[Parry]] stance
+- Declare Active [[Dodge]] stance 
 - Run
 - Cast a Spell
-- Use [[Skills|Skill]]
 - Help
 - Interact (complex or deliberate)
 - [[Brace|Full Brace]]
 ### Half Actions
 A Half Action represents a quick or less involved task.  
-Half Actions may be taken before, after, or between Full Actions.
+Half Actions occur during your Declaration Phase and do not affect Speed resolution order.
 Examples of Half Actions:
 - Draw or stow a weapon
 - Jump
 - Interact (simple or quick)
 - Drink a potion **(Half Action: roll for risk, Full Action: safe)**
 - [[Brace|Quick Brace]]
+- Using a [[Skills|Skill]]
 ### [[Reactions]]
 A Reaction is a defensive or opportunistic response to another creature’s action **during the Resolution Phase**.  
 It is not declared at the start of the [[Rounds|round]] and may interrupt events if timing allows.

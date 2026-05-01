@@ -140,7 +140,7 @@ A light, flexible bow suited for quick draws and mobile combat.Effective at medi
 **[[Damage Types|Damage]] Die:** 1d6 + [[Attributes|Grace]] 
 **[[Damage Types|Damage]] Type:** Piercing 
 **[[Speed & Resolution|Speed]] (Base):** 13 + [[Attributes|Grace]] 
-**Arrow Travel:** 15m per [[Speed & Resolution|Speed]] point 
+**Arrow Travel:** 15m per [[Speed & Resolution|Speed]]  
 **Optimal [[Range & Threat|Range]]:** 50m 
 **Minimum [[Range & Threat|Range]]:** 3m 
 **Handedness:** Two-Handed 

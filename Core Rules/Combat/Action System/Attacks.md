@@ -11,7 +11,7 @@ tags:
 - Some [[Weapons]] are inherently heavy and require 2 full [[Actions]] to attack but cannot perform [[Heavy Attack|heavy attacks]] for extra [[Damage Types|damage]].
 
 ## Attack Rolls
-- To make an attack, roll 2d10 + the relevant [[Attributes|Attribute]] (usually Might for melee, Grace for ranged).
+- To make an attack, occurring at the speed of the attack, roll 2d10 + the relevant [[Attributes|Attribute]] (usually Might for melee, Grace for ranged).
 - Compare the total to the target’s [[Evasion]] DN to determine if the attack hits.
 - If the total meets or exceeds the [[Evasion]] DN, the attack hits and deals [[Damage Types|damage]].
 > [[Ranged attacks]] follow the same hit resolution — roll 2d10 + Grace against the target's [[Evasion]]. For ranged specific rules including arrow travel, [[Range & Threat|range]] penalties, and cover see [[Ranged Attacks]].

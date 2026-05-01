@@ -2,55 +2,70 @@
 tags:
   - Mechanics/Combat
 ---
+Ranged [[attacks]] allow characters to strike targets at a [[Movement Types|distance]] using bows, thrown [[weapons]], or similar arms. They follow the same core [[Attacks|attack]] resolution as melee but interact differently with movement, cover, and spatial timing.
 
-Ranged [[attacks]] allow characters to strike targets at a [[Movement Types|distance]] using bows, thrown [[weapons]], or similar arms. They follow the same core [[Attacks|attack]] resolution as melee but interact differently with [[Movement Types|movement]], cover, and defence.
-
-## [[Attacks|Attack]] Roll
-Roll **2d10 + Grace** and compare to the target's [[Evasion]].
+## Attack Roll
+Roll **2d10 + Grace** and compare to the target’s [[Evasion]].
 
 ## Arrow Travel
-Ranged [[weapons]] have two [[Speed & Resolution|Speed]] values:
+Ranged weapons use two timing values:
+- **Initiation [[Speed & Resolution|Speed]]** — when the attack is launched in the Resolution Phase.
+- **Travel Rate** — how far the projectile moves per [[Speed & Resolution|Speed]] step (metres per step).
 
-- **Initiation [[Speed & Resolution|Speed]]** — when the [[Attacks|attack]] is launched, same as any other [[Actions|action]] in the resolution order.
-- **Travel Rate** — how far the projectile travels per [[Speed & Resolution|Speed]] point after launch, measured in metres per [[Speed & Resolution|Speed]] point.
+Projectiles move continuously through the Speed timeline after being launched.
 
-The projectile is in flight during the Resolution Phase. A target that moves behind cover before the projectile arrives is protected. Whether a target reaches cover in time depends on their [[Movement Types|movement]] [[Speed & Resolution|Speed]] compared to the projectile's arrival [[Speed & Resolution|Speed]].
+## Projectile Resolution
+All ranged projectiles (arrows, bolts, thrown weapons, and spell projectiles) move through space during the Resolution Phase.
 
-> **Example:** A shortbow fires at Initiation [[Speed & Resolution|Speed]] 16. The arrow travels at 15m per [[Speed & Resolution|Speed]] point. A target 60m away is hit at [[Speed & Resolution|Speed]] 12 (16 - 4 [[Speed & Resolution|Speed]] points). A walking character initiating at [[Speed & Resolution|Speed]] 10 begins moving at 2.5 seconds into the [[Rounds|round]] — just after the arrow arrives. At 90m the arrow arrives at [[Speed & Resolution|Speed]] 10, simultaneous with the walker's initiation — GM call.
+- Projectiles advance along their path by their **Travel Rate each Speed step** after initiation.
+- At each Speed step, the projectile’s position is checked against all valid targets.
+- If a projectile enters a target’s occupied space at any Speed step, the attack resolves immediately.
+- If a target moves into or out of that space at their own Speed steps, the check uses their updated position at that step.
 
-## [[Range & Threat|Range]]
-Each ranged weapon has an optimal [[Range & Threat|range]]. Within optimal [[Range & Threat|range]] there is no penalty to the [[Attacks|attack]] roll.
+> A target is considered hit if the projectile passes through their occupied space (typically a 1–2m radius unless otherwise defined).
 
-Beyond optimal [[Range & Threat|range]], the [[Attacks|attack]] roll and [[Damage Types|damage]] suffers **-1 per 20m**. There is no cap — extremely long [[Range & Threat|range]] shots become increasingly unlikely but never mechanically impossible.
+Projectiles travel in a straight line from origin to declared target unless stated otherwise.
 
-## Minimum [[Range & Threat|Range]]
-If a target is within the weapon's minimum [[Range & Threat|range]] threshold, the [[Attacks|attack]] roll is made at **Disadvantage**. This mirrors the [[Close-Quarters]] penalty for reach [[weapons]] — a bow is unwieldy at point blank [[Range & Threat|range]].
+## Example
+A shortbow is fired at **Initiation Speed 16** with a Travel Rate of **15m per Speed step**.
+- Speed 16 → Arrow is released.
+- Speed 15 → 15m travelled.
+- Speed 14 → 30m travelled.
+- Speed 13 → 45m travelled.
+- Speed 12 → 60m travelled → target is present → attack resolves.
+
+A second creature begins moving at Speed 10, but the projectile has already passed their position before they enter it, so they are unaffected.
+
+## Range
+Each ranged weapon has an optimal [[Range & Threat|range]].
+- Within optimal range: no penalty.
+- Beyond optimal range: **-1 to Attack and Damage per 20m beyond optimal range**.
+
+There is no cap on range penalties.
+
+## Minimum Range
+If a target is within minimum [[Range & Threat|range]]:
+- Attack rolls are made at **Disadvantage**.
+This represents awkward handling at extreme close range.
 
 ## Cover
-Cover represents physical obstacles between the attacker and target. Foundry will prompt for cover percentage when making a ranged [[Attacks|attack]] roll.
+Cover represents physical obstruction between attacker and target.
 
 |Cover|Effect|
 |---|---|
-|Partial (~25–50%)|–2 to [[Attacks\|attack]] roll|
-|Significant (~75%)|–4 to [[Attacks\|attack]] roll|
-|Full (100%)|Automatic miss|
+|Partial (25–50%)|–2 to Attack|
+|Significant (75%)|–4 to Attack|
+|Full (100%)|Attack automatically fails|
 
-On a **Critical Success** against a target in Full Cover, the shot may ricochet or find a gap at the GM's discretion.
+On a Critical Success against Full Cover, the shot may find a gap or ricochet at GM discretion.
 
-## [[Facing|Facing]]
-- Attacking from a target's **Rear Arc** grants **Advantage** on the [[Attacks|attack]] roll.
-- **[[Parry]]** does not apply against ranged [[attacks]].
-- **[[Block]]** does not apply unless the target's shield is actively [[Facing|facing]] the attacker.
-- **[[Dodge]]** applies normally — it is [[Movement Types|movement]] based and direction independent.
-## [[Reactions]] and Cover
+## Facing
+- Attacking from the rear arc grants **Advantage**.
+- [[Parry]] does not apply to ranged attacks.
+- [[Block]] only applies if a shield is actively facing the attacker.
+- [[Dodge]] applies normally.
 
-A character may spend their Reaction during the Resolution Phase to move behind cover mid-[[Movement Types|movement]]. Whether they reach cover before the projectile arrives depends on their [[Movement Types|movement]] [[Speed & Resolution|Speed]] and the projectile's travel rate. See [[Movement Types|Movement]] Types and [[Reactions]].
+## Reactions and Cover
+A character may use a Reaction during the Resolution Phase to move into cover.
 
-## Reference: Shortbow
-
-|Property|Value|
-|---|---|
-|Initiation [[Speed & Resolution\|Speed]]|16|
-|Travel Rate|15m per [[Speed & Resolution\|Speed]] point|
-|Optimal [[Range & Threat\|Range]]|#Wip|
-|Minimum [[Range & Threat\|Range]]|#Wip|
+Whether they reach cover before impact depends on their **movement Speed steps relative to the projectile’s travel Speed steps**.

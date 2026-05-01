@@ -1,40 +1,87 @@
-A concentrated ball of combusting [[mana]] launched toward a target area. At low investment Fireball is a simple combat tool comparable to a thrown flame. At high investment it becomes a precise, sustained inferno capable of controlling entire engagements.
-**School:** Elemental 
-**Base DN:** Control 8 / Manifest 12
+A concentrated mass of combusting [[mana]] launched toward a target point. On impact, it detonates instantly in a violent burst of heat and pressure.
+At low investment, Fireball is a simple offensive strike. At high investment, it becomes a controlled battlefield detonation capable of shaping space through destruction.
+
+**School:** Elemental  
+**Base DN:** Control 8 / Manifest 12  
 **Base [[Sanity]] Cost:** 7
 
 ## Base Effect
-A rough ball of fire is hurled toward a target area within [[Range & Threat|range]]. On impact it detonates, dealing fire [[Damage Types|damage]] to all creatures within radius. Targets hit are afflicted with Burn.
-**Burn:** 1d2 fire [[Damage Types|damage]] per [[Rounds|round]], bypasses [[Sturdiness]]. Base duration 2 [[rounds]]. Cannot be increased through enhancement points. Targets may end Burn through logical methods such as dropping and rolling, submerging in water, or smothering the flames.
+Fireball is launched toward a target point within [[Range & Threat|range]] using standard ranged spell projectile rules.
+It travels through space as a projectile and resolves using the [[Ranged Attacks]] system.
+When Fireball **intersects a valid surface or target**, it detonates immediately.
+Valid detonation triggers:
+- A creature
+- A solid object (wall, floor, ceiling, terrain)
+- Any obstruction that interrupts travel
 
+On detonation:
+- All creatures within radius take fire [[Damage Types|damage]]
+- All affected targets gain **Burn**
+## Burn
+Burn is applied on impact.
+
+- 1d2 fire [[Damage Types|damage]] per [[Rounds|round]]
+- Bypasses [[Sturdiness]]
+- Base duration: 2 [[rounds]]
+- Cannot be extended by Enhancement Points
+
+Burn can be removed through logical physical countermeasures (smothering, immersion, etc.).
 ## Variables
-Each point spent enhances one variable and raises the DN.
+Each point increases Control DN and Manifest DN.
 
-|Variable|Base|Per Point|
-|---|---|---|
-|[[Damage Types\|Damage]]|1d6 fire|+1 die step. After d12, adds 1d2 stepping up.|
-|Radius|1m|+1m|
-|[[Range & Threat\|Range]]|15m|+5m|
-|Delivery|Lobbed ball|2 points unlocks an alternative delivery method.|
-### Delivery Methods
-- **Lobbed Ball (base):** Arcs toward target area, detonates on impact.
-- **Piercing Bolt (2 points):** Travels in a straight line, detonates on first target hit. Passes through if target is killed.
-- **Cone Burst (2 points):** Short [[Range & Threat|range]] forward arc, hits everything in spread.
+| Variable                  | Base        | Per Point                                        |
+| ------------------------- | ----------- | ------------------------------------------------ |
+| [[Damage Types\|Damage]]  | 1d6 fire    | +1 die step. After d12, adds 1d2 stepping up.    |
+| Radius                    | 1m          | +1m                                              |
+| [[Range & Threat\|Range]] | 15m         | +5m                                              |
+| Delivery                  | Lobbed ball | 2 points unlocks an alternative delivery method. |
+
+## Delivery Modes
+All Fireball forms follow projectile travel rules unless stated otherwise.
+
+### Lobbed Ball (Base)
+- Arcs toward target point
+- Detonates on first valid impact or end of range
+
+### Piercing Bolt (2 points)
+A linear projectile of compressed flame.
+- Travels in a straight line through space
+- Uses full projectile resolution rules
+- Continues until:
+    - it exceeds range, or
+    - caster’s current round resolution ends
+- Detonates on each valid target or surface it intersects (GM-defined if multi-hit allowed per cast; default is **first valid hit only unless enhanced**)
+
+### Cone Burst (2 points)
+A directional wave of flame.
+- Projects a forward cone from caster
+- Uses projectile travel rules as a sweeping shape
+- Limited to **half normal range**
+- Intersects all valid targets in its path during travel
 
 ## [[Attributes|Presence]]
-Every 2 points of [[Attributes|Presence]] adds 1 [[Rounds|round]] to Burn duration after resolution, at no additional point or DN cost.
+Every 2 points of Presence increases Burn duration:
 
-|[[Attributes\|Presence]]|Burn Duration|
+|Presence|Burn Duration|
 |---|---|
 |0–1|2 [[rounds]]|
 |2–3|3 [[rounds]]|
 |4–5|4 [[rounds]]|
 |6|5 [[rounds]]|
-## Backlash Examples
-When Fireball falls below the Control DN, the [[mana]] escapes outward uncontrolled. Possible results include:
 
-- Detonates immediately at the caster's feet.
-- Inverts — targets are struck with intense cold instead of fire.
-- Splits into multiple smaller uncontrolled projectiles launched in random directions.
-- Delayed detonation — the fireball forms but does not detonate until the following [[Rounds|round]] at a random point along its path.
-- Implosion — rather than exploding outward, force pulls inward toward the point of cast.
+## Backlash
+When Fireball falls below Control DN, [[mana]] destabilises during travel or ignition.
+
+Possible outcomes:
+
+- Premature detonation at caster position
+- Detonation mid-flight at random Speed step
+- Inverted thermal reaction (cold burst)
+- Fragmentation into uncontrolled sub-projectiles
+- Delayed ignition with random spatial displacement along path
+
+## Key Integration Notes
+- Fireball is fully governed by [[Ranged Attacks]] projectile resolution
+- It interacts with movement, cover, and interception naturally via Speed steps
+- No special AoE timing rules exist outside of impact resolution
+- Explosion is instantaneous and does not persist in space

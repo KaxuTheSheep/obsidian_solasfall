@@ -53,3 +53,72 @@ Consequences scale with how badly the Test was failed and the spell's complexity
 Learning a pre-existing spell framework from an institution bypasses the development process entirely. The mage receives a finished framework — variables, DN values, [[Sanity]] costs, and [[Attributes|Presence]] interactions already defined.
 
 Institutional learning costs money and time, fitting within the institution's fee structure. The mage is working within someone else's understanding of [[mana]] rather than developing their own, but the risk of experimental backlash is eliminated.
+
+# Spell Blueprint Template 
+This is a template for a spell, these don't all necessarily need to be filled in,
+
+## Spell Name
+**Name:** [Spell Name]  
+**School:** [Element / Discipline / Source]  
+**Type:** [Attack / Utility / Control / Ritual / etc.]
+
+## Core Concept
+A short description of what the spell _is doing in-world_.
+
+> This is the “natural process being accelerated” explanation.
+
+## Casting Method
+How the spell is formed and delivered.
+- **Delivery Type:** (Projectile / Weave / Circle / Hybrid / Melee)
+- **Resolution Type:** (Ranged projectile / AoE / Targeted / Area shape)
+- **Trigger Condition:** (Impact / Completion / Channel / Contact)
+
+## Base Stats
+
+|Stat|Value|
+|---|---|
+|Control DN|X|
+|Manifest DN|X|
+|Base [[Sanity]] Cost|X|
+
+## Base Effect
+What happens at minimum investment.
+- Primary effect
+- Target rules
+- Damage / utility outcome
+- Immediate secondary effects (if any)
+
+## Variables
+Each variable is something the spell can be tuned during construction.
+
+|Variable|Base|Scaling|
+|---|---|---|
+|Damage|X|+X per point|
+|Range|X|+X per point|
+|Radius / Shape|X|+X per point|
+|Special Variable|X|rule-defined|
+
+## Delivery Options (if applicable)
+Unlocked configurations of the spell.
+- Form A: description
+- Form B: description
+- Form C: description
+Each must state:
+- shape
+- range behaviour
+- resolution behaviour
+
+## Presence Interaction
+How [[Attributes|Presence]] modifies the spell after resolution.
+
+- What is amplified
+- Scaling rule
+- Cap or limit (if any)
+
+## Backlash Profile
+What happens on failure below Control DN.
+- Minor failure
+- Moderate failure
+- Severe failure
+
+(These should always be **thematically consistent with the spell**, not generic chaos)

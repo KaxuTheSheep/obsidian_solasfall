@@ -29,22 +29,22 @@ Choose from: Human, Cindral, Drenek, Kenku, Murk, Stitched, Velkhari
 
 See individual Race notes for full details.
 
-## Step 2 — Spend Creation Points
-You receive a pool of Creation Points to spend freely across the following:
+## Step 2 — Spend Trait Points
+You receive a pool of Trait Points to spend freely across the following:
 **Attributes** Six attributes rated 0–6, each added directly to relevant rolls. Costs scale as attributes increase. All attributes start at 0.
 
-**Skill Training** Four training points to distribute across skills at creation. Each point raises training level by 1, up to the maximum of your highest linked attribute.
+**Skill Training** Each point raises training level by 1, up to the maximum of your highest linked attribute.
 Additional training may come from your race.
 
 **Racial Tree Nodes** The only tree available at level 0. Racial nodes represent biological development and cultural mastery. Some nodes are gated behind level requirements and cannot be purchased at creation regardless of point availability.
 
 **Weapon Mastery** Points may be spent toward weapon mastery at creation, representing prior training before play begins.
 
-**Sturdiness Increases** All characters begin with a default Sturdiness of 4. Additional Sturdiness may be purchased using the universal cost table, subject to Vitality requirements.
+**Sturdiness Increases** All characters begin with a default Sturdiness of 6. Additional Sturdiness may be purchased using the universal cost table, subject to Vitality requirements.
 
 **Essence Capacity** Characters begin with capacity for 1 Essence. Additional capacity may be purchased at creation.
 
-> **Hard Lock Reminder:** Creation points cannot be spent on class tree nodes. Class trees unlock at level 1 regardless of prerequisites.
+> **Hard Lock Reminder:** Trait points cannot be spent on class tree nodes. Class trees unlock at level 1 regardless of prerequisites.
 
 ## Step 3 — Starting Ability
 Every character receives one Starting Ability reflecting personal history, prior experience, or innate talent. This is your level 0 identity before class investment shapes who you become.
@@ -94,7 +94,7 @@ Equipment purchased here represents everything your character owns at the start 
 
 See Equipment notes for prices and availability.
 ## Step 6 — Class Declaration (Optional)
-If your creation point spending has already met the prerequisites for one or two classes, you may declare them now. This costs nothing and commits to nothing — it simply signals your intent.
+If your trait point spending has already met the prerequisites for one or more classes, you may declare them now. This costs nothing and commits to nothing — it simply signals your intent.
 
 Class trees remain hard locked until level 1. Declaration at this stage means you are ready to invest the moment you level up.
 
@@ -114,7 +114,7 @@ Level 0 teaches you the system through necessity. You will discover what you can
 The first class investment feels different when you remember what you were before it.
 
 ## Levelling Up
-At each level up you receive Progression Points to spend freely across:
+At each level up you receive Trait Points to spend freely across:
 - Attributes
 - Skill training
 - Racial tree nodes (subject to level gates)

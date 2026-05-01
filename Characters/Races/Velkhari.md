@@ -27,6 +27,17 @@ Pale, almost ghostly skin with shark-like teeth and long tongues. Pupil-less eye
 # Languages
 Common and Veilscent.
 # Traits
+### Predator's Scent
+Your parasite-enhanced physiology grants you a heightened sense of smell. You can detect creatures within 5m by scent alone, even through walls or in total darkness. Heavily obscured or odourless creatures may reduce this range at GM discretion.
+
+### Predator's Bite
+As an attack, you may bite a target within melee range, dealing 1d4 + Might Piercing damage at Speed 12 + Grace.
+
+# Racial Web
+
+
+
+# TEMP
 ## Rift Step
 Harnessing their connection to the Rift, Velkhari can momentarily tear open a shimmering portal in space.
 As a Half Action at Speed 10, create a Rift within line of sight and instantly teleport to it, up to **15m** away. Can be used once per any Rest.

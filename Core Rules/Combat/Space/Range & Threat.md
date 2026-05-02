@@ -29,8 +29,8 @@ These distances matter for **control and leverage**, not just whether you _can_ 
 - Dagger user (NR 1.0 + WR 0.35 = **1.35 m**)
 - Spear user (NR 1.0 + WR 1.5 = **2.5 m**)
 
-|[[Movement Types\|Distance]]|Outcome|
-|---|---|
-|**2.5 m**|Spear can [[Attacks\|attack]], dagger cannot.|
-|**1.5 m**|Both can [[Attacks\|attack]] normally.|
-|**0.5 m**|Dagger is inside spear’s **Natural Range** → dagger gains advantage (if using **[[Close-Quarters]]** [[weapons]]), spear suffers **Close-In Weakness** (if using **Reach** weapon).|
+| [[Movement Types\|Distance]] | Outcome                                                                                                                                                                             |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **2.5 m**                    | Spear can [[Attacks\|attack]], dagger cannot.                                                                                                                                       |
+| **1.2 m**                    | Both can [[Attacks\|attack]] normally.                                                                                                                                              |
+| **0.5 m**                    | Dagger is inside spear’s **Natural Range** → dagger gains advantage (if using **[[Close-Quarters]]** [[weapons]]), spear suffers **Close-In Weakness** (if using **Reach** weapon). |

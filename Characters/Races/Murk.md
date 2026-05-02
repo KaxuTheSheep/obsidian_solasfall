@@ -24,15 +24,67 @@ Murks are amphibious, with smooth, moist skin ranging from green-grey to slate-b
 # Languages
 Common and Flowtongue.
 # Traits
-## Amphibious Breathing
+
+## Amphibious Breathing=
 You can breathe underwater indefinitely and on land.
 ## Water Adaptation
 You have Advantage on Athletics Tests related to swimming and climbing slippery or wet surfaces.
 ## Low Light Vision
-Your Clear Zone extends into what would normally be your Blurry Zone up to **9m**. You cannot see in total darkness.
-## Swift Swimmer
-Whenever you make an attack while underwater, you may move a number of metres equal to half your **Walk Travel Rate** per Speed point as part of that attack.
+Your Clear Zone extends into what would normally be your Blurry Zone up to 9m. You cannot see in total darkness.
+
+# Racial Web
 ## Tongue Lash
-As an attack, you may lash out with your tongue at a target within **4.5m**, dealing **1d4 + Grace Bludgeoning damage** at Speed **12 + Grace**. You may also use your tongue to grab or retrieve small unattended objects within range, though not to manipulate tools or weapons.
-## Enduring Craftsmanship
-Gain **+1 training** in one of the following skills of your choice at character creation: Crafting, Endurance, or Survival.
+Prerequisites: None.
+Cost: 2 Trait Points. 
+As an attack, you may lash out with your tongue at a target within 4.5m, dealing 1d4 + Grace Bludgeoning damage at Speed 12 + Grace. You may also use your tongue to grab or retrieve small unattended objects within range as a Half Action, though not to manipulate tools or weapons.
+
+## Improved Tongue Lash
+Prerequisites: Tongue Lash.
+Cost: 1 Trait Point. 
+Your tongue strike sharpens. Damage increases to 1d6 + Grace. Range increases to 6m.
+
+## Enhanced Tongue Lash
+Prerequisites: Improved Tongue Lash. 
+Cost: 1 Trait Point. 
+Damage increases to 1d8 + Grace. Range increases to 7.5m. Your tongue can now manipulate tools and weapons within range and may attempt to disarm held weapons from enemies as a Half Action contested by the target's Might or Grace Test.
+
+## Tongue Grapple
+Prerequisites: Tongue Lash. 
+Cost: 3 Trait Points. 
+You may use your tongue to grapple a target within Tongue Lash range instead of dealing damage. The grapple functions as a standard grapple but originates from your tongue rather than your body — displacement and positioning are based on the tongue's reach rather than your own. While maintaining the tongue grapple you retain full use of your body, including attacking with weapons and moving freely.
+
+## Swift Swimmer
+Prerequisites: None. 
+Cost: 2 Trait Points. 
+Whenever you make an attack while underwater, you may move a number of metres equal to half your Walk Travel Rate per Speed point as part of that attack.
+
+## Mastered Swimmer
+Prerequisites: Swift Swimmer. 
+Cost: 2 Trait Points. 
+Your underwater combat mobility improves. When making an attack underwater, you may move a number of metres equal to your full Walk Travel Rate per Speed point as part of that attack.
+
+## Leap Strike
+Prerequisites: None. 
+Cost: 2 Trait Points. 
+When you make a melee attack immediately after a Jump, you may choose one of the following on hit:
+- Deal +3 damage.
+- Knock the target Prone (Might Test DN 12 to resist).
+
+## Improved Leap Strike
+Prerequisites: Leap Strike. 
+Cost: 1 Trait Point. 
+The damage bonus increases to +5. The Prone resistance DN increases to 14.
+
+## Enhanced Leap Strike
+Prerequisites: Improved Leap Strike.
+Cost: 1 Trait Point. 
+The damage bonus increases to +7. The Prone resistance DN increases to 16.
+
+## Toxin
+Prerequisites: Tongue Lash, Exclusive to Camouflage. 
+Cost: 3 Trait Points. #wip
+
+## Camouflage
+Prerequisites: Exclusive to Toxin. 
+Cost: 2 Trait Points. 
+You can consciously shift your skin pigmentation to match your surroundings. Activating or deactivating camouflage is a free action requiring deliberate focus. While camouflaged and remaining completely still, you have Advantage on Stealth Tests. Camouflage breaks immediately upon moving or attacking and must be reactivated. Only your skin camouflages — clothing and armour are unaffected, limiting this ability to lightly armoured Murks.

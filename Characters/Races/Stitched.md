@@ -86,32 +86,32 @@ Prerequisites: Multi-Part, Composite Awareness.
 Cost: 4 Trait Points.
 You learn to weaponise your composite nature as a defensive Reaction. When targeted by an attack, you may trigger Scatter — your body separates outward in all directions. Compare your Scatter Speed (13 + Grace) to the incoming attack Speed. If your Scatter Speed is higher, the attack finds no coherent target and misses entirely. If equal or lower, you were mid-separation on impact — reduce incoming damage by 3 and Unravel as normal. Scatter consumes your Reaction.
 
-### Effortless Separation
+## Effortless Separation
 Prerequisites: Swift Separation, Swift Reassembly. 
 Cost: 3 Trait Points. 
 Detaching and reattaching body parts no longer costs an action. Both occur as part of any other action you take.
 
-### Far Reach
+## Far Reach
 Prerequisites: Extended Range. 
 Cost: 3 Trait Points. 
 Detached parts remain functional up to 20m from your brain.
 
-### Simultaneous Projection
+## Simultaneous Projection
 Prerequisites: Sensory Projection. 
 Cost: 3 Trait Points. 
 You no longer need to switch between detached parts to perceive through them. You may simultaneously receive sensory input from all detached parts at once. Managing more than three simultaneous feeds requires an Insight Test (DN 8 + number of active feeds) or you gain Dazed until the feeds reduce below that threshold.
 
-### Scatter Mastery
+## Scatter Mastery
 Prerequisites: Scatter. 
 Cost: 4 Trait Points. 
 Scatter's damage reduction increases to 6. Additionally, you may trigger Scatter during the Declaration Phase as a deliberate tactical choice rather than only as a Reaction — your parts separate and reassemble on your terms. Reassembly still costs your normal reattachment actions unless modified by other nodes.
 
-### Seamless Maintenance
+## Seamless Maintenance
 Prerequisites: Resilient Threading. 
 Cost: 3 Trait Points. 
 Your mana signature has stabilised enough that Rethreading intervals extend to once per week rather than every 3 days. Additionally, Rethreading can now be completed during a Break rather than requiring a Short Rest.
 
-### Convergence
+## Convergence
 Prerequisites: Scatter Mastery, Seamless Maintenance. 
 Cost: 4 Trait Points. 
-When your body is scattered, you may declare Convergence as a Half Action during the Declaration Phase. Choose a point within your current part-range as your brain's destination. During Resolution, all detached parts travel simultaneously toward your brain's position. Each creature whose space lies between a travelling part and your brain takes 1d6 Blunt damage per part that passes through them. Parts travel in straight lines — terrain, cover, and creatures blocking a part's path stop that part's movement and negate its damage for that creature. Reassembly completes at the end of the round. Any part that cannot reach the brain due to obstruction must be reattached manually.
+When your body is scattered, you may declare Convergence as a Half Action during the Declaration Phase. Choose a point within your current part-range as your brain's destination. During Resolution, all detached parts travel simultaneously toward your brain's position. Each creature whose space lies between a travelling part and your brain takes 1d6 +Vitality Blunt damage per part that passes through them. Parts travel in straight lines — terrain, cover, and creatures blocking a part's path stop that part's movement and negate its damage for that creature. Reassembly completes at the end of the round. Any part that cannot reach the brain due to obstruction must be reattached manually.

@@ -17,7 +17,7 @@ tags:
 > [[Ranged attacks]] follow the same hit resolution — roll 2d10 + Grace against the target's [[Evasion]]. For ranged specific rules including arrow travel, [[Range & Threat|range]] penalties, and cover see [[Ranged Attacks]].
 
 ## [[Damage Types|Damage]]
-- [[Damage Types|Damage]] is rolled on weapon-specific dice (e.g., 1d8 for a longsword #Wip).
+- [[Damage Types|Damage]] is rolled on weapon-specific dice (e.g., 1d8 for a longsword).
 - [[Heavy Attack|Heavy attacks]] deal double [[Damage Types|damage]], calculated by doubling the rolled [[Damage Types|damage]].
 - Some spells also deal [[Damage Types|damage]] but may require the target to make an [[Attributes|Attribute]] Test to resist or mitigate effects.
 

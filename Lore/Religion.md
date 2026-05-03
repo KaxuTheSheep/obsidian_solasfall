@@ -24,8 +24,8 @@ _In Solasfall, Faith is power — literally. The Deities exist only through Fait
 - Monotheistic Followers often rise higher in Sanctum's hierarchies and are more likely to receive Divinity.
 
 ### Courts of Deities 
-In Solasfall, worship is diverse and pragmatic. The city recognizes a set of **Main Deities** and a handful of **Forbidden Deities**, each with unique domains and followers.
-#### Main Deities
+In Solasfall, worship is diverse and pragmatic. The city recognizes a set of **Accepted Deities** and a handful of **Forbidden Deities**, each with unique domains and followers.
+#### Accepted Deities
 1. The Blind Shepherd — God of Death, Law, Guidance, Vows, and Exchange
 2. The Candle Mother — Goddess of Home, Light, and Love
 3. The Verdant Hand — God of Harvest, Growth, and Luck

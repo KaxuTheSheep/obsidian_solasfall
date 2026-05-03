@@ -1,30 +1,24 @@
 ---
 tags:
-  - Mechanics
   - Lore
   - Location
 ---
-### Overview
-The Fallows is a mysterious, otherworldly realm whose influence seeps into Solasfall and the surrounding world. Though largely hidden, its energies constantly press against reality, shaping Hollowdeep and indirectly powering the Rift. The Fallows is not vertically aligned but exists as a sprawling, chaotic network of zones, each with its own hazards, phenomena, and strange ecology.
+The Fallows is what remains of Solasfall's world outside the Veil — terrain experiencing such extreme time acceleration that organic matter decays, grows, and dies before it can be meaningfully perceived. It is not a separate realm or a supernatural corruption. It is the same world, running centuries ahead of Solasfall every second.
 
-### Appearance
-The Fallows are bleak, blackened wastelands where forests rot beneath ashen skies, and rivers flow thick and dark like oil. Above the Fallows, the sky churns with unstable, unnatural clouds pulsing with eerie colours; acid mists and shards of glass-like rain fall relentlessly. The land itself is twisted and lifeless—anything that ventures into the Fallows decays rapidly, as if time itself hastens their demise. Legends tell of a rebel who reached beyond the Veil into the Fallows, only to have his hand age fifty years in a single second. Nothing endures here; the Fallows are a realm of Death, corrosion, and hopeless ruin, a stark contrast to the fragile sanctuary of Solasfall.
+See [[Rift]] for the full mechanics of how the Fallows formed and why it continues to expand.
 
-### Nature & Influence
-- **Reality Corruption:** The Fallows subtly warps landscapes, plants, and creatures, slowly spreading an alien logic and altering physics in affected areas.
-- **Connection to Solasfall:** The Veil was created by The Royal Mages to contain its expansion, protecting the city from the Fallows’ encroachment. The Rift to Hollowdeep taps into its energy to stabilize a traversable gateway.
-- **Unknown Mechanisms:** While the Fallows’ existence is sensed indirectly through magical flux, anomalies, and reports from explorers, its full nature remains secret — even to most Royal Mages.
+## What It Is
 
-### Interaction
-- **Explorers Guild:** Access is indirect via the Rift; the Fallows’ energy fuels exploration but is never entered directly.
-- **Rebel Group & Cultists:** Some factions attempt to exploit anomalies leaking from the Fallows to hide, gather power, or perform forbidden rituals.
-- **Mana & Magic:** The Fallows’ energy forms the basis for Mana Stones and magical phenomena in Hollowdeep, connecting the wider world’s arcane economy and resources.
+A natural rift on the far side of the planet connected Solasfall's world to a world of catastrophically fast time. The equilibrium pressure from that connection propagated outward slowly — mediated by natural mana density to roughly human running pace — converting everything it reached into the Fallows. The process is not reversible. Anything that enters the Fallows without the Veil's protection experiences the full time differential: one second of subjective experience against potentially centuries of physical decay. The mind does not adjust quickly enough to process what is happening before the body is gone.
 
-### Lore Notes
-- The Fallows is sometimes mistaken for an apocalyptic threat or a divine test; its true purpose is unknown.
-- It is believed that prolonged exposure, even indirectly, can subtly affect mind, body, and magical affinity.
-- The Rift to Hollowdeep is a controlled outlet, designed to safely channel its energies without allowing its corruptive spread into the city.
+## Appearance
 
+From within Solasfall, the Fallows is glimpsed at the city's fringes where the Veil's sky layer thins — pale mist, wrong colours, shapes that suggest landscapes moving too fast to resolve. During the four-week Rift opening, the Veil's temporary weakening allows clearer bleeds: churning skies, blackened terrain, the impression of forests rotting and regrowing in moments.
 
-#Wip 
-needs rework
+Up close the Fallows is bleak and lightless by human standards — not because light is absent but because the frequencies reaching a normal observer have shifted past what biology can interpret. The land itself is neither dead nor alive in any conventional sense. It is simply far ahead.
+
+## Current State
+
+The Fallows presses continuously against the Veil's edges. It has not stopped spreading — the rift causing it remains open and unreachable. The Veil holds the boundary stable as long as Mordant Stones supply the mana field sustaining it. If that supply fails, the Fallows resumes its advance into the city without pause.
+
+The rift responsible cannot be closed from Solasfall. The distance that gave the city time to build the Veil is the same distance that makes intervention impossible.

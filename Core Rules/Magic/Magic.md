@@ -37,8 +37,6 @@ Flux Casting uses:
 ### Key Principle
 Flux Casting requires the caster to form, stabilise, and release mana in real time. Small control deviations can cause major outcome shifts.
 
----
-
 ## Weave Casting (Structured Magic)
 Weave Casting uses a constructed magical framework — circle, rune, or geometric sigil — that constrains mana into a predefined pattern. Unlike Flux Casting, the spell's structure exists before or during activation, not during freeform shaping. Weave Casting trades flexibility for consistency and control.
 
@@ -71,8 +69,6 @@ Drawn Weave Casting is a mid-combat construction of a magical structure. The cas
 
 ### Key Principle
 Weave Casting constrains mana through structure. Woven Casting executes a prepared structure. Drawn Weave Casting constructs structure under pressure.
-
----
 
 # Casting Comparison
 

@@ -9,7 +9,7 @@ Faith Points represent your character’s spiritual investment in the Deities of
 
 ### Faith Points and Devotion
 - **Faith Points:** At character creation, you have **9 Faith Points** to allocate among any of the Deities. These points represent your character’s spiritual investment and grant access to [[Blessings]].
-- **Spreading Faith:** You may distribute your 9 points across multiple Deities, gaining minor [[Blessings]] from each. For example, 3 points in [[the Candle Mother]] and 6 in [[the Ashen Crown]].
+- **Spreading Faith:** You may distribute your 9 points across multiple Deities, gaining minor [[Blessings]] from each. For example, 3 points in [[The Candle Mother]] and 6 in [[The Ashen Crown]].
 
 ### [[Blessings]] and Effects
 - **Minor [[Blessings]]:** Even partial faith grants mechanical benefits, such as increased melee [[Damage Types|damage]], resistance to certain effects, or minor boons. These [[Blessings]] scale with the number of Faith Points invested in a Deity.
@@ -21,7 +21,7 @@ Faith Points represent your character’s spiritual investment in the Deities of
 	1. Invest all 9 Faith Points in one deity.
 	2. Undertake personal quests assigned by that deity or their clergy, reflecting your character’s unique history and relationship with the deity and then you gain 10 Points in that deity.
 - Upon successful completion, you receive the Deity’s divine gifts — including powerful [[Blessings]] and access to Divinity.
-- Followers enjoy elevated status among clergy and [[factions]] tied to their Deities.
+- Followers enjoy elevated status among clergy and [[Factions]] tied to their Deities.
 
 ### Forbidden Gods and Curses
 - Worship of Forbidden Gods carries powerful [[Blessings]] but also distinct curses. Each Forbidden God imposes a unique penalty, affecting social standing, health, or other mechanics.
@@ -29,6 +29,6 @@ Faith Points represent your character’s spiritual investment in the Deities of
 - The risk of forbidden worship adds narrative depth and mechanical tension to faith choices.
 
 ### Faith in the World
-- Deities influence important NPCs and [[factions]]. Followers may receive quests, boons, or special treatment based on their faith.
+- Deities influence important NPCs and [[Factions]]. Followers may receive quests, boons, or special treatment based on their faith.
 - Faith can open or close doors in the city, with Sanctums, temples, and rivalries shaping your journey.
 - Faith affects social and [[Skills|skill]] checks when relevant, reflecting the divine favour or suspicion your character carries.

@@ -16,7 +16,7 @@ Humans hold an exploitative stance toward other [[races]] due to their dominant 
 
 Humans have a positive view of [[Kenku]] and [[Murk|Murks]], fostered in part by shared religious ties. They are neutral toward [[Drenek]] but tend to distrust or look down on [[Velkhari]], [[Stitched]], and [[Cindral]].
 
-Most major [[factions]], including the Royal Advisers, Merchant Guild, and [[Magic]] Institutions, are human-led.
+Most major [[Factions]], including the Royal Advisers, Merchant Guild, and [[Magic]] Institutions, are human-led.
 
 # Appearance
 Humans in [[Solasfall]] display diverse physical traits, with a wide variety of skin tones, hair colours, and eye colours. Clothing, hairstyle, and ornamentation vary based on social standing, occupation, and personal taste. They generally have medium builds and average height compared to other [[races]], adaptable to a wide [[Range & Threat|range]] of roles and environments.

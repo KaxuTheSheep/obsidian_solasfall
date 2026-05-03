@@ -24,3 +24,7 @@ The Fallows are bleak, blackened wastelands where forests rot beneath ashen skie
 - The Fallows is sometimes mistaken for an apocalyptic threat or a divine test; its true purpose is unknown.
 - It is believed that prolonged exposure, even indirectly, can subtly affect mind, body, and magical affinity.
 - The Rift to Hollowdeep is a controlled outlet, designed to safely channel its energies without allowing its corruptive spread into the city.
+
+
+#Wip 
+needs rework

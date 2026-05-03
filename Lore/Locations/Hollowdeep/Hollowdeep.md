@@ -10,7 +10,7 @@ The Hollowdeep is a vast, multidimensional network of realms — not stacked ver
 - **Shared Time Window:** Time flows equally between Solasfall and Floor One while the Rift is open.
 - **Spatial Hazard Gradient:** As explorers move outward from the centre of Floor One, they face increasingly dangerous monsters, environmental hazards, and unstable terrain. Those who enter later are forced into these riskier zones immediately.
 - **Temporal Shift:** Once the Rift closes, Hollowdeep time decouples — 7 Hollowdeep days pass while only 1 day passes in Solasfall.
-- **Return Window:** After exactly 7 Hollowdeep-days, a portal reopens for 7 hours in hollowdeep. Failure to return results in being stranded for 28 Hollowdeep-weeks.
+- **Return Window:** After exactly 7 Hollowdeep-days, a portal reopens for 7 hours in hollowdeep #Wip. Failure to return results in being stranded for 28 Hollowdeep-weeks.
 
 ### Structure and Navigation
 - **The Shattered Expanse:** The only floor directly linked to Solasfall; staging ground for exploration.

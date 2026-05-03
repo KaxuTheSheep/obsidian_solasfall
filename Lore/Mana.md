@@ -7,18 +7,23 @@ A fundamental particle of creation — the raw substance from which Magic draws 
 ## Nature
 Mana exists at a quantum level — particles too small to observe directly, yet present in everything. They flow through living things, the land, the air, and the space between worlds. To the untrained, mana is imperceptible. To mages, it is unmistakable — felt rather than seen, a persistent sixth sense that never fully quiets.
 
-Mana particles naturally form **currents and circuits** through the world, following paths shaped by the environment around them. These currents are not coordinated. A single mana particle accelerating growth in one root of a plant may be countered by another decelerating it a centimetre away. At this scale the effects cancel out, and the world behaves as though mana were not present at all. Only when mana is coordinated — deliberately directed by a mage, or concentrated by circumstance — do its effects become meaningful.
+Mana particles naturally form **currents and circuits** through the world, following paths shaped by the environment around them. These currents are not coordinated. A single mana particle increasing growth in one root of a plant may be countered by another decreasing it a centimetre away. At this scale the effects cancel out, and the world behaves as though mana were not present at all. Only when mana is coordinated — deliberately directed by a mage, or concentrated by circumstance — do its effects become meaningful.
 
 ## Excitation
 Every mana particle exists somewhere on a spectrum between two extremes, measured by its **excitation state**.
 
-- **Inert mana** sits at equilibrium — neither accelerating nor decelerating phenomena. Left alone, all mana naturally seeks this state.
-- **Vivant excitation** pushes mana away from equilibrium in one direction, causing it to accelerate natural processes. Fire, growth, oxidation, cellular repair — Vivant mana forces these to happen faster.
-- **Mordant excitation** pushes mana in the opposite direction, causing it to decelerate natural processes. Decay slows. Movement resists. Time, in sufficient concentration, crawls.
+- **Inert mana** sits at equilibrium — exerting no influence on anything around it. Left alone, all mana naturally seeks this state.
+- **Vivant excitation** pushes mana away from equilibrium in one direction, causing it to increase the properties of what it interacts with — temperature, pressure, wavelength, cellular activity, oxidation rate, kinetic energy. The degree of increase scales with excitation intensity.
+- **Mordant excitation** pushes mana in the opposite direction, decreasing those same properties. Heat drops. Movement slows. Light shifts. In sufficient concentration, even the passage of time is affected.
 
-Excitation is not binary. Particles exist across a range of intensity within each state, from faint traces barely distinguishable from inert to extreme concentrations that produce dramatic and dangerous effects. This variance is what gives mana its complexity — and what makes the difference between a trained mage and an untrained one.
+Excitation is not binary. Particles exist across a range of intensity within each state, from faint traces barely distinguishable from inert to extreme concentrations that produce dramatic and dangerous effects. This variance is what gives mana its complexity — and what separates a trained mage from an untrained one.
 
-Mana can also interact with physical matter directly, exerting pressure against particles and molecules. This is the basis of wind magic and force effects — not a separate property, but Vivant mana accelerating the movement of air or matter in a directed way.
+Mana interacts with whatever it contacts. There is no categorical limit on what mana can influence — only practical limits imposed by the mage's understanding, control, and the physical reality of what is possible. Mana cannot create something from nothing. It can only manipulate what already exists.
+
+## Physical Limits
+A common illustration of mana's limits is fire. Mana cannot conjure flame from empty air. Fire requires fuel and oxygen. What a mage does is increase the oxidation rate and thermal energy of existing material — forcing combustion to occur faster and more intensely than it would otherwise. Without fuel, there is nothing to manipulate.
+
+This principle applies universally. Mana works with what is present. It does not invent. A mage who understands a process deeply enough can manipulate it with precision. One who does not risks unintended consequences — increasing the wrong property, in the wrong direction, at the wrong scale.
 
 ## The World's Breath
 Mana does not originate in Solasfall's world. It flows in from outside — a cosmic current that permeates all dimensions and worlds simultaneously. This is the **World's Breath**: an invisible, universal tide that pushes mana particles away from their natural inert state and into excitation.

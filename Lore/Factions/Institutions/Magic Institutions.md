@@ -4,35 +4,36 @@ tags:
   - Magic
   - Faction
 ---
-### Overview
-The Magic Institutions stand as the pillars of arcane knowledge in Solasfall. Six independent Institutions each govern a distinct branch of magic, shaping the practice and theory of arcane arts across the city. They train mages, regulate magical practice, and maintain the fragile balance of power in Solasfall — though their true influence reaches far beyond public view.
+*The six specialised institutions governing magical education, practice, and infrastructure in Solasfall.*
 
-#### The Six Institutions
-- **Aetherbron Institution:** Custodians of raw magic and pathfinding, responsible for sustaining the Veil’s barrier and guiding explorers through the Hollowdeep.
-- **Riftconjurors Institution:** Specialists in spatial magic and Rift energies, overseeing the formation and control of Rifts.
-- **Lifebinders Institution:** Masters of biomancy, nurturing and protecting life through healing, enhancement, and magical ecology.
-- **Gloomshapers Institution:** Illusionists and shadow casters, governing perception, atmospheric effects, and occasionally Blood magic.
-- **Runeweavers Institution:** Artisans of symbols and glyphs, crafting magical runes and enchantments, often collaborating with crafters and the Emberwright Church.
-- **Elemental Conflux Institution:** Controllers of elemental forces — fire, water, air, earth, and more — applying them in battle, creation, and environmental manipulation.
+## Overview
+The Magic Institutions are the pillars of arcane knowledge in Solasfall. Six independent institutions each govern a distinct discipline of magic, training mages, regulating magical practice, and maintaining infrastructure the city depends on for survival. Their influence extends well beyond academic walls — the Veil's operation, the Hollowdeep connection, the city's military capability, and its agricultural sustainability all run through institutional expertise in some form.
 
-### Role & Authority
-- The Institutions oversee magical education, legal arcane practice, and the distribution of magical knowledge within Solasfall.
-- Mages are trained in a unified system before specialising in one Institution, allowing mastery of their chosen branch while retaining limited capability in others. Specialisation grants both practical and social benefits.
-- The Institutions provide many of the city’s Royal Mages — elite representatives drawn from the top of their ranks.
-- A portion of resources collected through The Weighing supports research, magical infrastructure, and maintenance of the Veil.
+## The Six Institutions
+**Aetherbron Institution** — Specialists in direct force application and mana sensing. Their discipline covers kinetic force, barriers, gravity manipulation, and environmental perception through mana pulses. Primary source of Wayfinder-capable mages for Hollowdeep expeditions.
 
-### Admission & Advancement
-- - Entry into an Institution is competitive and multifaceted: candidates may be tested, sponsored by a noble or existing mage, or recruited directly for demonstrated talent.
-- Students begin their studies at the **Common Arcanum**, where they receive general training in basic magical theory, techniques, and discipline before specialising.
-- After completing the Common Arcanum curriculum, students progress to specialised study in their chosen branch, following a structured path of mastery levels.
-- Advancement is based on skill, magical aptitude, and sometimes political influence within the Institution. Exceptional mages may rise to Archmagus or Institution leadership.
+**Riftconjurors Institution** — Specialists in spatial manipulation and rift management. Responsible for opening and maintaining the controlled rift to the Hollowdeep every four weeks, monitoring natural weak points around Solasfall, and creating short range rifts within Hollowdeep nexuses.
 
-### Politics & Rivalries
-- Each Institution maintains its own philosophy, culture, and internal hierarchy, leading to rivalries tempered by practical cooperation.
-- Forbidden magic is prohibited, though rumours of secret experiments and cultist sympathies persist.
-- Institutions frequently coordinate with factions like The Knights Orders and religious bodies, either for research, magical enforcement, or ceremonial purposes.
+**Lifebinders Institution** — Specialists in biological process manipulation. Their discipline covers healing, physical augmentation, metabolic regulation, and ecological management. Primary medical institution for Solasfall and sole provider of permanent augmentation to the Order of the Ashen Oath.
 
-### Public Perception
-- Citizens view Institutions with a mixture of reverence and fear. They are seen as guardians of the city’s magical order, yet their secretive practices and exclusivity provoke rumours and speculation.
-- Aspirants to magical study covet admission, while commoners respect but rarely interact directly with Institutional mages.
-- The Institutions are widely believed to hold the deepest secrets of the Veil, far beyond the reach of even the Royal Advisors.
+**Prismshapers Institution** — Specialists in light manipulation. Their discipline covers light suppression, wavelength alteration, refraction, and amplification. Operate the day/night cycle and atmospheric light conditions within the Veil's sky layer.
+
+**Runeweavers Institution** — Specialists in structured mana encoding. Their discipline covers Weave casting, magic circle construction, and the production of magic tools — objects containing prepared spell structures that activate on a mechanical trigger without requiring the user to have conducting ability.
+
+**Elemental Conflux Institution** — Specialists in environmental process manipulation across five founding categories: fire, air, water, earth, and lightning, each with natural subtypes. Responsible for weather regulation and atmospheric management within the Veil alongside their combat and infrastructure roles.
+
+## Role and Authority
+The institutions collectively oversee magical education, regulate legal arcane practice, and distribute magical knowledge within Solasfall. All students pass through the **Common Arcanum** before specialising — a mandatory entry school providing foundational theory and basic technique regardless of intended discipline.
+
+The institutions supply the majority of the city's Royal Mages, drawn from the top of their respective ranks. A portion of resources collected through the Weighing funds institutional research, magical infrastructure, and Veil maintenance.
+
+## Admission and Advancement
+Entry into a specialised institution follows completion of the Common Arcanum. Advancement within an institution is based on demonstrated skill and magical aptitude, with political influence occasionally a factor in the upper ranks. Exceptional mages may rise to Archmagus or institutional leadership over the course of a career.
+
+## Politics and Rivalries
+Each institution maintains its own philosophy, culture, and internal hierarchy. Rivalries exist and are rarely hidden — commercial competition between Runeweavers and Elemental Conflux over the magic tools market, territorial disputes over where one discipline ends and another begins, and competition for Royal Mage appointments all generate friction. Practical cooperation continues regardless, because the city's survival requires it.
+
+Forbidden magic is prohibited across all institutions. Rumours of secret research and cultist sympathies circulate persistently and are not always unfounded.
+
+## Public Perception
+Citizens view the institutions with a mixture of reverence and unease. They are understood as the guardians of the city's magical order — the people keeping the Veil functional and the Hollowdeep accessible — while their internal practices and exclusivity generate speculation. The institutions are widely believed to know more about the Veil's true fragility than they publicly acknowledge. They do.

@@ -3,36 +3,53 @@ aliases:
   - Conflux
 tags:
   - Lore
-  - Faction
   - Magic
+  - Faction
 ---
-### Overview
-The Elemental Conflux Institution studies the catalytic use of Mana to generate and manipulate the stigma elements — flame, air, water, earth and lightning. Unlike other branches of magic that draw directly from abstract or spiritual sources, Conflux practice is deeply physical, relying on precise control of mana’s kinetic and thermal properties. Through combustion, condensation, and transference, they shape the environment itself into a magical instrument.
+*Specialists in environmental process manipulation — the acceleration and suppression of physical processes in air, water, earth, fire, and lightning, and their natural subtypes.*
 
-Despite the sophistication of their methods, the Conflux is often regarded as the most “performative” of the arcane schools — its students renowned for dramatic displays rather than deep theory. Yet in combat and crisis, few can rival their raw utility. When disciplined, they are living engines of elemental balance, capable of both destruction and restoration.
+## Overview
+The Elemental Conflux Institution studies the manipulation of large-scale physical and environmental processes through mana. Fire, water, earth, air, and lightning are the institution's five founding categories — a framework inherited from the earliest systematic mages who mastered these disciplines and whose names became synonymous with them. The categories have persisted through culture, curriculum, and public identity even as the institution's own understanding of mana has outgrown them.
 
-### Role & Benefits
-- **Environmental Control:** Regulation of temperature, rain, and atmospheric balance within the Veil.
-- **Combat Application:** Serve alongside explorers and The Knights Orders as battlefield magi and elemental tacticians.
-- **City Maintenance:** Assist the Lifebinders Institution in managing climate and soil fertility around Solasfall’s enclosed ecosystems.
-- **Spectacle & Ceremony:** Their mastery of visible magic makes them fixtures in civic festivals, public rites, and military parades.
+Every practising Conflux mage knows the five elements are not physically distinct forces. They are human labels applied to different expressions of the same mana principles — Vivant and Mordant excitation acting on different physical substrates. Fire is accelerated oxidation. Lightning is accelerated electrical discharge. Earth manipulation is the adjustment of pressure, density, and molecular cohesion in solid matter. The categories are vestigial. The institution maintains them because the subcategory relationships they generate are genuinely useful as organisational and pedagogical tools, and because abandoning a five-hundred year old framework serves nobody.
 
-### Structure
-- **Headmaster:** Oversees all elemental training, ensuring mana discipline prevents catastrophic accidents.
-- **Faculty:** Divided into five elemental circles — Flame, Air, Water, Earth, Lightning — though many advanced magi blend disciplines into composite forms.
-- **Students:** Sorted by elemental affinity rather than age, judged on both precision and composure under pressure.
+## Discipline
+Conflux magic manipulates environmental and physical processes at scale. The underlying mechanism is consistent across all five categories — mana increasing or decreasing the rate of a process already present in the environment. What varies is the substrate and the specific processes involved.
 
-### Public Perception & Culture
-To the citizens of Solasfall, the Elemental Conflux Institution embodies both wonder and risk. They are admired for the beauty of their craft yet quietly derided by more theoretical magi as “stage conjurers.” Still, the Conflux’s contributions to the Veil’s maintenance and Hollowdeep expeditions are undeniable.
+### Fire
+Combustion acceleration. Increasing the oxidation rate and thermal energy of existing fuel until ignition occurs, then sustaining or expanding the reaction. Without fuel, fire magic produces nothing. Advanced practitioners manipulate heat independently of combustion — increasing thermal energy in matter without requiring the presence of flammable material.
 
-Culturally, they value control over restraint — a philosophy that sees fire, air, and stone not as symbols but as extensions of will. Their rituals are kinetic and performative, their duels dazzling spectacles of precision and pride. Many graduates enter service as combat specialists, Hollowdeep escorts, or city fire wardens.
+### Air
+Atmospheric pressure and kinetic energy manipulation. Wind is accelerated air movement — increasing kinetic energy in atmospheric particles in a direction. Pressure differentials can be created, sustained, or collapsed. **Sound** is a natural subtype of air manipulation — sound is pressure wave propagation through atmosphere, and mages with sufficient air training can generate, amplify, direct, or suppress it as an extension of the same discipline.
 
-### Practices & Rituals
-- **The Calibration Trial:** A rite of passage where initiates must maintain a stable flame, current, or stone construct for an entire day without external aids.
-- **Mana Resonance Exercises:** Daily synchronisations of breath, gesture, and mana flow to prevent over-amplification during spellwork.
-- **Conflux Duels:** Regulated contests of control, held monthly to test refinement rather than raw power.
+### Water
+Manipulation of liquid state matter and phase transition processes. Controlling water movement, pressure, and temperature relative to phase change. **Ice and mist** are natural subtypes — ice is the suppression of thermal energy in water past its freezing threshold, mist is the acceleration of evaporation or the introduction of water vapour into atmosphere through controlled phase transition.
 
-### Headmaster
-The Elemental Conflux Institution is currently led by **Archmagus Ignar Flareborn**, a charismatic and theatrical Cindral renowned for his mastery over fire, lightning, air, and earth. Ignar personally oversees all elemental training, environmental regulation, and combat application programs.
+### Earth
+Pressure, density, and molecular cohesion manipulation in solid matter. Compressing, fracturing, reshaping, or altering the structural properties of stone, soil, and similar materials. **Lava** falls under earth rather than fire — molten rock is earth matter whose molecular cohesion has been suppressed past its melting threshold. The heat is a consequence of the process, not fire magic applied externally. **Material property manipulation** is an extension of earth principles applied to non-geological solid matter — adjusting hardness, conductivity, density, or structural integrity of crafted materials.
 
-While he struggles with water magic, he ensures coverage through collaborative instruction and delegation. His performative style emphasizes both spectacle and precision, instilling discipline and confidence in students while demonstrating the practical and defensive uses of elemental mana. Ignar maintains close coordination with other institutions for expeditionary support, city infrastructure, and runic or spatial reinforcement, ensuring the Conflux contributes meaningfully to Solasfall’s survival and development.
+### Lightning
+Electrical discharge acceleration. Forcing rapid electron movement through conductive pathways — air, water, metal, or living tissue. The most precise and potentially dangerous of the five categories given the speed of the effect and the difficulty of controlling its path once initiated.
+
+### Weather
+Large-scale atmospheric manipulation drawing on air, water, and thermal principles simultaneously. Weather is the institution's most complex and demanding discipline, requiring competence across multiple categories rather than deep specialisation in one. Senior Conflux mages who specialise in weather work closely with the Veil's sky layer operations team, and the pipeline between the institution and the sky layer runs in both directions — sky layer veterans return to the institution as faculty, and senior students undertake operational rotations maintaining the atmospheric conditions within the Veil.
+
+## Role in Solasfall
+The Conflux serves Solasfall in combat, infrastructure, and environmental regulation. Their battlefield utility is immediate and visible — fire, lightning, and kinetic force make Conflux mages among the most dangerous combat practitioners in the city. The Knights Orders deploy them as battlefield support and the Explorers Guild values them highly for Hollowdeep expeditions where environmental hazards are a constant threat.
+
+Their infrastructure role is less visible but equally significant. Temperature regulation, atmospheric management, and the sustained weather operations within the Veil's boundary are largely Conflux responsibilities. Without ongoing atmospheric manipulation, the enclosed environment of Solasfall would face significant agricultural and ecological strain.
+
+## Relationships with Other Institutions
+Operationally closest to **Lifebinders** in agricultural and ecological maintenance within the Veil. The two institutions share significant responsibility for the city's food supply and managed ecosystems.
+
+Competitive tension with **Runeweavers** over the magic tools market — Conflux mages occasionally produce functional tools incorporating elemental effects, undercutting Runeweaver commercial interests in specific categories.
+
+The sky layer pipeline creates a unique long-term relationship with the **Royal Mages** that no other institution has in the same form — Conflux senior practitioners move in and out of Veil operations more fluidly than any other group.
+
+## Culture & Reputation
+The Conflux is the most publicly visible institution. Their magic is dramatic, immediate, and comprehensible to anyone who has ever seen fire or felt wind — which makes them both admired and somewhat condescended to by more theoretically oriented institutions. The reputation as stage conjurers persists despite the institution's genuine depth.
+
+Internally the culture values control over raw power. The founding pedagogy holds that any mage can produce a large effect — precision, duration, and environmental awareness are what separate a Conflux practitioner from an accident waiting to happen. Students sort by elemental affinity early and develop deep competency in one category before broadening. The five element framework, whatever its theoretical limitations, produces focused specialists who understand their substrate thoroughly before moving to adjacent disciplines.
+
+## Headmaster
+**Archmagus Ignar Flareborn** leads the institution. See his NPC file for full details.

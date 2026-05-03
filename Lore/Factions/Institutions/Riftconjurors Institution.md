@@ -2,36 +2,50 @@
 aliases:
   - Riftconjurors
 tags:
+  - Lore
   - Magic
   - Faction
-  - Lore
 ---
-### Overview
-The **Riftconjurors Institution** commands the volatile art of **spatial and dimensional manipulation**, delving into the mysteries of the Veil’s edges and the unstable doorways it conceals. To the Riftconjurors, magic is not merely energy but **space itself — stretched, folded, and rewritten**. Their mastery allows Solasfall to control the flow of expeditions, contain breaches, and harness the Rift’s power without succumbing to its chaos.
+*Specialists in spatial manipulation — the forcing, stabilising, and monitoring of rifts and the weak points that make them possible.*
 
-### Philosophy & Purpose
-Riftconjurors believe that creation and destruction are born from the same act — the dividing of space. Their doctrine teaches that to understand reality, one must first **dismantle it**, thread by thread. They are both scholars and engineers of the impossible, mapping unstable boundaries where other magi dare not tread.
+## Overview
+The Riftconjurors Institution studies spatial manipulation through mana — the physical properties of dimensional boundaries, the conditions under which they thin and tear, and the techniques required to force, stabilise, or close a rift deliberately. Their work is the reason Solasfall can access the Hollowdeep at all, and by extension one of the reasons the city survives.
 
-The Institution was originally founded to contain Rift outbreaks that threatened to consume Solasfall’s lower sectors. Over time, it evolved into a **strategic arm of the city’s magical infrastructure**, responsible for surveying Rift activity, stabilising transit nodes, and advising the Royal Advisors on Veil fluctuations.
+The institution operates at the intersection of theoretical spatial research and critical city infrastructure. Their most important function — opening the controlled rift to the Shattered Expanse every four weeks — is not academic. It is existential. Without a continuous supply of Mordant Stones from the Hollowdeep the Veil fails. Without the Riftconjurors the supply chain does not exist.
 
-### Magic & Study
-Students of the Riftconjurors train to:
-- **Open, close, and stabilise Rifts**, managing the flow of Veil energy.
-- **Manipulate space**, creating distortions for teleportation, shielding, or containment.
-- **Anchor reality**, using sigils to prevent collapse or spatial bleed.
-- **Track anomalies**, predicting Rift surges through resonance mapping.
-Higher adepts experiment with **controlled folding**, allowing limited traversal between distant points or alternate layers of the Hollowdeep. The risk is ever-present — miscalculation can result in implosion or disintegration, but success yields unmatched mobility and strategic advantage.
+## Discipline
+Spatial manipulation treats dimensional boundaries as physical structures subject to mana influence. Where the barrier between two connected dimensional spaces is thin — a natural weak point — mana can be applied to overcome the remaining resistance and force a passage open. Where no weak point exists, the mana required to force a rift increases dramatically, making large scale cross-dimensional rifts practically impossible without exploiting existing geometry.
 
-### Role in Solasfall
-The Riftconjurors are indispensable to Solasfall’s survival. They oversee Rift openings that allow access to Hollowdeep, manage the teleportation gates used by nobles and military, and maintain containment wards around dangerous anomalies. Their mastery ensures that trade, exploration, and research continue despite the city’s unstable foundation.
-They work closely with **The Ministry of Balance** and **The Knights Orders**, ensuring Rifts open on schedule for sanctioned expeditions — and close before the Veil destabilises. Their Institution’s main hall, known as the **Spiral Observatory**, is both a research facility and a containment vault where failed experiments still hum behind sealed doors.
+### The Main Rift
+The controlled rift to the Hollowdeep's Shattered Expanse is the institution's defining operational responsibility. Every four weeks, coordinated mana input from the Riftconjurors forces open the natural weak point connecting Solasfall to the Hollowdeep for one hour. This requires partial withdrawal of the Veil's Mordant field — the two operations compete for the same mana environment — and represents the most demanding sustained magical operation the institution performs.
 
-### Culture & Reputation
-Riftconjurors are viewed as brilliant but perilous minds. Their detachment from physical reality often manifests in eccentric behaviour — some lose their sense of direction or speak as though conversing with unseen dimensions. Yet, their results are undeniable.
+The four week cycle reflects the institution's practical capacity, not a chosen interval. Maintaining the rift open continuously or increasing frequency is beyond current capability.
 
-To the citizens of Solasfall, they are both **heroes and harbingers** — the ones who open doors to fortune and ruin alike. Many explorers whisper that no Rift truly stays closed, and that the Riftconjurors simply choose which ones to let bleed.
+### Intra-Hollowdeep Rifts
+Within the Hollowdeep's already open dimensional web, smaller controlled rifts between nexuses are achievable without natural weak points. The dimensional space is already connected — forcing a local rift within it requires significantly less mana than a cross-dimensional opening. Riftconjurors accompanying expeditions can create short range rifts within nexuses for tactical repositioning, emergency extraction, or bypassing terrain. These are difficult to stabilise and short lived but genuinely useful in the field.
 
-### Leadership
-The Riftconjurors Institution is currently led by **Archmagus Vael Corrin**, a precise and methodical master of spatial magic and Rift manipulation. Vael oversees all rift-related operations, Hollowdeep expeditions, and spatial research within Solasfall, ensuring that the city’s magical infrastructure remains stable and secure.
+The military has explored applications of this capability for operations within the Hollowdeep, including rapid deployment against rebel activity using the nexus network as cover.
 
-He maintains strict discipline among students and faculty, emphasising meticulous preparation, safety, and the subtle art of controlling space itself. Corrin coordinates closely with The Royal Mages, The Knights Orders, and The Explorers' Guild to guarantee that rifts are opened, stabilized, and closed safely. Despite his calm and reserved demeanor, his presence commands respect, and his expertise is widely recognised as essential to Solasfall’s survival.
+### Weak Point Monitoring
+Natural weak points exist around Solasfall beyond the Hollowdeep connection. Most are stable and pose no immediate threat. Some fluctuate — thinning unpredictably in ways that could produce uncontrolled tears if left unmonitored. The institution maintains ongoing surveillance of known weak points and responds to new anomalies as they are detected. An uncontrolled rift opening within the city would be a significant crisis, and preventing that is a quiet but continuous institutional responsibility.
+
+### Spatial Research
+Beyond operational work the institution pursues theoretical understanding of why weak points form, how dimensional geometry determines their location, and whether the conditions producing them can be predicted or influenced. Progress is slow — the Hollowdeep's weak point was discovered rather than engineered, and the institution has no reliable method for identifying new ones beyond extended survey work.
+
+## Role in Solasfall
+The Riftconjurors' operational role makes them indispensable in a way that is difficult to overstate. The Mordant Stone supply, the Veil's function, and the city's survival are all downstream of their ability to open the Hollowdeep connection reliably every four weeks. The Ministry of Balance understands this. The Royal Mages understand this. The institution itself is quietly aware of the leverage this gives them and careful not to make it visible.
+
+They work closely with the **Royal Mages** on rift cycle coordination and Veil stability, and with the **Explorers Guild** on expedition logistics and intra-Hollowdeep spatial support.
+
+## Relationships with Other Institutions
+Closest operational relationship with the **Royal Mages** — the rift cycle requires direct coordination and the institution contributes personnel to Royal Mage operations regularly.
+
+Collaborate with **Runeweavers** on circle structures for spatial applications, particularly the anchor points used during the main rift opening.
+
+## Culture & Reputation
+The Riftconjurors are regarded with a mixture of awe and unease. Citizens associate them with the Rift cycle ceremonies — the four week events where the Veil visibly destabilises and the sky distorts — and with the Hollowdeep itself. The institution does not go out of its way to correct the impression that their work is dangerous and slightly beyond full control. It is both, and the reputation discourages interference.
+
+Internally the culture is methodical and risk-aware in a way that reads as detachment to outsiders. Spatial work is unforgiving — miscalculation does not produce a failed spell, it produces a structural anomaly that may not resolve cleanly. Students develop a particular kind of precision that comes from working with forces that do not behave predictably when mishandled. The institutional reputation for eccentricity reflects this — mages who spend years thinking carefully about the boundaries of physical space develop unusual frames of reference.
+
+## Headmaster
+**Archmagus Vael Corrin** leads the institution. See his NPC file for full details.

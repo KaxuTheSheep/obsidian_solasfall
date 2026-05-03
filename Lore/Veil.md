@@ -38,9 +38,9 @@ The Veil's circle network operates with approximately twenty to thirty mages on 
 The rotation is carefully managed. Losing even a small number of qualified operators to Hollowdeep expeditions or injury creates measurable strain on shift coverage, which is one of the less publicised pressures the Ministry of Balance manages through its resource allocation.
 
 ## Instability & The Rift Cycle
-Every four weeks, the Royal Mages deliberately weaken the Veil to harness Fallows-adjacent mana needed to open the Rift to the Hollowdeep. During this window the barrier's Mordant field is partially disrupted, and the influx of Vivant-excited mana from the Rift process temporarily destabilises the interior mana environment.
+Every four weeks, the Royal Mages deliberately weaken the Veil to force open the controlled rift to the Hollowdeep. The two operations compete for the same mana environment — the Riftconjurors require coordinated mana input to overcome the spatial barrier's natural resistance at the weak point, while the Veil's Mordant field requires its own continuous supply to function. Partially withdrawing the Veil's mana to accommodate the rift opening is an accepted and managed cost, not an accident.
 
-Citizens experience this as distortions in the sky — flickering light, brief crimson flashes, distorted shapes where the sky layer fails to compensate. Some report sounds with no source. The official designation is *mana storms*, attributed to natural fluctuation. The Royal Mages know better.
+During this window the barrier's Mordant field is partially disrupted. Citizens experience this as distortions in the sky — flickering light, brief crimson flashes, distorted shapes where the sky layer fails to compensate. Some report sounds with no source. The official designation is _mana storms_, attributed to natural fluctuation. The Royal Mages know better.
 
 Full renewal of the Veil's structure occurs on the same four-week schedule, aligned with the Rift cycle. These ceremonies are citywide events drawing both reverence and unease. They are the moments when the Veil's fragility is most visible and rumours about what would happen if it failed circulate most freely.
 

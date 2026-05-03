@@ -15,7 +15,7 @@ tags:
 ## Faction Relationships
 - **The Royal Mages:** Maintains cautious cooperation; appreciates magical support but distrusts overt experimentation.
 - **The Knights Orders:** Respected but feared; relationships are formal and distanced.
-- **Other Magic Institutions:** Relies heavily on Gloomshapers for infiltration and perception-based magic; occasionally conflicts with Runeweavers over security restrictions.
+- **Other Magic Institutions:** Relies heavily on Gloomshapers for Prismshapers and perception-based magic; occasionally conflicts with Runeweavers over security restrictions.
 - **Royal Advisors:** Directly reports and collaborates; highly trusted and relied upon for intelligence.
 - **General Public:** Largely unaware; whispers and rumours fuel fear and legend around the Order.
 - **Explorers’ Guild:** Occasionally contracts the Watch for delicate expeditions where secrecy is paramount.

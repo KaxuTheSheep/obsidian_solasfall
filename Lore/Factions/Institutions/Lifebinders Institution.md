@@ -6,29 +6,40 @@ tags:
   - Magic
   - Faction
 ---
-### Overview
-The Lifebinders are masters of biomancy, devoted to the preservation, restoration, and enhancement of life. Their craft encompasses healing the sick, bolstering warriors, and maintaining magical ecosystems within and beyond Solasfall. Unlike other arcane schools, their magic is focused on sustaining and nurturing rather than destruction or manipulation of the Veil.
-The Lifebinders are renowned for their symbiotic relationship with The Knights Orders, particularly the Order of the Ashen Oath, whom they enhance physically and magically. Additionally, they accompany explorers in hazardous expeditions within the Hollowdeep, providing vital care and sustenance over extended missions.
+*Masters of biological process manipulation — the preservation, restoration, and enhancement of living systems.*
 
-### Role & Benefits
-- **Knightly Support:** Physical and magical enhancements for knights of the Order of the Ashen Oath.
-- **Healing & Restoration:** Treatment of Injuries and diseases in the general populace.
-- **Expedition Aid:** Provision of magical sustenance, first aid, and protective wards during Hollowdeep explorations.
-- **Ecological Preservation:** Care and cultivation of rare flora and fauna used in biomantic research.
+## Overview
+The Lifebinders Institution studies the manipulation of biological processes through mana. Cellular repair, growth acceleration, metabolic regulation, and physical augmentation are all expressions of the same principle: mana increasing or decreasing the rate of processes already present in living tissue. Their work spans healing the injured, permanently augmenting the city's knights, and maintaining the magical ecosystems that sustain life within the Veil.
 
-### Structure
-- **Headmaster:** Oversees all facets of the school, sets curriculum, and maintains relations with other institutions and city authorities.
-- **Faculty:** Composed of senior Lifebinders specialising in combat support, healing, or magical ecology.
-- **Students:** Selected based on talent and aptitude rather than age. Students undergo rigorous trials in both theory and practical biomancy.
+Their discipline is among the most physically grounded of the institutions — every effect they produce corresponds directly to a biological process that exists independently of magic. This gives their work unusual reliability and precision compared to more abstract disciplines, at the cost of requiring deep anatomical and biological knowledge to practice effectively.
 
-### Public Perception & Culture
-The Lifebinders are widely adored by Solasfall’s populace. Their ability to heal Injuries and sickness renders them essential in both everyday life and extraordinary circumstances. Nobility and explorers alike seek their counsel, making the school influential beyond its magical contributions. Their culture emphasises meticulous care, patience, and respect for the sanctity of life, aligning their bureaucratic practices with the city’s overarching fatalistic and hierarchical systems.
+## Discipline
+Lifebinder magic operates by directing mana into living tissue and adjusting the rate of biological processes within it. Accelerating cellular repair closes wounds and fights infection. Increasing metabolic output enhances physical performance. Sustaining tissue under conditions that would otherwise cause deterioration preserves life in hostile environments.
 
-### Practices & Rituals
-- Admission is determined by demonstrated magical aptitude in biomancy.
-- Daily routines focus on maintaining the school’s gardens, laboratories, and infirmaries.
-- Specific rituals for the enhancement of knights are closely guarded and considered sacred.
+The same principles applied in reverse — decreasing cellular activity, suppressing metabolic function, slowing growth — are part of the curriculum but rarely discussed publicly. Their practical applications in medicine and preservation are legitimate. Their potential for harm is obvious and carefully monitored internally.
 
-### Headmaster
-The Lifebinders Institution is led by **Magistra Lysandra Veilwright**, a master of biomancy and life-enhancement magic. Lysandra oversees all healing programs, knight enhancement rituals for the Order of the Ashen Oath, and Hollowdeep expedition support. She ensures the institution’s botanical and magical ecosystems thrive while maintaining rigorous standards for students and faculty alike.
-Her guidance extends to collaborative projects with other Magic Institutions and coordination with The Royal Mages on mana-intensive healing and life-preserving wards. Lysandra’s reputation for both compassion and strict discipline has cemented the Lifebinders as one of Solasfall’s most respected and adored schools of magic.
+Lifebinders work across all living organisms. The underlying biological machinery of life is consistent enough across species — a consequence, some scholars theorise, of a panspermia event caused by ancient rift contact between worlds — that techniques developed on one organism transfer to others with adjustment rather than reinvention. Hollowdeep creatures present more significant challenges, as their biology has adapted to conditions with no surface equivalent, but the fundamental principles remain applicable.
+
+Permanent physical augmentation represents the most demanding expression of the discipline. Rather than temporarily accelerating a process, the mage must guide sustained biological change — coaxing tissue to grow, restructure, and stabilise into a new configuration. This requires extended sessions over time and considerable precision. The augmentations performed on the Order of the Ashen Oath knights are the most significant example of this work in Solasfall, and the specific techniques involved are among the institution's most closely guarded knowledge.
+
+## Role in Solasfall
+The Lifebinders are essential to the city's functioning at every level. They operate the primary healing facilities serving Solasfall's population, treat injuries and disease that would otherwise be fatal, and provide expedition support for Hollowdeep parties where conventional medicine cannot cover the biological hazards encountered in deeper nexuses.
+
+Their relationship with the Order of the Ashen Oath is the institution's most politically significant function. The permanent augmentations they provide make the Order's knights considerably more capable than unaugmented soldiers — a capability the institution controls entirely. This gives the Lifebinders quiet leverage over the city's most elite military force that is rarely acknowledged openly.
+
+They also maintain the agricultural ecosystems sustained by the Veil's sky layer, working alongside the Elemental Conflux to ensure soil, crop cycles, and managed flora within the city's extended boundary remain viable.
+
+## Relationships with Other Institutions
+Closest to the **Elemental Conflux** in day-to-day collaboration, particularly around agricultural management and environmental regulation within the Veil. The two institutions share significant infrastructure responsibility.
+
+Work regularly with **Runeweavers** on healing artefacts and expedition equipment incorporating biological enhancement effects.
+
+Relations with **Prismshapers** are professionally cordial but limited in overlap.
+
+## Culture & Reputation
+The Lifebinders are the most publicly beloved of the institutions. Their visibility in healing and their association with preservation rather than destruction means citizens encounter their work positively and regularly. This reputation is carefully maintained — the institution is acutely aware that public trust is one of its most valuable assets and governs its more ambiguous research accordingly.
+
+Internally the culture emphasises patience, precision, and a deep respect for biological complexity. Students are taught early that living systems resist crude intervention — effective Lifebinder work requires understanding the process being manipulated well enough to guide it rather than force it. Mages who treat biological manipulation as blunt application of mana tend to produce unstable results and are corrected quickly.
+
+## Headmaster
+**Magistra Lysandra Veilwright** leads the institution. See her NPC file for full details.

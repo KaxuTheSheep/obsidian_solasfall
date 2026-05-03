@@ -4,7 +4,7 @@ aliases:
   - Corvin
   - Headmaster of the Gloomshapers Institution
 ---
-**Official Title:** Archmagus of the Gloomshapers Institution  
+**Official Title:** Archmagus of the Prismshapers Institution  
 **Role:** Master of perception and shadowcraft, overseeing illusion, environmental manipulation, and morally ambiguous operations within the city and Hollowdeep.  
 **Status:** Alive  
 **Chronological Age:** 15  
@@ -28,7 +28,7 @@ aliases:
 - **Magistra Lysandra Veilwright** – Occasionally coordinates on life-support wards for explorers in extreme environments.
 
 ## Overview
-Corvin Duskveil embodies both mastery and menace. His Stitched form, marked with subtle seams and faintly glowing eyes, immediately signals otherness, feeding public unease. Yet within the Gloomshapers Institution, his meticulous training, precise execution of shadowcraft, and ethical pragmatism command respect from faculty and students alike.
+Corvin Duskveil embodies both mastery and menace. His Stitched form, marked with subtle seams and faintly glowing eyes, immediately signals otherness, feeding public unease. Yet within the Prismshapers Institution, his meticulous training, precise execution of shadowcraft, and ethical pragmatism command respect from faculty and students alike.
 
 He balances fear and respect carefully: outwardly, a professional, disciplined headmaster who treats students and colleagues with formal courtesy; privately, his presence and reputation project a quiet intimidation, reminding all that underestimation of a Stitched master is dangerous. His approach is shaped by decades of societal prejudice, crafting a personality both cautious and commanding.
 
@@ -50,6 +50,6 @@ Corvin is medium height with a perfectly symmetrical, older Stitched form — se
 |---|---|
 |Corvin can make shadows solid enough to trap a man.|Partially True|
 |He has stored fragments of past lives to strengthen his spells.|True|
-|The public avoids the Gloomshapers Institution at night because of him.|Partially True|
+|The public avoids the Prismshapers Institution at night because of him.|Partially True|
 |Corvin secretly manipulates Hollowdeep expeditions for personal study.|Partially True|
 |He can detach a body part and control it independently to spy.|Partially True|

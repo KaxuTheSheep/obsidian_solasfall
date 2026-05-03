@@ -26,7 +26,6 @@ Light, short blade for grappling, control, and inside-guard work.
 **Handedness:** One-Handed
 **Weight Class:** Light
 **Traits:** [[Close-Quarters]] Proficiency, Guarded(+1), Concealable, Silent
-
 ### Stiletto
 Thin thrusting blade specialised for targeting gaps and weak points.  
 **[[Damage Types|Damage]] Die:** 1d4 + [[Attributes|Grace]]  
@@ -36,17 +35,6 @@ Thin thrusting blade specialised for targeting gaps and weak points.
 **Handedness:** One-Handed  
 **Weight Class:** Light  
 **Traits:** Penetrating, Concealable, Silent
-
-### Boot Knife
-Small, concealable backup blade suited for quick draws.  
-**[[Damage Types|Damage]] Die:** 1d4 + [[Attributes|Grace]]  
-**[[Damage Types|Damage]] Type:** Cutting or Piercing  
-**[[Speed & Resolution|Speed]] (Base):** 12 + [[Attributes|Grace]]  
-**[[Range & Threat|Range]]:** +0.30 m  
-**Handedness:** One-Handed  
-**Weight Class:** Light  
-**Traits:** [[Close-Quarters]] Proficiency, Concealable, Nimble
-
 ### Parrying Dagger
 Short blade optimised for [[Off-Hand & Dual-Wielding|off-hand]] defence, binds and riposte.  
 **[[Damage Types|Damage]] Die:** 1d4 + [[Attributes|Grace]]  
@@ -56,29 +44,6 @@ Short blade optimised for [[Off-Hand & Dual-Wielding|off-hand]] defence, binds a
 **Handedness:** One-Handed 
 **Weight Class:** Light  
 **Traits:** Guarded(+2), [[Close-Quarters]] Proficiency
-
-### Karambit (Hook-Knife)
-Curved CQC blade optimised for hooking, control, and fast wrist work.  
-**[[Damage Types|Damage]] Die:** 1d4 + [[Attributes|Grace]]  
-**[[Damage Types|Damage]] Type:** Cutting  
-**[[Speed & Resolution|Speed]] (Base):** 13 + [[Attributes|Grace]]  
-**[[Range & Threat|Range]]:** +0.30 m  
-**Handedness:** One-Handed  
-**Weight Class:** Light  
-**Traits:**  Hooking, Concealable, [[Close-Quarters]] Proficiency
-**Special:** Designed for holds and hooks; interacts strongly with Grapple attempts (GMs: consider allowing +1 to grapple checks or a situational bonus when using the karambit for binding).
-
-### Kris
-Wavy-edged blade with a psychologically striking profile.  
-**[[Damage Types|Damage]] Die:** 1d4 + [[Attributes|Grace]]  
-**[[Damage Types|Damage]] Type:** Cutting  
-**[[Speed & Resolution|Speed]] (Base):** 12 + [[Attributes|Grace]]  
-**[[Range & Threat|Range]]:** +0.35 m  
-**Handedness:** One-Handed  
-**Weight Class:** Light  
-**Traits:**  Intimidating, Concealable  
-**Special — Bleeding & [[Sturdiness]] Pierce:** When a Kris deals [[Damage Types|damage]] that reduces a target’s **[[Sturdiness]]** to 0, you may choose to cause **Bleeding**. If you choose to cause Bleeding, ignore **1 point** of the target’s [[Sturdiness]] on that hit (i.e., reduce effective [[Sturdiness]] by 1 for [[Damage Types|damage]] resolution). Bleeding from Kris is thematic and relatively weak (low-severity, cumulative).
-
 ### Dirk
 Thicker traditional dagger for utility and combat.  
 **[[Damage Types|Damage]] Die:** 1d4 + ( [[Attributes|Might]] **or** [[Attributes|Grace]] )   
@@ -88,17 +53,6 @@ Thicker traditional dagger for utility and combat.
 **Handedness:** One-Handed  
 **Weight Class:** Light  
 **Traits:** Reliable, [[Close-Quarters]] Proficiency
-
-### Pesh-Kabz
-Heavy piercing knife designed to defeat layered protection.  
-**[[Damage Types|Damage]] Die:** 1d6 + [[Attributes|Might]]   
-**[[Damage Types|Damage]] Type:** Piercing  
-**[[Speed & Resolution|Speed]] (Base):** 11 + [[Attributes|Might]]   
-**[[Range & Threat|Range]]:** +0.35 m  
-**Handedness:** One-Handed  
-**Weight Class:** Light  
-**Traits:** Unbalanced, Concealable
-
 ### Kukri
 Forward-curved blade that trades reach for chopping power.  
 **[[Damage Types|Damage]] Die:** 1d6 + ( [[Attributes|Might]] **or** [[Attributes|Grace]] )   
@@ -108,15 +62,6 @@ Forward-curved blade that trades reach for chopping power.
 **Handedness:** One-Handed  
 **Weight Class:** Standard  
 **Traits:** Momentum, [[Close-Quarters]] Proficiency
-### Throwing Knife
-Balanced for ranged use as well as melee.  
-**[[Damage Types|Damage]] Die:** 1d4 + [[Attributes|Might]] **or** [[Attributes|Grace]]) (thrown or melee)
-**[[Damage Types|Damage]] Type:** Cutting or Piercing  
-**[[Speed & Resolution|Speed]] (Base):** 12 + ([[Attributes|Might]] **or** [[Attributes|Grace]])   
-**[[Range & Threat|Range]]:** +0.35 m (melee) / Thrown [[Range & Threat|range]] handled by ranged rules  
-**Handedness:** One-Handed  
-**Weight Class:** Light  
-**Traits:** Nimble, Concealable
 ## Swords
 Blades combining cutting and thrusting potential with balanced handling and flexible footwork.  
 Swords are defined by adaptability and defensive utility.
@@ -131,12 +76,12 @@ Swords are defined by adaptability and defensive utility.
 ## Axes
 ## Maces & Hammers
 ## Polearms
-## Staves & Rods
 ## Flails & Chains
 ## Bows
 Ranged weapons that fire arrows at [[Movement Types|distance]], trading melee capability for reach and precision. Bows require two hands to use and cannot be fired effectively in close quarters.
+Projectiles are following handled by [[Ranged Attacks|ranged]] rules.
 ### Shortbow 
-A light, flexible bow suited for quick draws and mobile combat.Effective at medium [[Range & Threat|range]], favoured by scouts and hunters. 
+A light, flexible bow suited for quick draws and mobile combat. Effective at medium [[Range & Threat|range]], favoured by scouts and hunters. 
 **[[Damage Types|Damage]] Die:** 1d6 + [[Attributes|Grace]] 
 **[[Damage Types|Damage]] Type:** Piercing 
 **[[Speed & Resolution|Speed]] (Base):** 13 + [[Attributes|Grace]] 
@@ -147,5 +92,16 @@ A light, flexible bow suited for quick draws and mobile combat.Effective at medi
 **Weight Class:** Light 
 **Ammunition:** Standard Arrows 
 **Traits:** Nimble, Silent
-
+## Throwing Weapons
+Balanced weapons designed to be hurled at range before closing or disengaging. Lighter and faster than bows but lacking sustained ranged output. Most can serve as melee fallbacks though rarely optimised for it.
+Throwing weapons use Grace or Might depending on the weapon. Thrown range is handled by [[Ranged Attacks|ranged]] rules.
+### Throwing Knife
+Balanced for ranged use as well as melee.  
+**[[Damage Types|Damage]] Die:** 1d4 + [[Attributes|Might]] **or** [[Attributes|Grace]]) (thrown or melee)
+**[[Damage Types|Damage]] Type:** Cutting or Piercing  
+**[[Speed & Resolution|Speed]] (Base):** 12 + ([[Attributes|Might]] **or** [[Attributes|Grace]])   
+**[[Range & Threat|Range]]:** +0.35 m (melee) / Thrown [[Range & Threat|range]] handled by ranged rules  
+**Handedness:** One-Handed  
+**Weight Class:** Light  
+**Traits:** Nimble, Concealable
 ## Uncategorised

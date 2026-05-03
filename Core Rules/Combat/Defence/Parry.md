@@ -27,7 +27,7 @@ Make a **Grace Test**:
 - You may continue Parrying without penalty this Round.
 ### Failure
 - You take full damage
-- Damage die is increased by one step
+- Damage die is increased by +2
 - All defensive stances end immediately
 ## Successive Parries
 If you continue Parrying:

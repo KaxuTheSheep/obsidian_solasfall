@@ -19,12 +19,19 @@ Small blades intended for [[Close-Quarters]] control, grappling, and precision s
 
 ### Dagger
 Light, short blade for grappling, control, and inside-guard work.
+
 **[[Damage Types|Damage]] Die:** 1d4 + [[Attributes|Grace]]
+
 **[[Damage Types|Damage]] Type:** Cutting or Piercing
+
 **[[Speed & Resolution|Speed]] (Base):** 12 + [[Attributes|Grace]]
+
 **[[Range & Threat|Range]]:** +0.35m
+
 **Handedness:** One-Handed
+
 **Weight Class:** Light
+
 **Traits:** [[Close-Quarters]] Proficiency, Concealable, Silent
 
 ### Stiletto

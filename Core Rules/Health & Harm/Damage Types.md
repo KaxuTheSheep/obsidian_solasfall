@@ -17,7 +17,7 @@ When a character takes damage, resolve it in this order:
 Damage is always tracked per hit. It does not stack before being applied unless a rule specifically states otherwise.
 
 ## Creature Interactions
-Damage types carry no universal rules for creature resistances or weaknesses. Individual creatures may have specific interactions with certain damage types — these are defined in their own stat blocks, not here.
+Damage types carry no universal rules for creature resistances or weaknesses. Individual creatures may have specific interactions with certain damage types — these are defined in their own stat blocks, not here. If a creature gets hit by more than 1 damage type that its weak to at the same time, both apply simultaneously. 
 
 ## Environmental Interactions
 Damage types define how [[attacks]] interact with the world beyond combat. These interactions are not exhaustive — GMs should apply them with [[Common]] sense and narrative logic.

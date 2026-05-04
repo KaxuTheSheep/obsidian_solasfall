@@ -13,26 +13,17 @@ All weapons share the following properties:
 **Traits:** Additional rules that modify how the weapon interacts with combat.
 
 # Weapons
-
 ## Daggers
 Small blades intended for [[Close-Quarters]] control, grappling, and precision strikes. Excel in tight spaces where longer weapons lose leverage.
-
 ### Dagger
 Light, short blade for grappling, control, and inside-guard work.
-
 **[[Damage Types|Damage]] Die:** 1d4 + [[Attributes|Grace]]
-
 **[[Damage Types|Damage]] Type:** Cutting or Piercing
-
 **[[Speed & Resolution|Speed]] (Base):** 12 + [[Attributes|Grace]]
-
 **[[Range & Threat|Range]]:** +0.35m
-
 **Handedness:** One-Handed
-
 **Weight Class:** Light
-
-**Traits:** [[Close-Quarters]] Proficiency, Concealable, Silent
+**Traits:** [[Close-Quarters]] Proficiency, Concealable, Silent, Nimble
 
 ### Stiletto
 Thin thrusting blade specialised for targeting gaps and weak points.
@@ -42,7 +33,7 @@ Thin thrusting blade specialised for targeting gaps and weak points.
 **[[Range & Threat|Range]]:** +0.35m
 **Handedness:** One-Handed
 **Weight Class:** Light
-**Traits:** Penetrating, Concealable, Silent
+**Traits:** Penetrating, Concealable, Silent, Nimble
 
 ### Parrying Dagger
 Short blade optimised for [[Off-Hand & Dual-Wielding|off-hand]] defence, binds, and riposte.
@@ -52,7 +43,7 @@ Short blade optimised for [[Off-Hand & Dual-Wielding|off-hand]] defence, binds, 
 **[[Range & Threat|Range]]:** +0.35m
 **Handedness:** One-Handed
 **Weight Class:** Light
-**Traits:** Guarded(+2), [[Close-Quarters]] Proficiency
+**Traits:** Guarded(+2), [[Close-Quarters]] Proficiency, Nimble
 
 ### Dirk
 Thicker traditional dagger for utility and combat.
@@ -62,7 +53,7 @@ Thicker traditional dagger for utility and combat.
 **[[Range & Threat|Range]]:** +0.40m
 **Handedness:** One-Handed
 **Weight Class:** Light
-**Traits:** Reliable, [[Close-Quarters]] Proficiency
+**Traits:** Reliable, [[Close-Quarters]] Proficiency, Nimble
 
 ### Kukri
 Forward-curved blade that trades reach for chopping power.
@@ -72,7 +63,7 @@ Forward-curved blade that trades reach for chopping power.
 **[[Range & Threat|Range]]:** +0.35m
 **Handedness:** One-Handed
 **Weight Class:** Standard
-**Traits:** Momentum, [[Close-Quarters]] Proficiency
+**Traits:** Momentum, [[Close-Quarters]] Proficiency, Nimble
 
 ## Swords
 Blades combining cutting and thrusting potential with balanced handling and flexible footwork. Swords are defined by adaptability and defensive utility.
@@ -145,15 +136,54 @@ Massive two-handed blade at the ceiling of sword damage. Slow but devastating, r
 **[[Range & Threat|Range]]:** +0.90m
 **Handedness:** Two-Handed
 **Weight Class:** Heavy
-**Traits:** Momentum
+**Traits:** Momentum, Cumbersome, Intimidating
 
 ## Axes
+Weapons built around committed, chopping force. Axes trade defensive versatility for raw impact, rewarding aggressive pressure and punishing hesitation. Defined by momentum, weight, and the ability to overwhelm rather than outmanoeuvre.
+### Hand Axe
+One-handed chopper, reliable and versatile enough to go two-handed for extra power. 
+**Damage Die:** 1d6 + Might / 1d8 + Might two-handed 
+**Damage Type:** Cutting 
+**Speed (Base):** 9 + Might
+**Range:** +0.55m 
+**Handedness:** Versatile 
+**Weight Class:** Standard 
+**Traits:** Reliable
+
+### Bearded Axe
+An extended lower blade designed to hook weapons and shields, pulling guards apart.
+**Damage Die:** 1d6 + Might 
+**Damage Type:** Cutting 
+**Speed (Base):** 8 + Might **
+Range:** +0.60m **
+Handedness:** One-Handed 
+**Weight Class:** Standard 
+**Traits:** Hooking, Sundering, Unbalanced
+
+### Dane Axe
+Long-hafted axe that threatens space like a polearm while hitting like an axe. 
+**Damage Die:** 1d8 + Might 
+**Damage Type:** Cutting **
+Speed (Base):** 7 + Might 
+**Range:** +1.10m 
+**Handedness:** Two-Handed 
+**Weight Class:** Heavy 
+**Traits:** Reach, Momentum, Sundering
+
+### Greataxe
+Maximum commitment, maximum damage. No defensive pretension whatsoever. **Damage Die:** 1d14 + Might 
+**Damage Type:** Cutting 
+**Speed (Base):** 6 + Might 
+**Range:** +0.80m 
+**Handedness:** Two-Handed 
+**Weight Class:** Heavy
+**Traits:** Momentum, Unbalanced, Cumbersome, Intimidating, Sundering
 ## Maces & Hammers
+Weapons designed to transfer force rather than cut through it. Where blades seek gaps and edges, maces and hammers render armour irrelevant through sheer impact — caving plate, shattering bone, and stunning through guard. Defined by reliability against protected targets and punishing weight on every swing.
 ## Polearms
 ## Flails & Chains
 ## Throwing Weapons
 Balanced weapons designed to be hurled at range before closing or disengaging. Lighter and faster than bows but lacking sustained ranged output. Most can serve as melee fallbacks though rarely optimised for it. Projectiles are handled by [[Ranged Attacks]] rules.
-
 ### Throwing Knife
 Balanced for ranged use as well as melee.
 **[[Damage Types|Damage]] Die:** 1d4 + ([[Attributes|Might]] or [[Attributes|Grace]])
@@ -166,7 +196,6 @@ Balanced for ranged use as well as melee.
 
 ## Bows
 Ranged weapons that fire arrows at [[Movement Types|distance]], trading melee capability for reach and precision. Bows require two hands to use and cannot be fired effectively in close quarters. Projectiles are handled by [[Ranged Attacks]] rules.
-
 ### Shortbow
 A light, flexible bow suited for quick draws and mobile combat. Effective at medium range, favoured by scouts and hunters.
 **[[Damage Types|Damage]] Die:** 1d6 + [[Attributes|Grace]]

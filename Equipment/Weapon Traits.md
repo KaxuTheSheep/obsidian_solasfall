@@ -39,10 +39,9 @@ When you deal [[Damage Types|damage]] to a target wearing [[Armour]], Choose to 
 ### Momentum
 Thrives on **committed, powerful swings**.  
 If you make a **[[Heavy Attack]]** with this weapon:
-- **Roll one additional [[Damage Types|damage]] die** of the weapon’s type ([[Heavy Attack]] [[Damage Types|damage]] + 1 more identical die).
+- **Roll one additional [[Damage Types|damage]] die** of the weapon’s type ([[Heavy Attack]] [[Damage Types|damage]] is calculated after the dice have rolled).
 - On the **next [[Rounds|round]]**, your **first [[Actions|action]]** has **–3 to its [[Speed & Resolution|Speed]]**
-Example:  
-A **1d8** Momentum weapon using [[Heavy Attack]] → **2d8** [[Damage Types|damage]]
+
 
 ### Crushing
 This weapon delivers force that can **break guard on impact**.
@@ -103,8 +102,7 @@ This weapon can be drawn or stowed as a **free [[Actions|action]]** once per [[R
 
 ### Versatile
 - Can be wielded with **one** or **two** hands.
-- Gains **+1 Step to [[Damage Types|Damage]] Die** when wielded with **two hands**  
-  (example: d6 → d8 → d10, depending on the weapon’s listed die progression).
+- When wielded with two hands, increase the damage die by one step (d6 → d8 → d10 → d12 → d14).
 
 ## Heavy
 - Requires committed body [[Movement Types|movement]] to use effectively.

@@ -31,7 +31,7 @@ Each point increases Control DN and Manifest DN.
 
 | Variable                  | Base        | Per Point                                        |
 | ------------------------- | ----------- | ------------------------------------------------ |
-| [[Damage Types\|Damage]]  | 1d6 fire    | +1 die step. After d12, adds 1d2 stepping up.    |
+| [[Damage Types\|Damage]]  | 1d6 fire    | +1 die step.                                     |
 | Radius                    | 1m          | +1m                                              |
 | [[Range & Threat\|Range]] | 15m         | +5m                                              |
 | Delivery                  | Lobbed ball | 2 points unlocks an alternative delivery method. |

@@ -180,6 +180,54 @@ Maximum commitment, maximum damage. No defensive pretension whatsoever. **Damage
 **Traits:** Momentum, Unbalanced, Cumbersome, Intimidating, Sundering
 ## Maces & Hammers
 Weapons designed to transfer force rather than cut through it. Where blades seek gaps and edges, maces and hammers render armour irrelevant through sheer impact — caving plate, shattering bone, and stunning through guard. Defined by reliability against protected targets and punishing weight on every swing.
+
+### Club
+The primitive baseline. Simple, heavy, and brutally effective for what it is.
+**Damage Die:** 1d6 + Might
+**Damage Type:** Blunt 
+**Speed (Base):** 9 + Might 
+**Range:** +0.50m 
+**Handedness:** One-Handed 
+**Weight Class:** Standard
+**Traits:** Crushing, Reliable
+
+### Mace
+The workhorse of the category. Purpose built to punish armoured targets through committed strikes. 
+**Damage Die:** 2d4 + Might
+**Damage Type:** Blunt 
+**Speed (Base):** 8 + Might **Range:** +0.55m 
+**Handedness:** One-Handed
+**Weight Class:** Standard
+**Traits:** Crushing, Sundering, Unbalanced
+
+### Morningstar
+A spiked mace head that threatens armoured and unarmoured targets alike through simultaneous blunt and piercing force. 
+**Damage Die:** 2d3 + Might
+**Damage Type:** Blunt and Piercing 
+**Speed (Base):** 8 + Might
+**Range:** +0.55m 
+**Handedness:** One-Handed
+**Weight Class:** Standard
+**Traits:** Crushing, Sundering, Unbalanced
+
+### War Hammer
+Purpose built armour cracker, versatile enough to go two-handed for devastating committed strikes.
+**Damage Die:** 2d4 + Might / 2d6 + Might two-handed
+**Damage Type:** Blunt 
+**Speed (Base):** 7 + Might 
+**Range:** +0.65m **
+Handedness:** Versatile **
+Weight Class:** Heavy 
+**Traits:** Crushing, Sundering, Unbalanced, Momentum
+
+### Maul
+Two-handed, maximum impact. Reliable devastation through sheer committed mass. **Damage Die:** 2d6 + Might 
+**Damage Type:** Blunt 
+**Speed (Base):** 6 + Might
+**Range:** +0.75m
+**Handedness:** Two-Handed 
+**Weight Class:** Heavy 
+**Traits:** Crushing, Sundering, Unbalanced, Momentum, Cumbersome, Intimidating
 ## Polearms
 ## Flails & Chains
 ## Throwing Weapons

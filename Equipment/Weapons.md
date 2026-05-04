@@ -221,7 +221,8 @@ Weight Class:** Heavy
 **Traits:** Crushing, Sundering, Unbalanced, Momentum
 
 ### Maul
-Two-handed, maximum impact. Reliable devastation through sheer committed mass. **Damage Die:** 2d6 + Might 
+Two-handed, maximum impact. Reliable devastation through sheer committed mass. 
+**Damage Die:** 2d6 + Might 
 **Damage Type:** Blunt 
 **Speed (Base):** 6 + Might
 **Range:** +0.75m

@@ -42,7 +42,6 @@ If you make a **[[Heavy Attack]]** with this weapon:
 - **Roll one additional [[Damage Types|damage]] die** of the weapon’s type ([[Heavy Attack]] [[Damage Types|damage]] is calculated after the dice have rolled).
 - On the **next [[Rounds|round]]**, your **first [[Actions|action]]** has **–3 to its [[Speed & Resolution|Speed]]**
 
-
 ### Crushing
 This weapon delivers force that can **break guard on impact**.
 When you hit a target who is currently **Blocking**, roll **1d6**.

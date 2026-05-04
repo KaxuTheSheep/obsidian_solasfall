@@ -25,7 +25,7 @@ Light, short blade for grappling, control, and inside-guard work.
 **[[Range & Threat|Range]]:** +0.35 m
 **Handedness:** One-Handed
 **Weight Class:** Light
-**Traits:** [[Close-Quarters]] Proficiency, Guarded(+1), Concealable, Silent
+**Traits:** [[Close-Quarters]] Proficiency, Concealable, Silent
 ### Stiletto
 Thin thrusting blade specialised for targeting gaps and weak points.  
 **[[Damage Types|Damage]] Die:** 1d4 + [[Attributes|Grace]]  

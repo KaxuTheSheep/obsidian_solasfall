@@ -13,7 +13,8 @@ When triggered, you perform a Dodge (movement, reflex, or evasive roll).
 When activated:
 - Your **Evasion increases by (Grace + Insight)**
 - This bonus lasts until actions of **Speed equal to (triggering attack Speed − 3)** have resolved
-- You may make one free reposition up to 2 meters during the Round
+- While the bonus active, any attack you make is at disadvantage.
+- You may make one free reposition up to 2 meters after the triggering attack.
 - This reposition does not provoke Reactions
 - You may freely adjust Facing as part of this movement
 

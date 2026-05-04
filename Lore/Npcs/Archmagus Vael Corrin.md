@@ -3,6 +3,9 @@ aliases:
   - Vael Corrin
   - Vael
   - Archmagus of the Riftconjurors Institution
+tags:
+  - Npc
+  - Lore
 ---
 **Official Title:** Archmagus of the Riftconjurors Institution  
 **Role:** Precise and methodical master of spatial magic, specializing in rift creation, Hollowdeep expeditions, and spatial research within Solasfall. Oversees all rift-related operations.  

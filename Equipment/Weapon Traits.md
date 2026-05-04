@@ -8,7 +8,7 @@ tags:
 When a creature **enters your melee threat [[Range & Threat|range]]**, you may make **one melee [[Attacks|attack]]** against them at the **expense of your Reaction**. This is called a **Reach Punish**.
 - The Punish resolves at the **same [[Speed & Resolution|Speed]]** the creature moves into [[Range & Threat|range]].
 - The defender uses the **[[Defensive Stances]]** they declared during [[Actions|action]] declaration. 
-    You may only perform **one Reach[[Rounds| Puni]]sh per [[Rounds|round]]**, even if multiple creatures enter your [[Range & Threat|range]].
+    You may only perform **one Reach Punish per [[Rounds|round]]**, even if multiple creatures enter your [[Range & Threat|range]].
 **Close-In Penalty:**  
 If an enemy is **within your [[Close-Quarters]] [[Range & Threat|range]]** (i.e., they are inside _your_ Natural [[Range & Threat|Range]]):
 - Your **melee [[Attacks|attack]] Tests** with this weapon are at **Disadvantage**
@@ -16,7 +16,7 @@ If an enemy is **within your [[Close-Quarters]] [[Range & Threat|range]]** (i.e.
 This penalty applies **only** while the enemy remains in your [[Close-Quarters]] [[Movement Types|distance]].
 
 ### Guarded(+N)
-The weapon’s hilt geometry, balance, and hand protection make it **exceptional for defensive redirection**.  
+The weapon geometry, balance, and hand protection make it **exceptional for defensive redirection**.  
 When you make a **[[Parry]]**, add **+N** to your **[[Parry]] Test** result.  
 This affects only **[[Parry]]**, not [[Attacks]] or [[Block]].
 
@@ -88,6 +88,8 @@ This weapon can be drawn or stowed as a **free [[Actions|action]]** once per [[R
 ### Cumbersome
 [[Drawing & Stowing|Drawing]] or [[Drawing & Stowing|stowing]] this weapon requires a **full [[Actions|action]]**.
 
+### Weapon Bind
+Binds on a parry allowing grapple #wip need grapple rules
 # Construction
 ### One-Handed
 - Can be wielded with one hand.

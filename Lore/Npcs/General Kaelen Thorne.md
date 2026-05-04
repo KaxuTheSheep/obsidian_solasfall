@@ -4,6 +4,7 @@ aliases:
   - Kaelen
 tags:
   - Npc
+  - Lore
 ---
 **Official Title:** General of the Ashen Oath  
 **Role:** Commander of Solasfall’s most zealous knight order, leading crusades into Hollowdeep and overseeing purges sanctioned by the Ashen Crown Sanctum.  

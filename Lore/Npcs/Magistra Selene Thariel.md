@@ -5,6 +5,7 @@ aliases:
   - Headmaster of the Common Arcanum
 tags:
   - Npc
+  - Lore
 ---
 **Official Title:** Headmaster of the Common Arcanum  
 **Role:** Specialist in illusion and shadow magic, responsible for foundational training of beginner mages and preparing them for specialised institutions. Focuses on magical theory, practical spellcraft, and subtle manipulation of perception.  

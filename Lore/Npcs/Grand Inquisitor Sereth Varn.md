@@ -4,6 +4,7 @@ aliases:
   - Sereth
 tags:
   - Npc
+  - Lore
 ---
 **Official Title:** Grand Inquisitor of the Order of the Veiled Watch  
 **Role:** Master of stealth, infiltration, and covert operations. Oversees the city’s secret intelligence, rooting out dissent, espionage, and threats to the Royal Advisors or King’s authority.  

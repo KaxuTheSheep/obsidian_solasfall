@@ -4,6 +4,7 @@ aliases:
   - Marius
 tags:
   - Npc
+  - Lore
 ---
 **Official Title:** General of the Gilded Chain  
 **Role:** Oversees the enforcement of tax collection, debt recovery, and legal adjudication within the Order. Ensures all operations adhere to strict protocol and maintains the city’s economic stability.  

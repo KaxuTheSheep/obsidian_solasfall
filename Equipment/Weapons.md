@@ -230,7 +230,55 @@ Two-handed, maximum impact. Reliable devastation through sheer committed mass.
 **Weight Class:** Heavy 
 **Traits:** Crushing, Sundering, Unbalanced, Momentum, Cumbersome, Intimidating
 ## Polearms
+Weapons built around reach, leverage, and controlling space. Polearms threaten enemies before they can close distance, punishing approach and rewarding positioning. All polearms have the Reach trait. The category ranges from the accessible spear to the oppressive pike and the devastating glaive — each demanding a different relationship with distance and commitment.
+### Spear
+The accessible entry to polearms. Versatile enough for one or two hands, reliable enough to learn on. 
+**Damage Die:** 1d6 + (Might or Grace) / 1d8 + (Might or Grace) two-handed 
+**Damage Type:** Piercing
+**Speed (Base):** 9 + (Might or Grace)
+**Range:** +1.50m
+**Handedness:** Versatile **Weight Class:** Standard **Traits:** Reach, Reliable
+
+### Pike
+A weapon built entirely around denying approach. Longer than anything else on the field — devastating at range, defenceless up close. 
+**Damage Die:** 1d8 + Might 
+**Damage Type:** Piercing 
+**Speed (Base):** 7 + Might 
+**Range:** +2.00m 
+**Handedness:** Two-Handed
+**Weight Class:** Heavy 
+**Traits:** Reach, Cumbersome
+
+### Bill
+A hooked polearm that rewards patience and control. Where other polearms strike, the bill traps — turning defence into dominance. 
+**Damage Die:** 1d8 + Might 
+**Damage Type:** Cutting 
+**Speed (Base):** 8 + Might 
+**Range:** +1.40m 
+**Handedness:** Two-Handed 
+**Weight Class:** Standard **Traits:** Reach, Hooking, Guarded(+2), Weapon Bind #wip
+
+### Halberd
+A heavy hybrid that combines axe, hook, and reach into a single punishing weapon. Offensively dominant, defensively minimal. 
+**Damage Die:** 1d10 + Might
+**Damage Type:** Cutting 
+**Speed (Base):** 7 + Might 
+**Range:** +1.60m 
+**Handedness:** Two-Handed 
+**Weight Class:** Heavy 
+**Traits:** Reach, Hooking, Momentum, Sundering
+
+### Glaive
+A long blade on a longer haft. Pure cutting reach at the damage ceiling — no defensive pretension, no subtlety. 
+**Damage Die:** 2d6 + Might
+**Damage Type:** Cutting
+**Speed (Base):** 6 + Might
+**Range:** +1.70m
+**Handedness:** Two-Handed 
+**Weight Class:** Heavy
+**Traits:** Reach, Momentum, Unbalanced, Cumbersome, Intimidating
 ## Flails & Chains
+
 ## Throwing Weapons
 Balanced weapons designed to be hurled at range before closing or disengaging. Lighter and faster than bows but lacking sustained ranged output. Most can serve as melee fallbacks though rarely optimised for it. Projectiles are handled by [[Ranged Attacks]] rules.
 ### Throwing Knife

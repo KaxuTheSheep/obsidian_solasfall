@@ -2,7 +2,9 @@
 aliases:
   - Corvin Duskveil
   - Corvin
-  - Headmaster of the Gloomshapers Institution
+  - Headmaster of the Prismshapers Institution
+tags:
+  - Npc
 ---
 **Official Title:** Archmagus of the Prismshapers Institution  
 **Role:** Master of perception and shadowcraft, overseeing illusion, environmental manipulation, and morally ambiguous operations within the city and Hollowdeep.  

@@ -3,6 +3,9 @@ aliases:
   - Ignar Flareborn
   - Ignar
   - Headmaster of the Conflux
+tags:
+  - Npc
+  - Lore
 ---
 **Official Title:** Archmagus of the Conflux  
 **Role:** Master of elemental mana, specializing in fire, lightning, air, and earth manipulation. Oversees combat training, environmental conditioning, and elemental applications for city defense and Hollowdeep expeditions. Struggles with water magic, relying on collaborative support for aquatic operations.  

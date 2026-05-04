@@ -5,6 +5,7 @@ aliases:
   - Headmaster of the Lifebinders Institution
 tags:
   - Npc
+  - Lore
 ---
 **Official Title:** Headmaster of the Lifebinders Institution  
 **Role:** Master of Biomancy and life-enhancement magic; oversees healing programs, knight enhancement rituals, and Hollowdeep expedition support.  

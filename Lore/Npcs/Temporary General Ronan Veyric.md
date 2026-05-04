@@ -4,6 +4,7 @@ aliases:
   - Ronan
 tags:
   - Npc
+  - Lore
 ---
 **Official Title:** Temporary General of the Iron Star  
 **Role:** Oversees the defensive and protective duties of the Iron Star, ensuring walls, sacred grounds, and city exits remain secure. Directs knights using essences and divinity-enhanced abilities to maintain order and rapid response capability.  

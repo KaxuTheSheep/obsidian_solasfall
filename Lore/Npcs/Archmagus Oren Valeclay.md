@@ -3,6 +3,9 @@ aliases:
   - Oren Valeclay
   - Oren
   - Headmaster of the Runeweavers Institution
+tags:
+  - Npc
+  - Lore
 ---
 **Official Title:** Archmagus of the Runeweavers Institution  
 **Role:** Master of runic and latent magic, overseeing creation of magical artefacts, runes, and circles. Trains students in precision, dexterity, and integration of Hollowdeep spells into practical magic.  

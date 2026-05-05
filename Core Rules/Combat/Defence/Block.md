@@ -13,8 +13,7 @@ While active:
 - Block only applies from your Facing direction
 ## Resolution Timing
 When Block is triggered:
-- Resolve at the Speed of the weapon or shield used
-- If multiple blocking tools exist, you choose which determines Speed and Block Value
+- Resolve at the Speed of the weapon with additions from your shield.
 ## Block Value
 When triggered:
 - Roll weapon damage die (or unarmed die if no weapon)

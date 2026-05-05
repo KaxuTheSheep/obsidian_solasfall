@@ -21,7 +21,7 @@ These values are listed as [[human]] baseline. [[Races|Race]] files modify Trave
 | Movement Type | Initiation [[Speed & Resolution\|Speed]] | Travel Rate                            | [[Actions\|Action]] Cost |
 | ------------- | ---------------------------------------- | -------------------------------------- | ------------------------ |
 | Walk          | 10                                       | 3m per [[Speed & Resolution\|Speed]]   | Free                     |
-| Run           | 6                                        | 8m per [[Speed & Resolution\|Speed]]   | Full                     |
+| Run           | 8                                        | 8m per [[Speed & Resolution\|Speed]]   | Full                     |
 | Climb         | 5                                        | 1.5m per [[Speed & Resolution\|Speed]] | Free                     |
 | Swim          | 4                                        | 1.5m per [[Speed & Resolution\|Speed]] | Free                     |
 | Burrow        | 2                                        | 1m per [[Speed & Resolution\|Speed]]   | Free                     |

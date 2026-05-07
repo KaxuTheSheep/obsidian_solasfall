@@ -12,7 +12,7 @@ All weapons share the following properties:
 **Weight Class:** Light, Standard, or Heavy.
 **Traits:** Additional rules that modify how the weapon interacts with combat.
 
-# Weapons
+Weapons built around articulated striking heads — ball, blade, or weight connected to haft or handle by chain or rope. Where maces transfer force through rigid structure, flails and chains exploit momentum and unpredictable arcing movement to defeat guard entirely. A skilled defender can read a sword or axe; a flail gives them nothing to read. The category rewards aggression and punishes hesitation, but the same articulation that confounds enemies makes precise defensive use nearly impossible.# Weapons
 ## Daggers
 Small blades intended for [[Close-Quarters]] control, grappling, and precision strikes. Excel in tight spaces where longer weapons lose leverage.
 ### Dagger
@@ -278,7 +278,55 @@ A long blade on a longer haft. Pure cutting reach at the damage ceiling — no d
 **Weight Class:** Heavy
 **Traits:** Reach, Momentum, Unbalanced, Cumbersome, Intimidating
 ## Flails & Chains
+Weapons built around articulated striking heads — ball, blade, or weight connected to haft or handle by chain or rope. Where maces transfer force through rigid structure, flails and chains exploit momentum and unpredictable arcing movement to defeat guard entirely. A skilled defender can read a sword or axe; a flail gives them nothing to read. The category rewards aggression and punishes hesitation, but the same articulation that confounds enemies makes precise defensive use nearly impossible.
 
+#### Flail
+A weighted ball on a short chain, built to confound guard and crack armour through sheer unpredictable momentum. 
+**Damage Die:** 1d10 + Might 
+**Damage Type:** Blunt 
+**Speed (Base):** 8 + Might 
+**Range:** +0.60m 
+**Handedness:** One-Handed 
+**Weight Class:** Standard 
+**Traits:** Unpredictable(+3), Volatile, Crushing, Unbalanced
+
+#### Tetsu Chigaki
+A heavy iron-studded club with a chained ball attached, offering two distinct strike modes in a single weapon. Fighters can flow freely between the rigid club end and the flailing chain end within the same round.
+
+**Club End** **Damage Die:** 1d8 + Might
+**Damage Type:** Blunt 
+**Speed (Base):** 8 + Might
+**Range:** +0.55m 
+**Weight Class:** Standard
+**Traits:** Crushing, Reliable
+
+**Flail End** **Damage Die:** 1d8 + Might 
+**Damage Type:** Blunt 
+**Speed (Base):** 7 + Might 
+**Range:** +0.90m **Weight Class:** Standard 
+**Traits:** Unpredictable(+2), Volatile, Crushing
+
+**Handedness:** Two-Handed Switching between ends is a free action declared at any point during the Declaration Phase. Both ends share the same attack action — a fighter may strike with the club end and follow with the flail end within the same round using normal action economy.
+
+#### Kusarigama
+A curved sickle blade with a weighted chain attached, combining close range cutting with reach, hooking, and weapon control. Without the chain the weapon handles like a light blade. With it, the fighter gains range and the ability to trap and bind. 
+**Damage Die:** 1d6 + Grace
+**Damage Type:** Cutting
+**Speed (Base):** 11 + Grace
+**Range:** +0.40m / +1.00m with chain
+**Handedness:** One-Handed 
+**Weight Class:** Light 
+**Traits:** Unpredictable(+1), Hooking, Weapon Bind, Reach (chain only), Nimble
+
+#### Meteor Hammer
+Two weighted iron balls connected by a long chain, used for sweeping strikes, wrapping, and binding at extreme range. The weapon threatens space like a polearm but with none of a polearm's structural rigidity — every strike is a commitment. 
+**Damage Die:** 1d10 + Might
+**Damage Type:** Blunt 
+**Speed (Base):** 7 + Might 
+**Range:** +1.80m
+**Handedness:** Two-Handed 
+**Weight Class:** Heavy 
+**Traits:** Unpredictable(+1), Volatile, Weapon Bind, Reach, Cumbersome
 ## Throwing Weapons
 Balanced weapons designed to be hurled at range before closing or disengaging. Lighter and faster than bows but lacking sustained ranged output. Most can serve as melee fallbacks though rarely optimised for it. Projectiles are handled by [[Ranged Attacks]] rules.
 ### Throwing Knife

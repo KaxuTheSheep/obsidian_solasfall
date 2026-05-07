@@ -20,6 +20,9 @@ The weapon geometry, balance, and hand protection make it **exceptional for defe
 When you make a **[[Parry]]**, add **+N** to your **[[Parry]] Test** result.  
 This affects only **[[Parry]]**, not [[Attacks]] or [[Block]].
 
+## Unpredictable(+N)
+The weapon's articulated striking head moves along an arc that rigid weapons cannot predict or cleanly intercept. When a creature attempts to Parry an attack made with this weapon, increase the DN of their Parry Test by N.
+
 ### Unbalanced
 Some [[Weapons]] are **difficult to control defensively** due to forward weight, uneven mass distribution, or recovery lag when deflecting force. They can hit hard, but are poor at redirecting incoming [[Attacks]].  
 When performing a **[[Parry]]** with an Unbalanced weapon:  
@@ -81,6 +84,9 @@ The weapon does not produce audible noise when striking flesh or moving through 
 ### Reliable
 The weapon’s balance and design make it consistent and trustworthy.
 - **Once per [[Rounds|round]]**, you may **reroll** a **[[Damage Types|damage]] die** showing **1**, taking the new result.
+
+### Volatile
+This weapon's damage output is unpredictable, capable of either glancing ineffectively or striking with devastating force. When rolling damage with this weapon, roll the damage die twice and take whichever result deviates furthest from the die's average. On a tie, reroll until the tie is broken.
 
 ### Nimble
 This weapon can be drawn or stowed as a **free [[Actions|action]]** once per [[Rounds|round]].

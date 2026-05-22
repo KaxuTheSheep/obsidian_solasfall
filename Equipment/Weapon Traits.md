@@ -117,9 +117,12 @@ Binds on a parry allowing grapple #wip need grapple rules
 
 ### Standard
 - No effect
+
 ### Light
 - Easy to manoeuvre in tight space.
 - Can be used while **[[Dodge]]** is active without penalty.
 - Can be **dual-wielded**.
 
-
+### Thrown
+Thrown weapons are tracked individually. Each weapon in your possession represents one available throw. Thrown weapons that miss or pass through a target land within the environment and can be retrieved after combat or during it at the GM's discretion.
+**Retrieval** #wip _Rules for mid-combat retrieval, weapon breakage chance, and recovery after encounter to be added._

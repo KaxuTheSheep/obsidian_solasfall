@@ -67,7 +67,6 @@ Forward-curved blade that trades reach for chopping power.
 
 ## Swords
 Blades combining cutting and thrusting potential with balanced handling and flexible footwork. Swords are defined by adaptability and defensive utility.
-
 ### Shortsword
 Compact one-handed blade sitting between dagger speed and full sword reach. Effective inside the guard and fast enough to press an advantage.
 **[[Damage Types|Damage]] Die:** 1d6 + ([[Attributes|Might]] or [[Attributes|Grace]])

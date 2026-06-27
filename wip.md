@@ -1,0 +1,1 @@
+size rules when monsters and npcs exist

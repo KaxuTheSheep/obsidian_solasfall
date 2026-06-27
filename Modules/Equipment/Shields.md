@@ -12,7 +12,7 @@ Shields modify **[[Block]]** and **[[Parry]]**, but do not affect melee [[Damage
 Each shield has:
 - A **[[Block]] Die** (how much [[Damage Types|damage]] it can prevent when Blocking)
 - A **[[Parry]] Adjustment** (how it affects finesse defence)
-- [[Speed & Resolution|A **S]]peed** (an addition used during blocking and parrying)
+- A **[[Speed & Resolution| Speed]]** (an addition used during blocking and parrying)
 - An **[[Evasion]] Modifier** (large shields make you easier to hit)
 
 ### Buckler
@@ -28,13 +28,13 @@ _A small fist-shield used to deflect rather than absorb._
 ### Heater
 _A balanced defensive shield offering reliable protection._
 
-| Property          | Effect                                                     |
-| ----------------- | ---------------------------------------------------------- |
-| **[[Block]] Die**     | **1d8** per [[Block]]                                          |
-| **[[Parry]]**         | No bonus or penalty                                        |
-| **[[Evasion]]**       | No change                                                  |
-| **[[Speed & Resolution\|Speed]]**         | 0                                                          |
-| **Weight / Bulk** | Medium — can be used in one hand without major restriction |
+| Property                          | Effect                                                       |
+| --------------------------------- | ------------------------------------------------------------ |
+| **[[Block]] Die**                 | **1d8** per [[Block]]                                        |
+| **[[Parry]]**                     | No bonus or penalty                                          |
+| **[[Evasion]]**                   | No change                                                    |
+| **[[Speed & Resolution\|Speed]]** | 0                                                            |
+| **Weight / Bulk**                 | Standard — can be used in one hand without major restriction |
 ### Pavise
 _A massive shield used to cover the body and control space._
 

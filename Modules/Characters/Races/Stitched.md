@@ -18,7 +18,6 @@ Stitched are clearly artificial, with visible seams, patches, and varying skin t
 # Soul
 A Stitched soul is not one coherent mana signature but many overlapping ones drawn from the lives stitched into their form. This composite signature is unstable in youth and gradually consolidates as one dominant pattern asserts itself. It is neither fully any of its parts nor something entirely new — it is all of them at once, slowly becoming one.
 # Stats
-**Size:** Medium 
 **Base Blood:** 10 
 **Movement:** Standard — see Movement Types for travel rates.
 # Languages

@@ -16,12 +16,11 @@ Widely mistrusted, especially by Humans and the faithful. Generally tolerated du
 # Appearance
 Pale, almost ghostly skin with shark-like teeth and long tongues. Pupil-less eyes that reflect Rift energy. Typically wear minimal, practical clothing suited for combat or climbing. Their bodies often show faint Rift markings or scars from transformation.
 # Stats
-**Size:** Medium 
 **Base Blood:** 8
 **Movement:** Deviates from standard — see below. 
 	**Walk Travel Rate:** 3.5m per Speed 
-	**Run Travel Rate:** 9.5m per Speed **
-	Crawl Travel Rate:** 2.5m per Speed 
+	**Run Travel Rate:** 9.5m per Speed
+	 **Crawl Travel Rate:** 2.5m per Speed 
 	**Swim Travel Rate:** 0.5m per Speed 
 	**Jump:** 4m base distance + Might (Height 1m base)
 # Languages

@@ -16,7 +16,6 @@ Humans are viewed as weak-bodied but admired for their perseverance and adaptabi
 # Appearance
 Murks are amphibious, with smooth, moist skin ranging from green-grey to slate-blue hues. Their eyes are large and reflective, adapted to dim light, and their limbs are long and flexible. Clothing tends toward fitted wraps and waterproof fabrics, designed for movement both on land and underwater. Many decorate their skin with bioluminescent inks or carved symbols that glow faintly in the dark.
 # Stats
-**Size:** Medium
 **Base Blood:** 8
 **Movement:** Standard — see Movement Types for travel rates.
 	**Run Travel Rate:** 6m per Speed 

@@ -82,7 +82,8 @@ The damage bonus increases to +7. The Prone resistance DN increases to 16.
 
 ## Toxin
 Prerequisites: Tongue Lash, Exclusive to Camouflage. 
-Cost: 3 Trait Points. #wip
+Cost: 3 Trait Points. 
+Your toxin glands mature, naturally producing Thornbleed venom. Your Tongue Lash attack now delivers Thornbleed on hit in addition to its normal damage. The target must make a Vitality Test DN 13 or suffer the effects of [[Toxins#Thornbleed|Thornbleed]]. This is a biological output — no vial or item is consumed. The venom replenishes naturally and has no usage limit.
 
 ## Camouflage
 Prerequisites: Exclusive to Toxin. 

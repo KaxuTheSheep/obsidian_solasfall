@@ -95,7 +95,29 @@ This weapon can be drawn or stowed as a **free [[Actions|action]]** once per [[R
 [[Drawing & Stowing|Drawing]] or [[Drawing & Stowing|stowing]] this weapon requires a **full [[Actions|action]]**.
 
 ### Weapon Bind
-Binds on a parry allowing grapple #wip need grapple rules
+A successful [[Parry]] with this weapon can lock the opponent's weapon, transitioning into a Bind. When you successfully Parry an attack, you may choose to initiate a Bind instead of a counter-attack.
+
+**Initiating a Bind:**
+- Declare Bind immediately after a successful Parry — no additional action cost.
+- The target gains the [[Conditions#Bound|Bound]] condition and the initiator enters the Binding state.
+
+**Binding State:** While Binding, the initiator:
+- Cannot use their binding weapon in any way — no attacks, Parry, or Block with it.
+- May still Dodge, use base Evasion, or Block with a shield.
+- May drop the Bind at any time as a free action, immediately recovering use of their weapon.
+
+**Maintaining a Bind:** Maintaining a Bind is free — no action cost each round. Both parties remain locked until one breaks free or the initiator drops it voluntarily.
+
+**Disarm Attempt:** While maintaining a Bind, the initiator may attempt to disarm the target as a **Full Action**:
+- **Opposed Roll:** Initiator's Might or Grace vs target's Might or Grace.
+- On success, the target's weapon is flung up to **10m** in a direction of the initiator's choosing. The Bound condition ends.
+- On failure, the Bind continues.
+
+**Ending a Bind:** A Bind ends when:
+- The initiator drops it voluntarily as a free action.
+- The target succeeds an escape attempt (Full Action, opposed Might or Grace).
+- A successful Disarm resolves.
+- The initiator is Stunned, Prone, or otherwise incapacitated.
 
 ### Draw
 This weapon requires the string to be drawn before firing. Drawing is assumed as part of the attack action and has no additional cost.

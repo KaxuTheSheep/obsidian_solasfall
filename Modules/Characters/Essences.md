@@ -12,7 +12,7 @@ Essences have a chance to manifest after killing a creature in the [[Hollowdeep]
 
 Skinwalkers interact with Essences differently from other characters and can eventually transform fully into the creatures they have consumed. See the Skinwalker class tree for details.
 # Essence Capacity
-Characters begin with a capacity of 1 Essence at level 0. Increasing capacity costs Progression Points. Skinwalkers can cheapen this cost through their class tree.
+Characters begin with a capacity of 1 Essence at level 0. Increasing capacity costs Trait Points. Skinwalkers can cheapen this cost through their class tree.
 # Effect
 After consumption, the Essence grants numeric bonuses to [[Attributes]], modifications to defensive stats, or new abilities reflecting the creature it originated from. Each Essence is unique. Players choose which character receives an Essence — no checks or contests are required.
 # Risks

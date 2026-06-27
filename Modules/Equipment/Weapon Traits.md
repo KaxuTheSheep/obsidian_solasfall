@@ -96,6 +96,20 @@ This weapon can be drawn or stowed as a **free [[Actions|action]]** once per [[R
 
 ### Weapon Bind
 Binds on a parry allowing grapple #wip need grapple rules
+
+### Draw
+This weapon requires the string to be drawn before firing. Drawing is assumed as part of the attack action and has no additional cost.
+- **Heavy Draw:** Applies when the weapon is Heavy class. Requires a minimum Might score to use effectively. If your Might is below this requirement, the weapon cannot be used effectively.
+
+### Loading Mechanism
+This weapon requires ammunition to be loaded before firing. For bows, nocking an arrow is assumed as part of the attack action and has no additional cost.
+- **Crossbow Loading:** The weapon must be reloaded between shots. Reloading costs a Half Action.
+
+### Collateral(N)
+The weapon's projectile carries enough force to punch through targets entirely. On a hit, the projectile continues through the target and may strike up to N additional creatures or objects directly behind them in the line of travel. Each subsequent target is resolved in order using the same attack roll. The projectile stops at the first miss or once N additional targets have been struck.
+
+### Tumbling(+N)
+The weapon tumbles in flight, presenting multiple impact faces on arrival. Add +N to the attack roll. However the unpredictable impact angle means damage output is erratic — this weapon also gains Volatile on all thrown attacks.
 # Construction
 ### One-Handed
 - Can be wielded with one hand.
@@ -124,5 +138,16 @@ Binds on a parry allowing grapple #wip need grapple rules
 - Can be **dual-wielded**.
 
 ### Thrown
-Thrown weapons are tracked individually. Each weapon in your possession represents one available throw. Thrown weapons that miss or pass through a target land within the environment and can be retrieved after combat or during it at the GM's discretion.
-**Retrieval** #wip _Rules for mid-combat retrieval, weapon breakage chance, and recovery after encounter to be added._
+This weapon is designed to be hurled at range. Thrown weapons resolve at their Initiation Speed — the projectile travels its full range in a single Speed instance and does not continue into subsequent steps. Any creature or object in the path is a valid hit candidate, resolved nearest first.
+**Retrieval:**
+- Thrown weapons that miss land at their maximum range or at the first obstruction along their path. Moving to their location is sufficient to retrieve them — no action cost.
+- Thrown weapons that hit an unarmoured or lightly armoured target (Leather and below) remain retrievable. Moving adjacent to a downed target is sufficient to retrieve them — no action cost.
+- Thrown weapons that hit a target wearing Chainmail or above are not automatically destroyed but may be damaged or awkwardly lodged at GM discretion.
+- Thrown weapons are only destroyed on a Critical Failure or in extreme circumstances at GM discretion (striking solid stone, structural impacts, etc).
+
+### Ranged
+This weapon fires projectiles at range. All attacks made with this weapon follow the [[Ranged Attacks]] rules for projectile resolution, range penalties, cover, and facing.
+**Retrieval:**
+- Arrows and bolts that miss are recoverable after combat unless the GM determines the environment makes retrieval impossible.
+- Arrows and bolts that strike a target wearing Chainmail or above are destroyed on impact.
+- Arrows and bolts that strike unarmoured or lightly armoured targets (Leather and below) are recoverable after combat. Moving adjacent to a downed target is sufficient to retrieve them — no action cost.

@@ -328,30 +328,133 @@ Two weighted iron balls connected by a long chain, used for sweeping strikes, wr
 **Weight Class:** Heavy 
 **Traits:** Unpredictable(+1), Volatile, Weapon Bind, Reach, Cumbersome
 ## Throwing Weapons
-Balanced weapons designed to be hurled at range before closing or disengaging. Lighter and faster than bows but lacking sustained ranged output. Most can serve as melee fallbacks though rarely optimised for it. Projectiles are handled by [[Ranged Attacks]] rules.
+Balanced weapons designed to be hurled at range before closing or disengaging. Lighter and faster than bows but with significantly shorter effective range and limited ammunition — each weapon in your possession represents one available throw. Most can serve as melee fallbacks, though rarely optimised for it.
+All throwing weapons resolve in a single Speed instance. See [[Ranged Attacks]] for hit resolution, cover, and facing rules.
+
 ### Throwing Knife
-Balanced for ranged use as well as melee.
+Balanced for ranged use as well as melee. Light enough to carry several and fast enough to throw in quick succession.
 **[[Damage Types|Damage]] Die:** 1d4 + ([[Attributes|Might]] or [[Attributes|Grace]])
-**[[Damage Types|Damage]] Type:** Cutting or Piercing
+**[[Damage Types|Damage]] Type:** Cutting or Piercing 
 **[[Speed & Resolution|Speed]] (Base):** 12 + ([[Attributes|Might]] or [[Attributes|Grace]])
-**[[Range & Threat|Range]]:** +0.35m (melee) / Thrown range handled by [[Ranged Attacks]] rules
+**Thrown Range:** 10m 
+**Minimum [[Range & Threat|Range]]:** 1m 
+**Handedness:** One-Handed 
+**Weight Class:** Light
+**Traits:** Thrown, [[Close-Quarters]] Proficiency, Nimble, Concealable
+
+### Francisca
+A multi-pointed throwing axe with blade, back spike, and hand spike arranged so any face can embed on impact. Tumbles in flight, making it difficult to predict and deflect.
+**[[Damage Types|Damage]] Die:** 1d6 + [[Attributes|Might]]
+**[[Damage Types|Damage]] Type:** Cutting or Piercing
+**[[Speed & Resolution|Speed]] (Base):** 10 + [[Attributes|Might]]
+**Thrown Range:** 12m
+**Minimum [[Range & Threat|Range]]:** 2m 
+**Handedness:** One-Handed 
+**Weight Class:** Standard
+**Traits:** Thrown, Tumbling(+4), Nimble
+
+### Javelin
+A light throwing spear with enough length to serve as a melee fallback. Outranges every other throwing weapon significantly and carries enough force to be threatening at distance.
+**[[Damage Types|Damage]] Die:** 1d6 + ([[Attributes|Might]] or [[Attributes|Grace]])
+**[[Damage Types|Damage]] Type:** Piercing
+**[[Speed & Resolution|Speed]] (Base):** 11 + ([[Attributes|Might]] or [[Attributes|Grace]]) 
+**Thrown Range:** 20m
+**Minimum [[Range & Threat|Range]]:** 2m
 **Handedness:** One-Handed
 **Weight Class:** Light
-**Traits:** Nimble, Concealable
+**Traits:** Thrown, Reach, Nimble
+
+### Throwing Axe
+A small, purpose-built throwing axe with a lighter head than its melee counterpart. Designed to be carried in multiples and thrown in quick succession rather than used in close quarters.
+**[[Damage Types|Damage]] Die:** 1d4 + [[Attributes|Might]]
+**[[Damage Types|Damage]] Type:** Cutting
+**[[Speed & Resolution|Speed]] (Base):** 11 + [[Attributes|Might]]
+**Thrown Range:** 15m 
+**Minimum [[Range & Threat|Range]]:** 2m
+**Handedness:** One-Handed
+**Weight Class:** Light 
+**Traits:** Thrown, Nimble
 
 ## Bows
-Ranged weapons that fire arrows at [[Movement Types|distance]], trading melee capability for reach and precision. Bows require two hands to use and cannot be fired effectively in close quarters. Projectiles are handled by [[Ranged Attacks]] rules.
+Ranged weapons that fire arrows at distance, trading melee capability for reach and precision. Bows require two hands to use and cannot be fired effectively in close quarters. Projectiles are handled by [[Ranged Attacks]] rules.
 ### Shortbow
 A light, flexible bow suited for quick draws and mobile combat. Effective at medium range, favoured by scouts and hunters.
-**[[Damage Types|Damage]] Die:** 1d6 + [[Attributes|Grace]]
+**[[Damage Types|Damage]] Die:** 1d6 + [[Attributes|Grace]] 
 **[[Damage Types|Damage]] Type:** Piercing
-**[[Speed & Resolution|Speed]] (Base):** 13 + [[Attributes|Grace]]
-**Arrow Travel:** 15m per [[Speed & Resolution|Speed]]
+**[[Speed & Resolution|Speed]] (Base):** 13 + [[Attributes|Grace]] 
+**Arrow Travel:** 15m per [[Speed & Resolution|Speed]] 
 **Optimal [[Range & Threat|Range]]:** 50m
 **Minimum [[Range & Threat|Range]]:** 3m
 **Handedness:** Two-Handed
 **Weight Class:** Light
 **Ammunition:** Standard Arrows
-**Traits:** Nimble, Silent
+**Traits:** Ranged, Draw, Nimble, Silent
 
-## Uncategorised
+### Recurve
+A shorter bow with recurved limbs that store and release energy efficiently. Trades peak range for better performance at mid-range distances and remains manoeuvrable enough for mobile fighters.
+**[[Damage Types|Damage]] Die:** 1d8 + [[Attributes|Grace]]
+**[[Damage Types|Damage]] Type:** Piercing 
+**[[Speed & Resolution|Speed]] (Base):** 12 + [[Attributes|Grace]]
+**Arrow Travel:** 18m per [[Speed & Resolution|Speed]] 
+**Optimal [[Range & Threat|Range]]:** 45m 
+**Minimum [[Range & Threat|Range]]:** 3m 
+**Handedness:** Two-Handed 
+**Weight Class:** Light 
+**Ammunition:** Standard Arrows
+**Traits:** Ranged, Draw, Nimble, Silent
+
+### Longbow
+A tall, powerful bow demanding technique and training. Significantly outranges the shortbow and hits harder, but slower to draw and unwieldy at close distance.
+**[[Damage Types|Damage]] Die:** 1d10 + [[Attributes|Grace]] 
+**[[Damage Types|Damage]] Type:** Piercing
+**[[Speed & Resolution|Speed]] (Base):** 10 + [[Attributes|Grace]] 
+**Arrow Travel:** 22m per [[Speed & Resolution|Speed]] 
+**Optimal [[Range & Threat|Range]]:** 80m
+**Minimum [[Range & Threat|Range]]:** 5m
+**Handedness:** Two-Handed 
+**Weight Class:** Standard
+**Ammunition:** Standard Arrows 
+**Traits:** Ranged, Draw, Silent
+
+### Warbow
+An extreme draw-weight bow built for devastating power at long range. Requires exceptional physical strength to use and is genuinely dangerous to the wielder if anything closes distance. Punches through multiple targets.
+**[[Damage Types|Damage]] Die:** 1d12 + [[Attributes|Might]] 
+**[[Damage Types|Damage]] Type:**Piercing
+**[[Speed & Resolution|Speed]] (Base):** 8 + [[Attributes|Grace]]
+**Arrow Travel:** 28m per [[Speed & Resolution|Speed]] 
+**Optimal [[Range & Threat|Range]]:** 120m
+**Minimum [[Range & Threat|Range]]:** 8m **
+Handedness:** Two-Handed 
+**Weight Class:** Heavy 
+**Might Requirement:** 4 
+**Ammunition:** Heavy Arrows
+**Traits:** Ranged, Draw, Heavy Draw, Collateral(2), Cumbersome, Intimidating
+
+## Crossbows
+Mechanical ranged weapons that use a cocking mechanism to hold the draw, allowing the wielder to aim without physical effort. Slower to reload than bows but require less technique to fire accurately. Projectiles are handled by [[Ranged Attacks]] rules.
+### Light Crossbow
+A compact, one-handed crossbow suited for confined spaces and quick deployment. Easier to manage than a full crossbow but limited in power and range.
+
+**[[Damage Types|Damage]] Die:** 1d8 + [[Attributes|Grace]]
+**[[Damage Types|Damage]] Type:** Piercing
+**[[Speed & Resolution|Speed]] (Base):** 11 + [[Attributes|Grace]] 
+**Bolt Travel:** 20m per [[Speed & Resolution|Speed]] 
+**Optimal [[Range & Threat|Range]]:** 60m
+**Minimum [[Range & Threat|Range]]:** 1m
+**Handedness:** One-Handed 
+**Weight Class:** Light
+**Ammunition:** Standard Bolts 
+**Traits:** Ranged, Loading Mechanism, Crossbow Loading, Nimble
+
+### Heavy Crossbow
+A large, powerful crossbow with a mechanical cocking mechanism. Slower to reload and unwieldy but punishing at range, capable of punching through multiple targets.
+**[[Damage Types|Damage]] Die:** 1d12 + [[Attributes|Grace]] 
+**[[Damage Types|Damage]]Type:** Piercing
+**[[Speed & Resolution|Speed]] (Base):** 9 + [[Attributes|Grace]] 
+**Bolt Travel:** 25m per [[Speed & Resolution|Speed]] 
+**Optimal [[Range & Threat|Range]]:** 90m **
+Minimum [[Range & Threat|Range]]:** 1m 
+**Handedness:** Two-Handed
+**Weight Class:** Heavy
+**Ammunition:** Heavy Bolts
+**Traits:** Ranged, Loading Mechanism, Crossbow Loading, Collateral(3), Cumbersome
